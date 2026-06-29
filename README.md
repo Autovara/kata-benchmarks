@@ -2,6 +2,11 @@
 
 This repository is the canonical benchmark registry for PromptForge.
 
+PromptForge uses this repo together with:
+
+- `PromptForge`: evaluation engine and submission logic
+- `promptforge-bot`: GitHub orchestration and PR automation
+
 It stores benchmark definitions and frontier state as versioned files so prompt
 evaluation stays transparent, reviewable, and reproducible.
 

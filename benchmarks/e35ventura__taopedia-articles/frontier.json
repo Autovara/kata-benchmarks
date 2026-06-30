@@ -1,0 +1,24 @@
+{
+  "schema_version": 3,
+  "repo_ref": "/tmp/taopedia-articles",
+  "eval_pack": "/home/ubuntu/Videos/study/kata-benchmarks/benchmarks/e35ventura__taopedia-articles",
+  "modes": {
+    "contributor": {
+      "baseline_artifact": "/home/ubuntu/Videos/study/kata-benchmarks/benchmarks/e35ventura__taopedia-articles/agents/contributor/baseline",
+      "frontier_artifact": "/home/ubuntu/Videos/study/kata-benchmarks/benchmarks/e35ventura__taopedia-articles/agents/contributor/frontier",
+      "primary_tasks": [
+        "alpha-distribution-ratio-halving-index-formula-12377"
+      ],
+      "holdout_tasks": [],
+      "promotion_margin_points": 3.0,
+      "evaluator_version": "2026-06-29.v1",
+      "baseline_artifact_hash": "4415764afcf606c71446e902e0434a52d6e05477bab9876712ac9c8a44ab470f",
+      "frontier_artifact_hash": "c1c2b3fb080542edce4ff02af359a2798fa8311110e890909dd59bcc6ca31140",
+      "primary_pool_fingerprint": "bb8e3bb1f2bc27859fe54ece3069af75a0150cb889e2cdfae9fc2493ee7b031b",
+      "holdout_pool_fingerprint": null,
+      "frontier_updated_at": "2026-06-30T01:52:07.902917+00:00",
+      "frontier_source": "kata-init"
+    }
+  },
+  "updated_at": "2026-06-30T01:52:07.902952+00:00"
+}

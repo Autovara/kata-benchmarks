@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "registry_name": "kata-benchmarks",
+  "benchmarks_dir": "benchmarks",
+  "active_repo_packs": [
+    "e35ventura__taopedia-articles"
+  ],
+  "default_repo_pack": "e35ventura__taopedia-articles"
+}

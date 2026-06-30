@@ -1,26 +1,26 @@
 {
   "schema_version": 3,
-  "repo_ref": "/tmp/taopedia-articles",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles@8c3a71d0863542da75f797b3d54c28da927ef743",
   "eval_pack": "/home/ubuntu/Videos/study/kata-benchmarks/benchmarks/e35ventura__taopedia-articles",
   "modes": {
     "contributor": {
       "baseline_artifact": "/home/ubuntu/Videos/study/kata-benchmarks/benchmarks/e35ventura__taopedia-articles/agents/contributor/baseline",
       "frontier_artifact": "/home/ubuntu/Videos/study/kata-benchmarks/benchmarks/e35ventura__taopedia-articles/agents/contributor/frontier",
       "primary_tasks": [
-        "alpha-distribution-ratio-halving-index-formula-12377"
+        "adr-halving-index-formula"
       ],
       "holdout_tasks": [
-        "emission-root-subnet-boundary-12374"
+        "emission-disabled-subnet-redistribution"
       ],
       "promotion_margin_points": 3.0,
       "evaluator_version": "2026-06-29.v1",
-      "baseline_artifact_hash": "4415764afcf606c71446e902e0434a52d6e05477bab9876712ac9c8a44ab470f",
-      "frontier_artifact_hash": "c1c2b3fb080542edce4ff02af359a2798fa8311110e890909dd59bcc6ca31140",
-      "primary_pool_fingerprint": "bb8e3bb1f2bc27859fe54ece3069af75a0150cb889e2cdfae9fc2493ee7b031b",
-      "holdout_pool_fingerprint": "da67e2ab6b092b86fbc73755b3495351ec813e03b9f66335f4948c180250e3f9",
-      "frontier_updated_at": "2026-06-30T02:31:59.729773+00:00",
+      "baseline_artifact_hash": "c495b959ac02b591627e63cfd7bbf6e8731c985c760269aa132b7f54eef830e4",
+      "frontier_artifact_hash": "e97243c6ce15d17810d340a89dd06ce0ab196fe458bb5a03e69f7afba84ad0cc",
+      "primary_pool_fingerprint": "ba698dc472b18891bf2cb40c27b6971828df97fa784737ccbb2be1fe77bb4a62",
+      "holdout_pool_fingerprint": "1b82148addcaa54223e33ab6cc58ecd976306a61021014bb4d14db010204a058",
+      "frontier_updated_at": "2026-06-30T13:28:10.982011+00:00",
       "frontier_source": "kata-init"
     }
   },
-  "updated_at": "2026-06-30T02:31:59.729810+00:00"
+  "updated_at": "2026-06-30T13:28:10.982035+00:00"
 }

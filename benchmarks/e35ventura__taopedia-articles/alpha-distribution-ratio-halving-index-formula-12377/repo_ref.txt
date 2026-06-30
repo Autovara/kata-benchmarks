@@ -1,2 +1,0 @@
-# Repo source for this eval task.
-https://github.com/e35ventura/taopedia-articles.git@6917127501bc927d361155bbd442503b90cdecb6

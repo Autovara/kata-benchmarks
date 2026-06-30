@@ -14,6 +14,14 @@ This repo should stay private for the production validator so hidden holdout
 tasks remain hidden. Visible benchmark examples can be mirrored separately
 later if needed.
 
+Recommended production visibility split:
+
+- keep this registry private
+- keep live primary and holdout tasks private
+- keep frontier state private here as the validator source of truth
+- publish the current king separately into the public `kata` repo
+- export only fully retired tasks into the public `kata/public_archive/`
+
 Current MVP scope:
 
 - upstream SN74/Gittensor may contain many registered target repos
@@ -102,6 +110,13 @@ uv run python -m kata frontier init \
 
 5. Commit benchmark changes in this registry repo.
 6. Run evaluation or challenge flows from Kata against the same pack id.
+
+Retired-task export note:
+
+- do not export a task publicly while it is still in any live primary or
+  holdout pool
+- export only after the validator has switched to a new pool version and no
+  in-flight duel still uses the old pool
 
 ## Rules
 

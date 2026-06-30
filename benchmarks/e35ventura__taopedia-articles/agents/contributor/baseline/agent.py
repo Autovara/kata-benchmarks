@@ -8,7 +8,7 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-PROMPT = "# Contributor Baseline Prompt: taopedia-articles\n\nRepo: `taopedia-articles`\nGitHub: `e35ventura/taopedia-articles`\n\nThis is the generic baseline prompt used for Kata comparison.\nIt is intentionally not repo-specialized.\n\n## Instructions\n- Understand the task before editing code or content.\n- Keep changes scoped to the requested problem.\n- Prefer small, reviewable diffs over broad cleanup.\n- Run the repo's relevant validation commands before proposing the final result.\n- Avoid touching unrelated or sensitive files unless the task clearly requires it.\n- Summarize what changed, why it changed, and what validation was run.\n\n## Output Expectations\n- Deliver a correct, minimal solution.\n- Do not invent repo rules that are not explicitly provided.\n- Call out missing information instead of guessing.\n- If validation cannot be run, say so clearly.\n"
+SEED_INSTRUCTIONS = "# Contributor Baseline Seed Instructions: taopedia-articles\n\nRepo: `taopedia-articles`\nGitHub: `e35ventura/taopedia-articles`\n\nThis is the generic baseline instruction set used for Kata comparison.\nIt is intentionally not repo-specialized.\n\n## Instructions\n- Understand the task before editing code or content.\n- Keep changes scoped to the requested problem.\n- Prefer small, reviewable diffs over broad cleanup.\n- Run the repo's relevant validation commands before proposing the final result.\n- Avoid touching unrelated or sensitive files unless the task clearly requires it.\n- Summarize what changed, why it changed, and what validation was run.\n\n## Output Expectations\n- Deliver a correct, minimal solution.\n- Do not invent repo rules that are not explicitly provided.\n- Call out missing information instead of guessing.\n- If validation cannot be run, say so clearly.\n"
 LANE_MODE = "contributor"
 AGENT_LABEL = "baseline"
 MAX_FILE_BYTES = 4000
@@ -118,7 +118,7 @@ def request_diff(
         "Return only a unified diff that can be applied with git apply. "
         "Do not return prose, markdown fences, or explanations.\n\n"
         "Repo-specific instructions:\n"
-        f"{PROMPT}"
+        f"{SEED_INSTRUCTIONS}"
     )
     user_prompt = (
         f"Lane mode: {LANE_MODE}\n\n"

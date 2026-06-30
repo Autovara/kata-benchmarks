@@ -1,12 +1,17 @@
 {
   "schema_version": 1,
   "repo_pack": "e35ventura__taopedia-articles",
-  "target_visible_tasks": 1,
-  "target_holdout_tasks": 1,
+  "target_visible_tasks": 10,
+  "target_holdout_tasks": 10,
   "category_targets": {
-    "content-fix": 2
+    "content": 20,
+    "taopedia": 20,
+    "content-fix": 14,
+    "content-addition": 6,
+    "article-structure": 2,
+    "source-quality": 1
   },
-  "similarity_threshold": 0.92,
-  "max_scope_concentration": 0.8,
-  "notes": "Bootstrap MVP lane with one visible task and one hidden holdout task."
+  "similarity_threshold": 0.9,
+  "max_scope_concentration": 0.75,
+  "notes": "Initial taopedia lane target: 10 public primary + 10 private holdout tasks from historical single-article changes."
 }

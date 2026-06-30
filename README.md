@@ -1,58 +1,50 @@
 # kata-benchmarks
 
-This repository is the canonical benchmark registry for Kata.
+This repository is the public benchmark registry for Kata.
 
-Kata uses this repo together with:
+It stores the benchmark tasks that miners are allowed to see, plus the public
+frontier manifest that describes the live public pool policy.
 
-- `kata`: evaluation engine and submission logic
-- `kata-bot`: GitHub orchestration and PR automation
+It does not store the current king agent code. The public king lives in the
+`kata` repo under `kings/<repo-pack>/<mode>/`.
 
-It stores benchmark definitions and frontier state as versioned files so
-repo-specific agent evaluation stays transparent, reviewable, and reproducible.
+## Repo Split
 
-This repo should stay private for the production validator so hidden holdout
-tasks remain hidden. Visible benchmark examples can be mirrored separately
-later if needed.
+The live system is meant to be split like this:
 
-Recommended production visibility split:
+- public `kata`
+  - miner PRs under `submissions/`
+  - public current king under `kings/`
+- public `kata-benchmarks`
+  - public benchmark tasks
+  - `frontier.json`
+- private `kata-benchmarks-private`
+  - hidden holdout tasks
+  - `frontier.private.json`
 
-- keep this registry private
-- keep live primary and holdout tasks private
-- keep frontier state private here as the validator source of truth
-- publish the current king separately into the public `kata` repo
-- export only fully retired tasks into the public `kata/public_archive/`
+GitHub cannot hide only one folder inside a public repo. If you want miners to
+see public tasks and the current king, but not the hidden holdouts, you need a
+separate private benchmark repo.
 
-Current MVP scope:
+## What Lives Here
 
-- upstream SN74/Gittensor may contain many registered target repos
-- Kata does not need to activate all of them on day one
-- this registry currently exposes one active competition pack:
-  - `e35ventura__taopedia-articles`
-
-That means miners compete on one repo-pack first, and more packs can be added
-later by adding benchmark content here and then extending the registry metadata.
-
-## Purpose
-
-This repo is for benchmark source-of-truth data:
+This public repo is the source of truth for visible benchmark data:
 
 - repo benchmark packs
-- task definitions
+- public task definitions
 - task validation scripts
 - path-scope rules
-- task weights
-- frontier manifests
-- baseline and frontier agent files
+- public pool metadata
+- public `frontier.json`
 
-It is not for runtime logs or temporary eval artifacts. Kata writes those
-to `runs/` in the evaluator workspace.
+The current king code does not belong here.
 
 ## Layout
 
 ```text
 benchmarks/
   <repo-pack>/
-    benchkit-pack.json       # pack targets and diversity settings
+    benchkit-pack.json
     <task-id>/
       task.md
       repo_ref.txt
@@ -60,68 +52,88 @@ benchmarks/
       rubric.md
       allowed_paths.txt
       forbidden_paths.txt
-      benchkit.json          # maintainer metadata for kata-benchkit
+      benchkit.json
       task_weight.txt        # optional
     frontier.json
-    agents/
-      contributor/
-        baseline/
-          agent.py
-          agent_manifest.json
-        frontier/
-          agent.py
-          agent_manifest.json
-      reviewer/
-        baseline/
-          agent.py
-          agent_manifest.json
-        frontier/
-          agent.py
-          agent_manifest.json
 ```
 
-The registry root is identified by
-`kata-benchmark-registry.json`. Kata uses that marker to discover the
-registry automatically or via `KATA_BENCHMARKS_ROOT`.
+Private registry example:
+
+```text
+benchmarks/
+  <repo-pack>/
+    <private-task-id>/
+      task.md
+      repo_ref.txt
+      checks.sh
+      rubric.md
+      allowed_paths.txt
+      forbidden_paths.txt
+      benchkit.json
+      task_weight.txt        # optional
+    frontier.private.json
+```
+
+The registry root is identified by `kata-benchmark-registry.json`.
+
+## Current Live Policy
+
+For the current Taopedia lane:
+
+- `frontier.json` describes the public side
+- public task selection is `random_live`
+- `primary_task_count = 10`
+- `frontier.private.json` describes the private side
+- private holdout pool size is `10`
+
+So each duel uses:
+
+- `10` random public live tasks
+- `10` fixed live private holdout tasks
+
+Current promotion rule:
+
+- public side:
+  - candidate must score at least `king + 2`
+- private side:
+  - candidate must score at least `king`
 
 ## Workflow
 
-1. Add or update benchmark task folders under `benchmarks/<repo-pack>/`.
-2. Keep `kata-benchmark-registry.json` aligned with the active lanes.
-   For the MVP, `active_repo_packs` should stay limited to
-   `e35ventura__taopedia-articles`.
-3. Validate the pack from Kata:
+1. Add or update public task folders under `benchmarks/<repo-pack>/`.
+2. Keep `kata-benchmark-registry.json` aligned with the active repo-packs.
+3. Keep `frontier.json` aligned with the intended live public pool policy.
+4. Keep matching hidden holdout tasks and `frontier.private.json` in the
+   private benchmark repo.
+5. Validate the pack from `kata`.
+
+Example:
 
 ```bash
 cd ../kata
-uv run python -m kata eval-pack validate --path <repo-pack>
+export KATA_BENCHMARKS_ROOT=../kata-benchmarks
+export KATA_PRIVATE_BENCHMARKS_ROOT=../kata-benchmarks-private
+uv run python -m kata eval-pack validate --path e35ventura__taopedia-articles
 ```
 
-4. Initialize frontier state when the pack is ready:
+## Task Retirement
 
-```bash
-uv run python -m kata frontier init \
-  --repo /path/to/target-repo \
-  --eval-pack <repo-pack> \
-  --mode contributor \
-  --primary-task <task-id> \
-  --holdout-task <task-id>
-```
+Do not expose a hidden task publicly just because one duel finished.
 
-5. Commit benchmark changes in this registry repo.
-6. Run evaluation or challenge flows from Kata against the same pack id.
+A private task should move public only after both are true:
 
-Retired-task export note:
+- a newer hidden pool has already taken over
+- no in-flight or future duel can still reference the old pool
 
-- do not export a task publicly while it is still in any live primary or
-  holdout pool
-- export only after the validator has switched to a new pool version and no
-  in-flight duel still uses the old pool
+That usually means:
+
+1. maintainers rotate the private pool
+2. the old hidden tasks become retired
+3. only then may they be exported into the public side
 
 ## Rules
 
-- Keep benchmark tasks pinned to real repo work and stable repo refs.
-- Prefer explicit checks over subjective agent judgment.
-- Review benchmark changes carefully because benchmark edits change what scores
-  mean.
-- Do not commit placeholder scaffold tasks as live benchmarks.
+- keep benchmark tasks pinned to real repo work and stable repo refs
+- prefer objective checks over subjective judging
+- do not commit placeholder scaffold tasks as live benchmarks
+- do not store current king code in this repo

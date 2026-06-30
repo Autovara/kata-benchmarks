@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-non-associated-cold-key-article-12626",
+  "title": "add non associated cold key article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@277258991a8d0ab7c20cb532b339a2219afd3120",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/2109cdfd63951248b9321ae57c5b6d4e8295243b",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 2109cdfd63951248b9321ae57c5b6d4e8295243b | Original subject: add non associated cold key article (#12626)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-06-30T18:44:48.055913+00:00"
+}

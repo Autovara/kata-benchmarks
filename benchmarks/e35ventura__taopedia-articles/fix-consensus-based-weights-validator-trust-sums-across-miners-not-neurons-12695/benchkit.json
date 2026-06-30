@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fix-consensus-based-weights-validator-trust-sums-across-miners-not-neurons-12695",
+  "title": "Fix consensus_based_weights: validator trust sums across miners not neurons",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@8441fdfde488fadbb330b15e6bd49c0496bbe495",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/ce53df61c01cff1f3a10d96a787b4d6add2808d2",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: ce53df61c01cff1f3a10d96a787b4d6add2808d2 | Original subject: Fix consensus_based_weights: validator trust sums across miners not neurons (#12695)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-06-30T18:44:48.521140+00:00"
+}

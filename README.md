@@ -10,6 +10,10 @@ Kata uses this repo together with:
 It stores benchmark definitions and frontier state as versioned files so
 repo-specific agent evaluation stays transparent, reviewable, and reproducible.
 
+This repo should stay private for the production validator so hidden holdout
+tasks remain hidden. Visible benchmark examples can be mirrored separately
+later if needed.
+
 Current MVP scope:
 
 - upstream SN74/Gittensor may contain many registered target repos
@@ -40,6 +44,7 @@ to `runs/` in the evaluator workspace.
 ```text
 benchmarks/
   <repo-pack>/
+    benchkit-pack.json       # pack targets and diversity settings
     <task-id>/
       task.md
       repo_ref.txt
@@ -47,6 +52,7 @@ benchmarks/
       rubric.md
       allowed_paths.txt
       forbidden_paths.txt
+      benchkit.json          # maintainer metadata for kata-benchkit
       task_weight.txt        # optional
     frontier.json
     agents/
@@ -90,7 +96,8 @@ uv run python -m kata frontier init \
   --repo /path/to/target-repo \
   --eval-pack <repo-pack> \
   --mode contributor \
-  --primary-task <task-id>
+  --primary-task <task-id> \
+  --holdout-task <task-id>
 ```
 
 5. Commit benchmark changes in this registry repo.

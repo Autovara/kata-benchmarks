@@ -2,11 +2,11 @@
   "schema_version": 1,
   "repo_pack": "e35ventura__taopedia-articles",
   "target_visible_tasks": 1,
-  "target_holdout_tasks": 0,
+  "target_holdout_tasks": 1,
   "category_targets": {
-    "content-fix": 1
+    "content-fix": 2
   },
   "similarity_threshold": 0.92,
   "max_scope_concentration": 0.8,
-  "notes": "Bootstrap MVP lane. Add holdout coverage before treating this pack as production-ready."
+  "notes": "Bootstrap MVP lane with one visible task and one hidden holdout task."
 }

@@ -9,16 +9,18 @@
       "primary_tasks": [
         "alpha-distribution-ratio-halving-index-formula-12377"
       ],
-      "holdout_tasks": [],
+      "holdout_tasks": [
+        "emission-root-subnet-boundary-12374"
+      ],
       "promotion_margin_points": 3.0,
       "evaluator_version": "2026-06-29.v1",
       "baseline_artifact_hash": "4415764afcf606c71446e902e0434a52d6e05477bab9876712ac9c8a44ab470f",
       "frontier_artifact_hash": "c1c2b3fb080542edce4ff02af359a2798fa8311110e890909dd59bcc6ca31140",
       "primary_pool_fingerprint": "bb8e3bb1f2bc27859fe54ece3069af75a0150cb889e2cdfae9fc2493ee7b031b",
-      "holdout_pool_fingerprint": null,
-      "frontier_updated_at": "2026-06-30T01:52:07.902917+00:00",
+      "holdout_pool_fingerprint": "da67e2ab6b092b86fbc73755b3495351ec813e03b9f66335f4948c180250e3f9",
+      "frontier_updated_at": "2026-06-30T02:31:59.729773+00:00",
       "frontier_source": "kata-init"
     }
   },
-  "updated_at": "2026-06-30T01:52:07.902952+00:00"
+  "updated_at": "2026-06-30T02:31:59.729810+00:00"
 }

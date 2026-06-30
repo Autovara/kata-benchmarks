@@ -7,9 +7,11 @@ Purpose:
 - first active repo-pack for SN74 repo-specific agent competition
 - stores pinned task folders for `e35ventura/taopedia-articles`
 - stores `frontier.json` plus baseline/frontier agent bundles after initialization
+- currently includes one visible primary task and one hidden holdout task
 
 Expected live contents:
 
+- `benchkit-pack.json`
 - one or more task directories
 - `frontier.json`
 - `agents/contributor/baseline/agent.py`

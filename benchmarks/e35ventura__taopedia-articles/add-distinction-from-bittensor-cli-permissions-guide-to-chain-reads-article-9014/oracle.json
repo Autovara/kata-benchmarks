@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/chain_reads/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/chain_reads/index.mdx",
+      "text": "## Distinction from Bittensor CLI: Permissions Guide"
+    },
+    {
+      "path": "content/pages/chain_reads/index.mdx",
+      "text": "Chain reads name observation of public chain state without submitting a new action, while BTCLI"
+    },
+    {
+      "path": "content/pages/chain_reads/index.mdx",
+      "text": "permissions place permissionless reads in the lowest-risk category of the CLI permission model"
+    },
+    {
+      "path": "content/pages/chain_reads/index.mdx",
+      "text": "([Transaction Fees in Bittensor](https://docs.learnbittensor.org/learn/fees),"
+    },
+    {
+      "path": "content/pages/chain_reads/index.mdx",
+      "text": "[Bittensor CLI: Permissions Guide](https://docs.learnbittensor.org/btcli/btcli-permissions))."
+    },
+    {
+      "path": "content/pages/chain_reads/index.mdx",
+      "text": "Observation vocabulary and CLI-permission vocabulary answer different questions. Chain reads name"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

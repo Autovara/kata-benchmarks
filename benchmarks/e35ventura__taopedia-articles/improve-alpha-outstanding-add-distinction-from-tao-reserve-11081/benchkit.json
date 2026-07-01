@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-alpha-outstanding-add-distinction-from-tao-reserve-11081",
+  "title": "improve alpha_outstanding: add distinction from TAO Reserve",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@2dfd6b3c7ae970f3bace90522defd868f01746ad",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/6b4089d77d7e7eb27773f9c888b06f1082a09e09",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 6b4089d77d7e7eb27773f9c888b06f1082a09e09 | Original subject: improve alpha_outstanding: add distinction from TAO Reserve (#11081)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.494155+00:00"
+}

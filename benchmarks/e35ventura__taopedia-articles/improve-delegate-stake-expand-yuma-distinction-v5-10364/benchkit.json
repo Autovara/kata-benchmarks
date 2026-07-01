@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-delegate-stake-expand-yuma-distinction-v5-10364",
+  "title": "improve delegate_stake: expand Yuma distinction (v5)",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@78a6d6a43aae74f72fe2c27a0682708c28120320",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/f739e535461326a325ba06e9cbb84d7c0b679642",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: f739e535461326a325ba06e9cbb84d7c0b679642 | Original subject: improve delegate_stake: expand Yuma distinction (v5) (#10364)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.673051+00:00"
+}

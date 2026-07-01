@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-expired-weight-commit-article-12685",
+  "title": "Add expired_weight_commit article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@baa3ebab1a533cfdf4b114bc180b69df3c365051",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/b7425cf0d59ed9445c4502780b4aae4256daaa82",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: b7425cf0d59ed9445c4502780b4aae4256daaa82 | Original subject: Add expired_weight_commit article (#12685)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:07:54.894285+00:00"
+}

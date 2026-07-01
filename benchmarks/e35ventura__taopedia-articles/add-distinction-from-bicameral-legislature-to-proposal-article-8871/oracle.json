@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/proposal/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/proposal/index.mdx",
+      "text": "## Distinction from Bicameral Legislature"
+    },
+    {
+      "path": "content/pages/proposal/index.mdx",
+      "text": "Bicameral legislature names the two-body governance structure that pairs proposal creation with"
+    },
+    {
+      "path": "content/pages/proposal/index.mdx",
+      "text": "proposal review. A proposal is the governance item the Triumvirate creates and the Senate votes on"
+    },
+    {
+      "path": "content/pages/proposal/index.mdx",
+      "text": "([Glossary: Bicameral Legislature](https://docs.learnbittensor.org/resources/glossary#bicameral-legislature),"
+    },
+    {
+      "path": "content/pages/proposal/index.mdx",
+      "text": "[Glossary: Proposal](https://docs.learnbittensor.org/resources/glossary#proposal),"
+    },
+    {
+      "path": "content/pages/proposal/index.mdx",
+      "text": "[Governance Overview](https://docs.learnbittensor.org/governance))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

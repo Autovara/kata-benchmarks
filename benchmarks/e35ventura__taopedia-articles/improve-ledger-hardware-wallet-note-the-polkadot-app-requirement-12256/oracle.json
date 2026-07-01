@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/ledger_hardware_wallet/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/ledger_hardware_wallet/index.mdx",
+      "text": "The guidance also names which device app is required. Because Bittensor keys follow the Substrate"
+    },
+    {
+      "path": "content/pages/ledger_hardware_wallet/index.mdx",
+      "text": "scheme, using a Ledger with Bittensor requires installing the Polkadot (DOT) app from Ledger Live"
+    },
+    {
+      "path": "content/pages/ledger_hardware_wallet/index.mdx",
+      "text": "rather than a TAO-specific app"
+    },
+    {
+      "path": "content/pages/ledger_hardware_wallet/index.mdx",
+      "text": "([Using Ledger Hardware Wallet](https://docs.learnbittensor.org/staking-and-delegation/using-ledger-hw-wallet))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

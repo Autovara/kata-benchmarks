@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-alpha-staker-exclude-root-subnet-from-alpha-staking-12318",
+  "title": "improve alpha_staker: exclude Root Subnet from alpha staking",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@76c1a64283128cca30075813380360a787b6f679",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/57a0555cc507492e2afe9791f941b926483048e7",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 57a0555cc507492e2afe9791f941b926483048e7 | Original subject: improve alpha_staker: exclude Root Subnet from alpha staking (#12318)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.513108+00:00"
+}

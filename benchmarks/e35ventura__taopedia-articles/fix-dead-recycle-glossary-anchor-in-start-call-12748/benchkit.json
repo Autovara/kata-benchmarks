@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fix-dead-recycle-glossary-anchor-in-start-call-12748",
+  "title": "Fix dead recycle glossary anchor in start_call",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@6755373445ed0f402a2caf5bc6e99d5e1293ce92",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/dfac2dc4c35990ad083e95d103715455d5eb6826",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: dfac2dc4c35990ad083e95d103715455d5eb6826 | Original subject: Fix dead recycle glossary anchor in start_call (#12748)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:07:54.948633+00:00"
+}

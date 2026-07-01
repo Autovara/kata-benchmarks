@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fix-validator-take-delegate-take-cooldown-applies-to-increases-12585",
+  "title": "fix validator_take: delegate-take cooldown applies to increases",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@894aaa861bc0a9efb1a1aa9952fa881d14e3f3ac",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/aefeb76aba6f1f7daf7d36b6e8ecda6e3bb6fbee",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: aefeb76aba6f1f7daf7d36b6e8ecda6e3bb6fbee | Original subject: fix validator_take: delegate-take cooldown applies to increases (#12585)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:07:54.983086+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fix-activity-cutoff-reader-boundary-after-deprecation-12470",
+  "title": "Fix activity cutoff reader boundary after deprecation",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@90fd142aa857e371f6f32a063a9c897a97cead59",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/b132449e9eb41d07187a63531a1370499dad4c19",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: b132449e9eb41d07187a63531a1370499dad4c19 | Original subject: Fix activity cutoff reader boundary after deprecation (#12470)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:48.957526+00:00"
+}

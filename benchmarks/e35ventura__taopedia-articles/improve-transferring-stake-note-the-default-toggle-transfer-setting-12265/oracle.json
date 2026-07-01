@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/transferring_stake/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/transferring_stake/index.mdx",
+      "text": "Whether that transfer path is open is controlled per subnet by the `ToggleTransfer` hyperparameter."
+    },
+    {
+      "path": "content/pages/transferring_stake/index.mdx",
+      "text": "The subnet hyperparameters reference lists it as a Boolean with a default of `True`, so transferring"
+    },
+    {
+      "path": "content/pages/transferring_stake/index.mdx",
+      "text": "stake is permitted by default unless the subnet's current setting has been changed"
+    },
+    {
+      "path": "content/pages/transferring_stake/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-max-registrations-per-block-add-startup-constant-12421",
+  "title": "improve max_registrations_per_block: add startup constant",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@bb6565426e455e3c7ffd8b8df68aa075f70cc54a",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/6b4cc808700c279f53ce05b983cfc475d47b99eb",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 6b4cc808700c279f53ce05b983cfc475d47b99eb | Original subject: improve max_registrations_per_block: add startup constant (#12421)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.861517+00:00"
+}

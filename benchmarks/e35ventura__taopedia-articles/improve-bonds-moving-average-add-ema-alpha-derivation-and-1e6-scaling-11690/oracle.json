@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/bonds_moving_average/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/bonds_moving_average/index.mdx",
+      "text": "## Smoothing Factor and Scaling"
+    },
+    {
+      "path": "content/pages/bonds_moving_average/index.mdx",
+      "text": "In the default path, where liquid alpha is not enabled, the chain reads the stored"
+    },
+    {
+      "path": "content/pages/bonds_moving_average/index.mdx",
+      "text": "`BondsMovingAverage` and scales it down by 1,000,000, then derives the EMA smoothing factor as alpha"
+    },
+    {
+      "path": "content/pages/bonds_moving_average/index.mdx",
+      "text": "equal to one minus that scaled value. Each new bond is alpha times the instant bond plus one minus"
+    },
+    {
+      "path": "content/pages/bonds_moving_average/index.mdx",
+      "text": "alpha times the prior bond"
+    },
+    {
+      "path": "content/pages/bonds_moving_average/index.mdx",
+      "text": "([`compute_ema_bonds_normal`](https://github.com/opentensor/subtensor/blob/main/pallets/subtensor/src/epoch/run_epoch.rs))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

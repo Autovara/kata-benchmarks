@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_scoring_model/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_scoring_model/index.mdx",
+      "text": "## Distinction from Off-Chain Validation Systems"
+    },
+    {
+      "path": "content/pages/subnet_scoring_model/index.mdx",
+      "text": "Off-chain validation systems name the subnet-side evaluation layer where validators judge miner work"
+    },
+    {
+      "path": "content/pages/subnet_scoring_model/index.mdx",
+      "text": "before chain-facing signals exist. The subnet scoring model names the subnet-defined method that"
+    },
+    {
+      "path": "content/pages/subnet_scoring_model/index.mdx",
+      "text": "turns returned work into the scores used in that judgment"
+    },
+    {
+      "path": "content/pages/subnet_scoring_model/index.mdx",
+      "text": "([Glossary: Subnet Scoring Model](https://docs.learnbittensor.org/resources/glossary#subnet-scoring-model),"
+    },
+    {
+      "path": "content/pages/subnet_scoring_model/index.mdx",
+      "text": "[Understanding Incentive Mechanisms](https://docs.learnbittensor.org/learn/anatomy-of-incentive-mechanism))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

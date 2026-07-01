@@ -1,0 +1,3 @@
+# Repo source for this eval task.
+# Required format for production tasks: <repo-url-or-path>@<git-ref>
+https://github.com/e35ventura/taopedia-articles.git@af9403e46886043c0bd0cec0c47e422514b871a0

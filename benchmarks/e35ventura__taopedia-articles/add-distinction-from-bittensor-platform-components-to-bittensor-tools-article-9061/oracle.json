@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/bittensor_tools/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/bittensor_tools/index.mdx",
+      "text": "## Distinction from Bittensor Platform Components"
+    },
+    {
+      "path": "content/pages/bittensor_tools/index.mdx",
+      "text": "Bittensor platform components is the high-level map across subnets, chain, tokens, roles, tools, and"
+    },
+    {
+      "path": "content/pages/bittensor_tools/index.mdx",
+      "text": "networks. Bittensor tools names the interface layer \u2014 SDK, terminal, wallet, and user-facing"
+    },
+    {
+      "path": "content/pages/bittensor_tools/index.mdx",
+      "text": "surfaces ([Introduction to Bittensor](https://docs.learnbittensor.org/learn/introduction),"
+    },
+    {
+      "path": "content/pages/bittensor_tools/index.mdx",
+      "text": "[Bittensor Tools](https://docs.learnbittensor.org/concepts/tools))."
+    },
+    {
+      "path": "content/pages/bittensor_tools/index.mdx",
+      "text": "- **Bittensor platform components** \u2014 orientation map across major system pieces."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/private_key/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/private_key/index.mdx",
+      "text": "The two private keys are also not protected the same way at rest, and that difference has a transfer"
+    },
+    {
+      "path": "content/pages/private_key/index.mdx",
+      "text": "consequence. The key documentation states that by default the coldkey is encrypted on disk while the"
+    },
+    {
+      "path": "content/pages/private_key/index.mdx",
+      "text": "hotkey is not, so the hotkey's signing key sits in plaintext on the operational machine unless it is"
+    },
+    {
+      "path": "content/pages/private_key/index.mdx",
+      "text": "explicitly encrypted when created. Because the hotkey is that exposed operational key, the wallet"
+    },
+    {
+      "path": "content/pages/private_key/index.mdx",
+      "text": "guidance warns that sending TAO to a hotkey runs contrary to the design and can irreversibly lose"
+    },
+    {
+      "path": "content/pages/private_key/index.mdx",
+      "text": "the funds, so transfers of TAO should always go to a coldkey"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

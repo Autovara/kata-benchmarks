@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-stake-distinguish-min-stake-transaction-floor-12510",
+  "title": "improve stake: distinguish min stake transaction floor",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@4cc784301b1ad5ffc07a84597b6b31a8a1deb521",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/9e2551f215b10dcff82855c45adc81006360a0bb",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 9e2551f215b10dcff82855c45adc81006360a0bb | Original subject: improve stake: distinguish min stake transaction floor (#12510)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.087895+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_owner_cut/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_owner_cut/index.mdx",
+      "text": "title: \"Subnet Owner Cut\""
+    },
+    {
+      "path": "content/pages/subnet_owner_cut/index.mdx",
+      "text": "summary:"
+    },
+    {
+      "path": "content/pages/subnet_owner_cut/index.mdx",
+      "text": "\"How the subnet owner cut parameter sets the fixed 18% of a subnet's alpha emissions taken for the"
+    },
+    {
+      "path": "content/pages/subnet_owner_cut/index.mdx",
+      "text": "owner before the remainder is split between validators and miners.\""
+    },
+    {
+      "path": "content/pages/subnet_owner_cut/index.mdx",
+      "text": "category: \"Subnets\""
+    },
+    {
+      "path": "content/pages/subnet_owner_cut/index.mdx",
+      "text": "tags: [\"Subnets\", \"Emission\"]"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

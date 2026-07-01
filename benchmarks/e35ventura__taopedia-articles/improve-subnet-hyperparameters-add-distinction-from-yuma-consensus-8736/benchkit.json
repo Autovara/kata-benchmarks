@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-subnet-hyperparameters-add-distinction-from-yuma-consensus-8736",
+  "title": "improve subnet hyperparameters: add distinction from yuma consensus",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@28b200672a468f1990bb1e5eaa2d9274f7aced3e",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/50e8704ea0335e54797396e038dd0f76c6c4e4ec",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 50e8704ea0335e54797396e038dd0f76c6c4e4ec | Original subject: improve subnet hyperparameters: add distinction from yuma consensus (#8736)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.131522+00:00"
+}

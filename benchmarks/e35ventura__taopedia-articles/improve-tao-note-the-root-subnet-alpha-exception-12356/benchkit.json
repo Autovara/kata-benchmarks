@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-tao-note-the-root-subnet-alpha-exception-12356",
+  "title": "improve tao: note the Root Subnet alpha exception",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@dd05f0c293c50615bab6bcf1bfbf5033aae470ae",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/2f70fb347f13160e4781e5ec3c3d111e73b35997",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 2f70fb347f13160e4781e5ec3c3d111e73b35997 | Original subject: improve tao: note the Root Subnet alpha exception (#12356)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.208641+00:00"
+}

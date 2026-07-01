@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-alpha-sigmoid-steepness-add-netuid-1-reference-context-9618",
+  "title": "improve alpha_sigmoid_steepness: add netuid 1 reference context",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@c32fc0603f4b2cfd5a691021d8bfca278796563a",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/e063f59d632f9f7476836240895e74f1eeb9cd8a",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "source-quality",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: e063f59d632f9f7476836240895e74f1eeb9cd8a | Original subject: improve alpha_sigmoid_steepness: add netuid 1 reference context (#9618)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.502610+00:00"
+}

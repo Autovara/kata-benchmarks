@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/bittensor_platform_components/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/bittensor_platform_components/index.mdx",
+      "text": "## Distinction from Yuma Consensus"
+    },
+    {
+      "path": "content/pages/bittensor_platform_components/index.mdx",
+      "text": "Bittensor platform components is a high-level map across subnets, chain state, tokens, roles, tools,"
+    },
+    {
+      "path": "content/pages/bittensor_platform_components/index.mdx",
+      "text": "and network environments. Yuma Consensus is the mechanism that aggregates validator weights into"
+    },
+    {
+      "path": "content/pages/bittensor_platform_components/index.mdx",
+      "text": "emission shares each tempo"
+    },
+    {
+      "path": "content/pages/bittensor_platform_components/index.mdx",
+      "text": "([Introduction to Bittensor](https://docs.learnbittensor.org/learn/introduction),"
+    },
+    {
+      "path": "content/pages/bittensor_platform_components/index.mdx",
+      "text": "[Yuma Consensus](https://docs.learnbittensor.org/learn/yuma-consensus))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

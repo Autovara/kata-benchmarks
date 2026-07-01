@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-maximum-supply-add-distinction-from-issuance-11196",
+  "title": "improve maximum_supply: add distinction from Issuance",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@a8a0a8d765d9d2b449c7de9f5868684eadc4747c",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/9844e740cf04def2ceb3b68604bcf8edd01c7ce0",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 9844e740cf04def2ceb3b68604bcf8edd01c7ce0 | Original subject: improve maximum_supply: add distinction from Issuance (#11196)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.871763+00:00"
+}

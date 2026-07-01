@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-back-running-to-arbitrage-article-8982",
+  "title": "Add Distinction from Back-Running to arbitrage article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@dd0a47b7553eba4bf573edd79558191cb3f9d8ba",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/17715b9de56c7286d3234913d8f48690843f067d",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 17715b9de56c7286d3234913d8f48690843f067d | Original subject: Add Distinction from Back-Running to arbitrage article (#8982)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.097405+00:00"
+}

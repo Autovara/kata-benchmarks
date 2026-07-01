@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/root_staker/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/root_staker/index.mdx",
+      "text": "Automatic claiming also depends on the accumulated dividend size. The root-claims documentation"
+    },
+    {
+      "path": "content/pages/root_staker/index.mdx",
+      "text": "states that claims can process automatically when accumulated alpha dividends exceed 500,000 RAO,"
+    },
+    {
+      "path": "content/pages/root_staker/index.mdx",
+      "text": "shown as a 0.0005 TAO equivalent threshold"
+    },
+    {
+      "path": "content/pages/root_staker/index.mdx",
+      "text": "([Root Claim Overview](https://docs.learnbittensor.org/staking-and-delegation/root-claims))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

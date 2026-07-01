@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/dynamic_tao/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/dynamic_tao/index.mdx",
+      "text": "## Distinction from Root Subnet"
+    },
+    {
+      "path": "content/pages/dynamic_tao/index.mdx",
+      "text": "Dynamic TAO and the root subnet are a tokenomics system and a special subnet within it. Dynamic TAO"
+    },
+    {
+      "path": "content/pages/dynamic_tao/index.mdx",
+      "text": "is the subnet-aware tokenomics model that links network-level TAO with subnet-specific alpha, while"
+    },
+    {
+      "path": "content/pages/dynamic_tao/index.mdx",
+      "text": "the root subnet, also called Subnet Zero, is the special subnet that provides a subnet-agnostic"
+    },
+    {
+      "path": "content/pages/dynamic_tao/index.mdx",
+      "text": "staking path"
+    },
+    {
+      "path": "content/pages/dynamic_tao/index.mdx",
+      "text": "([Understanding Subnets](https://docs.learnbittensor.org/subnets/understanding-subnets),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

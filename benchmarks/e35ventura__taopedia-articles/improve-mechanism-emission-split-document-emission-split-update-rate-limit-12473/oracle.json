@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/mechanism_emission_split/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/mechanism_emission_split/index.mdx",
+      "text": "The rate-limit reference documents a 7,200-block cooldown (about 24 hours) on main net, or 1 block"
+    },
+    {
+      "path": "content/pages/mechanism_emission_split/index.mdx",
+      "text": "in fastblocks development mode, between successful emission-split updates on a subnet. That limit is"
+    },
+    {
+      "path": "content/pages/mechanism_emission_split/index.mdx",
+      "text": "separate from the mechanism-count update cooldown, so changing how many mechanisms run and changing"
+    },
+    {
+      "path": "content/pages/mechanism_emission_split/index.mdx",
+      "text": "how emissions are divided among them are paced independently"
+    },
+    {
+      "path": "content/pages/mechanism_emission_split/index.mdx",
+      "text": "([Chain Rate Limits: Subnet Mechanism emission split update rate limit](https://docs.learnbittensor.org/learn/chain-rate-limits#subnet-mechanism-emission-split-update-rate-limit))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

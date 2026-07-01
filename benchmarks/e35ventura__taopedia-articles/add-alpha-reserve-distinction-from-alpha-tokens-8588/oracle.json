@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/alpha_reserve/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/alpha_reserve/index.mdx",
+      "text": "## Distinction from Alpha Tokens"
+    },
+    {
+      "path": "content/pages/alpha_reserve/index.mdx",
+      "text": "Alpha tokens and alpha reserve name an asset and the pool-held side of it. Alpha tokens are the"
+    },
+    {
+      "path": "content/pages/alpha_reserve/index.mdx",
+      "text": "subnet-specific asset more broadly, including participant-held alpha, while alpha reserve is the"
+    },
+    {
+      "path": "content/pages/alpha_reserve/index.mdx",
+      "text": "alpha held inside the subnet's pool used in conversion math"
+    },
+    {
+      "path": "content/pages/alpha_reserve/index.mdx",
+      "text": "([Understanding Subnets](https://docs.learnbittensor.org/subnets/understanding-subnets),"
+    },
+    {
+      "path": "content/pages/alpha_reserve/index.mdx",
+      "text": "[Emission: Alpha reserve injection](https://docs.learnbittensor.org/learn/emissions#alpha-reserve-injection))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

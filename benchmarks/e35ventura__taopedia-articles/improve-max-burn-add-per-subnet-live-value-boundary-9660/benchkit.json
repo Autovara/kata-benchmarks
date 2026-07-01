@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-max-burn-add-per-subnet-live-value-boundary-9660",
+  "title": "improve max_burn: add per-subnet live value boundary",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@38e903d6cc54a7c21aa11c776e92ca52d39601f2",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/f612dcb2e087045d79a635b636637532371c3789",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: f612dcb2e087045d79a635b636637532371c3789 | Original subject: improve max_burn: add per-subnet live value boundary (#9660)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.854228+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/consensus_score/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/consensus_score/index.mdx",
+      "text": "## Distinction from Subnet Scoring Model"
+    },
+    {
+      "path": "content/pages/consensus_score/index.mdx",
+      "text": "Consensus score and the subnet scoring model operate at different layers of evaluation. The subnet"
+    },
+    {
+      "path": "content/pages/consensus_score/index.mdx",
+      "text": "scoring model is the subnet-specific method validators use to grade miner responses to that subnet's"
+    },
+    {
+      "path": "content/pages/consensus_score/index.mdx",
+      "text": "task, producing the raw weights validators submit; consensus score is the protocol-level,"
+    },
+    {
+      "path": "content/pages/consensus_score/index.mdx",
+      "text": "stake-weighted agreement Yuma Consensus computes from those submitted weights across validators"
+    },
+    {
+      "path": "content/pages/consensus_score/index.mdx",
+      "text": "([Glossary: Subnet Scoring Model](https://docs.learnbittensor.org/resources/glossary#subnet-scoring-model),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

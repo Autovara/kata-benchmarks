@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-root-subnet-note-tao-denominated-root-stake-12316",
+  "title": "improve root_subnet: note TAO-denominated root stake",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@a164dbab21242d874c01247302365918f31d4dfb",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/d967b5eebadf636bccedb1ef8ba705dacf1e1f85",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: d967b5eebadf636bccedb1ef8ba705dacf1e1f85 | Original subject: improve root_subnet: note TAO-denominated root stake (#12316)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.027201+00:00"
+}

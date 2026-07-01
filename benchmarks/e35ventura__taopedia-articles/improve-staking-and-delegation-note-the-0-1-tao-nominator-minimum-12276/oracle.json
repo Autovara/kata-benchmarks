@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/staking_and_delegation/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/staking_and_delegation/index.mdx",
+      "text": "The staking and delegation overview documents a minimum required stake for nominators of 0.1 TAO."
+    },
+    {
+      "path": "content/pages/staking_and_delegation/index.mdx",
+      "text": "That is a lower bound for creating delegated validator support, separate from smaller transaction or"
+    },
+    {
+      "path": "content/pages/staking_and_delegation/index.mdx",
+      "text": "claim thresholds that can appear elsewhere in staking documentation"
+    },
+    {
+      "path": "content/pages/staking_and_delegation/index.mdx",
+      "text": "([Staking and Delegation Overview](https://docs.learnbittensor.org/staking-and-delegation/delegation))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

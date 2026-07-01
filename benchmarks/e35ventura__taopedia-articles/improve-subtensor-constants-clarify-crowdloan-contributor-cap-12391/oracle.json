@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subtensor_constants/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subtensor_constants/index.mdx",
+      "text": "Contributor-count limits are a separate crowdloan constant. The constants page lists"
+    },
+    {
+      "path": "content/pages/subtensor_constants/index.mdx",
+      "text": "`api.consts.crowdloan.maxContributors` with a value of `500`, while"
+    },
+    {
+      "path": "content/pages/subtensor_constants/index.mdx",
+      "text": "`api.consts.crowdloan.refundContributorsLimit` is the smaller per-call refund batch limit. One caps"
+    },
+    {
+      "path": "content/pages/subtensor_constants/index.mdx",
+      "text": "how many unique contributors a campaign can record; the other caps how many of those contributors a"
+    },
+    {
+      "path": "content/pages/subtensor_constants/index.mdx",
+      "text": "single refund call can process"
+    },
+    {
+      "path": "content/pages/subtensor_constants/index.mdx",
+      "text": "([Subtensor Constants: crowdloan](https://docs.learnbittensor.org/subtensor-api/constants#crowdloan),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

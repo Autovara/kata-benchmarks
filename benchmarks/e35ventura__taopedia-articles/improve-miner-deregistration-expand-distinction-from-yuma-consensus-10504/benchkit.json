@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-miner-deregistration-expand-distinction-from-yuma-consensus-10504",
+  "title": "improve miner_deregistration: expand Distinction from Yuma Consensus",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@5a0f576b2ea2c639cb20853b1a78201b4ffa9ff4",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/10b36edba3b0aaa2ba7818310c195ac8e8b1f5fb",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 10b36edba3b0aaa2ba7818310c195ac8e8b1f5fb | Original subject: improve miner_deregistration: expand Distinction from Yuma Consensus (#10504)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.929484+00:00"
+}

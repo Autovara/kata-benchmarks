@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/coldkey_swap_announcement_delay/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/coldkey_swap_announcement_delay/index.mdx",
+      "text": "## Reannouncing Has Its Own Delay"
+    },
+    {
+      "path": "content/pages/coldkey_swap_announcement_delay/index.mdx",
+      "text": "Clearing or reannouncing a pending swap is also time-gated. The coldkey swap documentation states"
+    },
+    {
+      "path": "content/pages/coldkey_swap_announcement_delay/index.mdx",
+      "text": "that a swap can be reannounced only after a separate reannouncement delay has passed, which by"
+    },
+    {
+      "path": "content/pages/coldkey_swap_announcement_delay/index.mdx",
+      "text": "default is 7,200 blocks (about one day) after the initial announcement delay period expires"
+    },
+    {
+      "path": "content/pages/coldkey_swap_announcement_delay/index.mdx",
+      "text": "([Rotate or Swap your Coldkey](https://docs.learnbittensor.org/keys/coldkey-swap))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

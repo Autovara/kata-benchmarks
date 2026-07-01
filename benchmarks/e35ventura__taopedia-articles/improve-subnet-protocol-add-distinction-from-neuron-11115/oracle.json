@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_protocol/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_protocol/index.mdx",
+      "text": "## Distinction from Neuron"
+    },
+    {
+      "path": "content/pages/subnet_protocol/index.mdx",
+      "text": "A subnet protocol and a neuron relate as a specification and a participant that follows it. A subnet"
+    },
+    {
+      "path": "content/pages/subnet_protocol/index.mdx",
+      "text": "protocol is the rule set defining how validators query miners, what responses count, and how work is"
+    },
+    {
+      "path": "content/pages/subnet_protocol/index.mdx",
+      "text": "scored, while a neuron is an individual participant occupying a UID that operates under that"
+    },
+    {
+      "path": "content/pages/subnet_protocol/index.mdx",
+      "text": "protocol"
+    },
+    {
+      "path": "content/pages/subnet_protocol/index.mdx",
+      "text": "([Glossary: Subnet Protocol](https://docs.learnbittensor.org/resources/glossary#subnet-protocol),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

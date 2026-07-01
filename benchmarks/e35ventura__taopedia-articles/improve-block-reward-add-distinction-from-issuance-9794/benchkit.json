@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-block-reward-add-distinction-from-issuance-9794",
+  "title": "improve block reward: add distinction from issuance",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@cf87fc7c220efd8f0da3aeeeefafa9ae95f6c365",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/74859f3f5c574434e04f3919e3dbea0257753f12",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 74859f3f5c574434e04f3919e3dbea0257753f12 | Original subject: improve block reward: add distinction from issuance (#9794)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.596764+00:00"
+}

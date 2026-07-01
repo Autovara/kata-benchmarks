@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-eddsa-cryptographic-keypairs-to-mnemonic-article-8900",
+  "title": "Add Distinction from EdDSA Cryptographic Keypairs to mnemonic article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@fde8c2c0465f28125cb8b589d4da17e22494b52e",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/4eb76b74d576df360689ca781d2790149864b846",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 4eb76b74d576df360689ca781d2790149864b846 | Original subject: Add Distinction from EdDSA Cryptographic Keypairs to mnemonic article (#8900)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.263569+00:00"
+}

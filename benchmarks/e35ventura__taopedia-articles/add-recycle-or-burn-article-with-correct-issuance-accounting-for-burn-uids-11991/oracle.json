@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/recycle_or_burn/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/recycle_or_burn/index.mdx",
+      "text": "title: \"Recycle Or Burn\""
+    },
+    {
+      "path": "content/pages/recycle_or_burn/index.mdx",
+      "text": "summary:"
+    },
+    {
+      "path": "content/pages/recycle_or_burn/index.mdx",
+      "text": "\"How the recycle or burn subnet hyperparameter decides whether miner emission routed to burn UIDs"
+    },
+    {
+      "path": "content/pages/recycle_or_burn/index.mdx",
+      "text": "is recycled through issuance accounting or burned as missing supply.\""
+    },
+    {
+      "path": "content/pages/recycle_or_burn/index.mdx",
+      "text": "category: \"Subnets\""
+    },
+    {
+      "path": "content/pages/recycle_or_burn/index.mdx",
+      "text": "tags: [\"Subnets\", \"Emission\"]"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

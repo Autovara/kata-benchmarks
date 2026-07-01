@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/pruning_score/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/pruning_score/index.mdx",
+      "text": "cutoff vocabulary names how long a validator may remain without an on-chain update before its stake"
+    },
+    {
+      "path": "content/pages/pruning_score/index.mdx",
+      "text": "is masked inactive for consensus\u2014not a displacement ranking for miners"
+    },
+    {
+      "path": "content/pages/pruning_score/index.mdx",
+      "text": "[Subnet Hyperparameters: Activity Cutoff](https://docs.learnbittensor.org/subnets/subnet-hyperparameters#activitycutoff),"
+    },
+    {
+      "path": "content/pages/pruning_score/index.mdx",
+      "text": "[Subnet Hyperparameters: Activity Cutoff Factor](https://docs.learnbittensor.org/subnets/subnet-hyperparameters#activitycutofffactor),"
+    },
+    {
+      "path": "content/pages/pruning_score/index.mdx",
+      "text": "On dynamic-tempo subnets the fixed block hyperparameter is deprecated; the live inactivity span"
+    },
+    {
+      "path": "content/pages/pruning_score/index.mdx",
+      "text": "comes from activity cutoff factor and tempo instead"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/pruning_score/index.mdx",
+      "text": "cutoff is the early-epoch block window within which a validator must submit weights to count in the"
+    },
+    {
+      "path": "content/pages/pruning_score/index.mdx",
+      "text": "current Yuma Consensus pass"
+    },
+    {
+      "path": "content/pages/pruning_score/index.mdx",
+      "text": "[Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters#activitycutoff),"
+    },
+    {
+      "path": "content/pages/pruning_score/index.mdx",
+      "text": "- **Activity cutoff** \u2014 epoch block window for weight submission to count."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

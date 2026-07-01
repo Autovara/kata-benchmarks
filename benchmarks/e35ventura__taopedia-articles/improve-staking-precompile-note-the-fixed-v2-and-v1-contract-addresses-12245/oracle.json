@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/staking_precompile/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/staking_precompile/index.mdx",
+      "text": "Each version sits at its own fixed address on the Bittensor EVM. The staking precompile"
+    },
+    {
+      "path": "content/pages/staking_precompile/index.mdx",
+      "text": "documentation gives the current V2 address as 0x0000000000000000000000000000000000000805 and the"
+    },
+    {
+      "path": "content/pages/staking_precompile/index.mdx",
+      "text": "deprecated V1 address as 0x0000000000000000000000000000000000000801"
+    },
+    {
+      "path": "content/pages/staking_precompile/index.mdx",
+      "text": "([Staking Precompile](https://docs.learnbittensor.org/evm-tutorials/staking-precompile))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

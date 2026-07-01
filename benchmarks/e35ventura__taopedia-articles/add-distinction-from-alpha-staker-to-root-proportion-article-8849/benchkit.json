@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-alpha-staker-to-root-proportion-article-8849",
+  "title": "Add Distinction from Alpha Staker to root proportion article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@a739d8c4e413da26e31df465448864a23dab1afa",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/0525af5d5ad965237a9fa7e6e94383fc7d08f832",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 0525af5d5ad965237a9fa7e6e94383fc7d08f832 | Original subject: Add Distinction from Alpha Staker to root proportion article (#8849)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.085793+00:00"
+}

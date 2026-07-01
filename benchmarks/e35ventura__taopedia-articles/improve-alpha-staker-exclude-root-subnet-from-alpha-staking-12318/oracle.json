@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/alpha_staker/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/alpha_staker/index.mdx",
+      "text": "That boundary excludes Subnet Zero from the alpha-staker label. The Root Subnet is the only subnet"
+    },
+    {
+      "path": "content/pages/alpha_staker/index.mdx",
+      "text": "without its own alpha currency, so root staking stays TAO-denominated rather than creating a"
+    },
+    {
+      "path": "content/pages/alpha_staker/index.mdx",
+      "text": "subnet-alpha staking position"
+    },
+    {
+      "path": "content/pages/alpha_staker/index.mdx",
+      "text": "([Glossary: Root Subnet/Subnet Zero](https://docs.learnbittensor.org/resources/glossary#root-subnetsubnet-zero),"
+    },
+    {
+      "path": "content/pages/alpha_staker/index.mdx",
+      "text": "[Understanding Subnets](https://docs.learnbittensor.org/subnets/understanding-subnets))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

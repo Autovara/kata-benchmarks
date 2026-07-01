@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/h160_address/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/h160_address/index.mdx",
+      "text": "## Distinction from Bittensor EVM Smart Contracts"
+    },
+    {
+      "path": "content/pages/h160_address/index.mdx",
+      "text": "Bittensor EVM smart contracts use Ethereum-style H160 addresses, the 20-byte address format the EVM"
+    },
+    {
+      "path": "content/pages/h160_address/index.mdx",
+      "text": "layer works with. The smart contract is the executable code on Subtensor's EVM, while the H160"
+    },
+    {
+      "path": "content/pages/h160_address/index.mdx",
+      "text": "address is the Ethereum-compatible identifier used to deploy and call it; tooling converts between"
+    },
+    {
+      "path": "content/pages/h160_address/index.mdx",
+      "text": "H160 and Subtensor's native SS58 format when the two layers interact"
+    },
+    {
+      "path": "content/pages/h160_address/index.mdx",
+      "text": "([Bittensor EVM Smart Contracts](https://docs.learnbittensor.org/evm-tutorials),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

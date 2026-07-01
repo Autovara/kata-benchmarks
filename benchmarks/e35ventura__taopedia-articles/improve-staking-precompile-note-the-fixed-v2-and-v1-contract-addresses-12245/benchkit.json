@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-staking-precompile-note-the-fixed-v2-and-v1-contract-addresses-12245",
+  "title": "improve staking precompile: note the fixed V2 and V1 contract addresses",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@e59aae24038318a0075dbdefd7d82ad0fbcae1c9",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/f08182025df56cb74ab47bd3819242a108e5dc86",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: f08182025df56cb74ab47bd3819242a108e5dc86 | Original subject: improve staking precompile: note the fixed V2 and V1 contract addresses (#12245)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:48.987574+00:00"
+}

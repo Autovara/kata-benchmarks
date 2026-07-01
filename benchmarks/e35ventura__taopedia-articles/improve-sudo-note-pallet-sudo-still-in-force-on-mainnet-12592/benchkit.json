@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-sudo-note-pallet-sudo-still-in-force-on-mainnet-12592",
+  "title": "improve sudo: note pallet_sudo still in force on mainnet",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@22944e2e6ffc311706c840fad257cd0c2af5f7c9",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/81184224ea90100e6d5e34947b7952144a359001",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 81184224ea90100e6d5e34947b7952144a359001 | Original subject: improve sudo: note pallet_sudo still in force on mainnet (#12592)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.194367+00:00"
+}

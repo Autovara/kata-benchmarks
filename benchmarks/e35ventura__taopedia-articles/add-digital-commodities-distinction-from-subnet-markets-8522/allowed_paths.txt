@@ -1,0 +1,1 @@
+content/pages/digital_commodities/index.mdx

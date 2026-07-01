@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-subnet-symbol-document-greek-letter-symbol-assignment-12469",
+  "title": "improve subnet_symbol: document Greek-letter symbol assignment",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@9cc5a4f57319585f06d13e2b34ab66262af1e369",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/90fd142aa857e371f6f32a063a9c897a97cead59",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 90fd142aa857e371f6f32a063a9c897a97cead59 | Original subject: improve subnet_symbol: document Greek-letter symbol assignment (#12469)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.184327+00:00"
+}

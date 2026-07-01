@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/tempo/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/tempo/index.mdx",
+      "text": "Those documented figures correspond to named chain startup constants. The constants reference lists"
+    },
+    {
+      "path": "content/pages/tempo/index.mdx",
+      "text": "`api.consts.subtensorModule.initialTempo` as `360`, the tempo the chain seeds a new subnet with at"
+    },
+    {
+      "path": "content/pages/tempo/index.mdx",
+      "text": "launch, and exposes the owner-setter band as `minTempo` (`360`) and `maxTempo` (`50400`) \u2014 the same"
+    },
+    {
+      "path": "content/pages/tempo/index.mdx",
+      "text": "360\u201350,400 range the `set_tempo` extrinsic enforces below, which spans about 72 minutes to 7 days at"
+    },
+    {
+      "path": "content/pages/tempo/index.mdx",
+      "text": "12-second blocks. The live `Tempo` storage value is the per-subnet figure in force after launch and"
+    },
+    {
+      "path": "content/pages/tempo/index.mdx",
+      "text": "can differ from this initial constant"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,1 @@
+content/pages/lock_reduction_interval/index.mdx

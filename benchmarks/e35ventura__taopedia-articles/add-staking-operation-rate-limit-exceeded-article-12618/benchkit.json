@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-staking-operation-rate-limit-exceeded-article-12618",
+  "title": "add staking operation rate limit exceeded article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@c2b7cb042da1e90e23c829a509d3e0bb5f867856",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/afef489fccdd6df6a48a87cbc00fdb026b1c881f",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: afef489fccdd6df6a48a87cbc00fdb026b1c881f | Original subject: add staking operation rate limit exceeded article (#12618)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:07:54.914237+00:00"
+}

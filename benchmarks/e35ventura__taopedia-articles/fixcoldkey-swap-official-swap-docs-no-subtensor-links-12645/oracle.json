@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/coldkey_swap/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/coldkey_swap/index.mdx",
+      "text": "During that window the swap can be disputed but not completed. If the pending period expires without"
+    },
+    {
+      "path": "content/pages/coldkey_swap/index.mdx",
+      "text": "dispute, the owner must finalize by supplying the destination coldkey, which is checked against the"
+    },
+    {
+      "path": "content/pages/coldkey_swap/index.mdx",
+      "text": "on-chain hash from announcement"
+    },
+    {
+      "path": "content/pages/coldkey_swap/index.mdx",
+      "text": "([Rotate or Swap your Coldkey](https://docs.learnbittensor.org/keys/coldkey-swap))."
+    },
+    {
+      "path": "content/pages/coldkey_swap/index.mdx",
+      "text": "swap is announced. The destination coldkey must also be unused on chain, with no existing hotkey"
+    },
+    {
+      "path": "content/pages/coldkey_swap/index.mdx",
+      "text": "associations such as stake, registrations, or child hotkeys, or the swap fails even after the"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/coldkey_swap/index.mdx",
+      "text": "During that window the swap can be disputed but not completed"
+    },
+    {
+      "path": "content/pages/coldkey_swap/index.mdx",
+      "text": "([Rotate or Swap your Coldkey](https://docs.learnbittensor.org/keys/coldkey-swap),"
+    },
+    {
+      "path": "content/pages/coldkey_swap/index.mdx",
+      "text": "[Subtensor coldkey swap source code](https://github.com/opentensor/subtensor/blob/main/pallets/subtensor/src/swap/swap_coldkey.rs))."
+    },
+    {
+      "path": "content/pages/coldkey_swap/index.mdx",
+      "text": "swap is announced. Holders who only keep and stake TAO without subnet ownerships or registrations"
+    },
+    {
+      "path": "content/pages/coldkey_swap/index.mdx",
+      "text": "may instead move assets through ordinary"
+    },
+    {
+      "path": "content/pages/coldkey_swap/index.mdx",
+      "text": "[transfers](https://docs.learnbittensor.org/resources/glossary#transfer) rather than using the swap"
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

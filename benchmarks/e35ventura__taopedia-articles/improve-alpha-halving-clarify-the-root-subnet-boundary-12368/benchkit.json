@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-alpha-halving-clarify-the-root-subnet-boundary-12368",
+  "title": "improve alpha halving: clarify the Root Subnet boundary",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@826e1c771604556cc4bf79c43f34d53a32004e72",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/0969ae8bf91deba60bc23da138e0a79fa39418e2",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 0969ae8bf91deba60bc23da138e0a79fa39418e2 | Original subject: improve alpha halving: clarify the Root Subnet boundary (#12368)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.471794+00:00"
+}

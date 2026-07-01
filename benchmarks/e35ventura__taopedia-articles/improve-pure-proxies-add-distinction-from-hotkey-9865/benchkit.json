@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-pure-proxies-add-distinction-from-hotkey-9865",
+  "title": "improve pure proxies: add distinction from hotkey",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@6244edd7dbe322bd38bf13f79a1e589ebc06ae4b",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/dd779318b0d113c66f27d72ff0098c6b6fdf2ca1",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: dd779318b0d113c66f27d72ff0098c6b6fdf2ca1 | Original subject: improve pure proxies: add distinction from hotkey (#9865)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.984474+00:00"
+}

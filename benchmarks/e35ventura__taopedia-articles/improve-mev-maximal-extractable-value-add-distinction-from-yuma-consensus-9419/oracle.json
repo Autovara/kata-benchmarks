@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/mev_maximal_extractable_value/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/mev_maximal_extractable_value/index.mdx",
+      "text": "## Distinction from Yuma Consensus"
+    },
+    {
+      "path": "content/pages/mev_maximal_extractable_value/index.mdx",
+      "text": "MEV names value extracted by reordering, inserting, or censoring pending transactions. Yuma"
+    },
+    {
+      "path": "content/pages/mev_maximal_extractable_value/index.mdx",
+      "text": "Consensus is the on-chain mechanism that converts validator weight submissions into emission shares"
+    },
+    {
+      "path": "content/pages/mev_maximal_extractable_value/index.mdx",
+      "text": "each tempo and is not transaction-ordering profit"
+    },
+    {
+      "path": "content/pages/mev_maximal_extractable_value/index.mdx",
+      "text": "([MEV](https://docs.learnbittensor.org/resources/glossary#mev-maximal-extractable-value),"
+    },
+    {
+      "path": "content/pages/mev_maximal_extractable_value/index.mdx",
+      "text": "[Yuma Consensus](https://docs.learnbittensor.org/learn/yuma-consensus),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

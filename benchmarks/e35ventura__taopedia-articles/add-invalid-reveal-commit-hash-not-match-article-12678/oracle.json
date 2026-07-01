@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/invalid_reveal_commit_hash_not_match/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/invalid_reveal_commit_hash_not_match/index.mdx",
+      "text": "title: \"Invalid Reveal Commit Hash Not Match\""
+    },
+    {
+      "path": "content/pages/invalid_reveal_commit_hash_not_match/index.mdx",
+      "text": "summary:"
+    },
+    {
+      "path": "content/pages/invalid_reveal_commit_hash_not_match/index.mdx",
+      "text": "\"How the InvalidRevealCommitHashNotMatch error signals that a reveal_weights call submitted a hash"
+    },
+    {
+      "path": "content/pages/invalid_reveal_commit_hash_not_match/index.mdx",
+      "text": "the runtime could not pair with any non-expired committed hash for the caller.\""
+    },
+    {
+      "path": "content/pages/invalid_reveal_commit_hash_not_match/index.mdx",
+      "text": "category: \"Validation\""
+    },
+    {
+      "path": "content/pages/invalid_reveal_commit_hash_not_match/index.mdx",
+      "text": "tags: [\"Validation\", \"Errors\"]"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

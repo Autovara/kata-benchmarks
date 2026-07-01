@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/recycling_and_burning/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/recycling_and_burning/index.mdx",
+      "text": "These removal paths do not run on every subnet. Root Subnet stake is TAO-denominated, and Subtensor"
+    },
+    {
+      "path": "content/pages/recycling_and_burning/index.mdx",
+      "text": "rejects burn and recycle operations on the root netuid, so recycling-and-burning vocabulary applies"
+    },
+    {
+      "path": "content/pages/recycling_and_burning/index.mdx",
+      "text": "to ordinary subnets rather than Root Subnet staking"
+    },
+    {
+      "path": "content/pages/recycling_and_burning/index.mdx",
+      "text": "([Glossary: Root Subnet/Subnet Zero](https://docs.learnbittensor.org/resources/glossary#root-subnetsubnet-zero),"
+    },
+    {
+      "path": "content/pages/recycling_and_burning/index.mdx",
+      "text": "[Glossary: Recycling and burning](https://docs.learnbittensor.org/resources/glossary#recycling-and-burning))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-governance-add-the-fast-track-approval-condition-12365",
+  "title": "improve governance: add the fast-track approval condition",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@c4dcf8914267980a69b1d85e11960fc2245c0b5c",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/85c7191904eb85f7a1d6a10f216021f8fe751aee",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 85c7191904eb85f7a1d6a10f216021f8fe751aee | Original subject: improve governance: add the fast-track approval condition (#12365)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.757479+00:00"
+}

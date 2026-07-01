@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-subnet-10-clarify-fee-scores-vs-yuma-emissions-11627",
+  "title": "improve subnet_10: clarify fee scores vs Yuma emissions",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@4a8306f82ff7e35041c5bd938d0c3f6dd60650d5",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/d90dc0de2bf3444ac85fc3f11b4ef99ebfb5712f",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: d90dc0de2bf3444ac85fc3f11b4ef99ebfb5712f | Original subject: improve subnet_10: clarify fee scores vs Yuma emissions (#11627)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.148523+00:00"
+}

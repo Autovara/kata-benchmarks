@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/vpermit/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/vpermit/index.mdx",
+      "text": "## A Subnet Limits How Many Validators Get Permits"
+    },
+    {
+      "path": "content/pages/vpermit/index.mdx",
+      "text": "The per-subnet permits a VPermit aggregates are limited in number. By default a subnet awards them"
+    },
+    {
+      "path": "content/pages/vpermit/index.mdx",
+      "text": "to its top stake-weighted neurons up to 64 validators, a cap controlled by the subnet's"
+    },
+    {
+      "path": "content/pages/vpermit/index.mdx",
+      "text": "max_allowed_validators hyperparameter, so a delegate earns a VPermit entry for a subnet only by"
+    },
+    {
+      "path": "content/pages/vpermit/index.mdx",
+      "text": "ranking within that limit"
+    },
+    {
+      "path": "content/pages/vpermit/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fixcommit-reveal-disabled-plain-opening-and-extrinsic-family-triage-12760",
+  "title": "fix(commit_reveal_disabled): plain opening and extrinsic-family triage",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@060b829eca4002387b821171a0654e8f44fe5d0c",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/a8608a8d7e33afc990c3829dd354e8c7436b1422",
+  "visibility": "visible",
+  "status": "retired",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: a8608a8d7e33afc990c3829dd354e8c7436b1422 | Original subject: fix(commit_reveal_disabled): plain opening and extrinsic-family triage (#12760) | Revealed from a retired private holdout pool.",
+  "retired_at": "2026-07-01T03:46:22.108630+00:00",
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:07:55.041639+00:00"
+}

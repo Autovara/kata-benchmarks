@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_symbol/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_symbol/index.mdx",
+      "text": "The documentation assigns those per-subnet symbols in Greek-alphabet order. It refers abstractly to"
+    },
+    {
+      "path": "content/pages/subnet_symbol/index.mdx",
+      "text": "subnet \u03b1's token as \u03b1, subnet \u03b2's as \u03b2, subnet \u03b3's as \u03b3, and so on, while command-line examples show"
+    },
+    {
+      "path": "content/pages/subnet_symbol/index.mdx",
+      "text": "concrete rows such as netuid 1 with an alpha symbol, netuid 2 with beta, netuid 3 with gamma, and"
+    },
+    {
+      "path": "content/pages/subnet_symbol/index.mdx",
+      "text": "netuid 9 with iota in `btcli subnet list` output. TAO uses \u03c4 (tau), and root-subnet examples use"
+    },
+    {
+      "path": "content/pages/subnet_symbol/index.mdx",
+      "text": "capital \u03a4 because that subnet has no separate alpha currency"
+    },
+    {
+      "path": "content/pages/subnet_symbol/index.mdx",
+      "text": "([Understanding Subnets](https://docs.learnbittensor.org/subnets/understanding-subnets),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

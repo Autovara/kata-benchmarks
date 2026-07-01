@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/existential_deposit/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/existential_deposit/index.mdx",
+      "text": "## Distinction from Coldkeys"
+    },
+    {
+      "path": "content/pages/existential_deposit/index.mdx",
+      "text": "A coldkey and the existential deposit name a key and a balance rule that applies to it. The coldkey"
+    },
+    {
+      "path": "content/pages/existential_deposit/index.mdx",
+      "text": "controls the wallet's funds, while the existential deposit is the minimum TAO a coldkey balance must"
+    },
+    {
+      "path": "content/pages/existential_deposit/index.mdx",
+      "text": "keep to stay active; falling below it deactivates the account"
+    },
+    {
+      "path": "content/pages/existential_deposit/index.mdx",
+      "text": "([Glossary: Coldkey](https://docs.learnbittensor.org/resources/glossary#coldkey),"
+    },
+    {
+      "path": "content/pages/existential_deposit/index.mdx",
+      "text": "[Wallets, Coldkeys and Hotkeys](https://docs.learnbittensor.org/keys/wallets))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

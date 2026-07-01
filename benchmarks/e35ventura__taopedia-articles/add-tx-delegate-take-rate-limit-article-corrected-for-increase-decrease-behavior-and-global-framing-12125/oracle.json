@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/tx_delegate_take_rate_limit/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/tx_delegate_take_rate_limit/index.mdx",
+      "text": "title: \"Tx Delegate Take Rate Limit\""
+    },
+    {
+      "path": "content/pages/tx_delegate_take_rate_limit/index.mdx",
+      "text": "summary:"
+    },
+    {
+      "path": "content/pages/tx_delegate_take_rate_limit/index.mdx",
+      "text": "\"How the tx delegate take rate limit sets the block-counted cooldown that paces how often a"
+    },
+    {
+      "path": "content/pages/tx_delegate_take_rate_limit/index.mdx",
+      "text": "delegate's take can be increased on chain.\""
+    },
+    {
+      "path": "content/pages/tx_delegate_take_rate_limit/index.mdx",
+      "text": "category: \"Staking\""
+    },
+    {
+      "path": "content/pages/tx_delegate_take_rate_limit/index.mdx",
+      "text": "tags: [\"Staking\", \"Tokenomics\"]"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

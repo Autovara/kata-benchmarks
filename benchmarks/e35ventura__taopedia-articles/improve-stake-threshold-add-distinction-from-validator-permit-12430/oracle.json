@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/stake_threshold/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/stake_threshold/index.mdx",
+      "text": "## Distinction from Validator Permit"
+    },
+    {
+      "path": "content/pages/stake_threshold/index.mdx",
+      "text": "Stake threshold is the global minimum stake-weight floor for entering the validator-permit candidate"
+    },
+    {
+      "path": "content/pages/stake_threshold/index.mdx",
+      "text": "pool. Validator permit is the per-subnet state showing that a UID actually holds permission to set"
+    },
+    {
+      "path": "content/pages/stake_threshold/index.mdx",
+      "text": "non-self weights after threshold filtering and top-K selection complete"
+    },
+    {
+      "path": "content/pages/stake_threshold/index.mdx",
+      "text": "([Validating in Bittensor](https://docs.learnbittensor.org/validators),"
+    },
+    {
+      "path": "content/pages/stake_threshold/index.mdx",
+      "text": "[Glossary: Validator Permit](https://docs.learnbittensor.org/resources/glossary#validator-permit),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

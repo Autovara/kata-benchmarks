@@ -1,0 +1,1 @@
+content/pages/mining_and_validating/index.mdx

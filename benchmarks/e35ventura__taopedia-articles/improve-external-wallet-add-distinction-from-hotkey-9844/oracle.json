@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/external_wallet/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/external_wallet/index.mdx",
+      "text": "## Distinction from Hotkey"
+    },
+    {
+      "path": "content/pages/external_wallet/index.mdx",
+      "text": "An external wallet and a hotkey name different layers of wallet vocabulary. An external wallet names"
+    },
+    {
+      "path": "content/pages/external_wallet/index.mdx",
+      "text": "where custody or signing control is managed relative to the local Bittensor wallet path, while a"
+    },
+    {
+      "path": "content/pages/external_wallet/index.mdx",
+      "text": "hotkey is a wallet component used for frequent, lower-risk network operations such as validation and"
+    },
+    {
+      "path": "content/pages/external_wallet/index.mdx",
+      "text": "mining activity ([Glossary: Hotkey](https://docs.learnbittensor.org/resources/glossary#hotkey),"
+    },
+    {
+      "path": "content/pages/external_wallet/index.mdx",
+      "text": "[Glossary: External Wallet](https://docs.learnbittensor.org/resources/glossary#external-wallet))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-tx-rate-limit-note-the-documented-startup-constant-of-1000-12442",
+  "title": "improve tx rate limit: note the documented startup constant of 1000",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@a4c7728b10da1dfc13a7c5a39df59428493e3ae2",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/4601d335364b6d42860e7623de3b0eb55c86ee7d",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 4601d335364b6d42860e7623de3b0eb55c86ee7d | Original subject: improve tx rate limit: note the documented startup constant of 1000 (#12442)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.237355+00:00"
+}

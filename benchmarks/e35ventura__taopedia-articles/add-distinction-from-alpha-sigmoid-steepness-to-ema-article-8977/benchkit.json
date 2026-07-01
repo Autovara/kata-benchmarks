@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-alpha-sigmoid-steepness-to-ema-article-8977",
+  "title": "Add Distinction from Alpha Sigmoid Steepness to ema article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@c7a917ee0dd1e91fccf8567ed2ede0e7b54b5a0d",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/e2da29144b3e8c05b8d8fe85828fdc98a8c20a11",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: e2da29144b3e8c05b8d8fe85828fdc98a8c20a11 | Original subject: Add Distinction from Alpha Sigmoid Steepness to ema article (#8977)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.067138+00:00"
+}

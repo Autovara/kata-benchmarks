@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/seed_phrase_security/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/seed_phrase_security/index.mdx",
+      "text": "transactions, access TAO, and manage stake"
+    },
+    {
+      "path": "content/pages/seed_phrase_security/index.mdx",
+      "text": "([Handle your Seed Phrase/Mnemonic Securely](https://docs.learnbittensor.org/keys/handle-seed-phrase),"
+    },
+    {
+      "path": "content/pages/seed_phrase_security/index.mdx",
+      "text": "[Wallets, Coldkeys and Hotkeys](https://docs.learnbittensor.org/keys/wallets))."
+    },
+    {
+      "path": "content/pages/seed_phrase_security/index.mdx",
+      "text": "seed-phrase claims as wallet-safety claims rather than generic account advice"
+    },
+    {
+      "path": "content/pages/seed_phrase_security/index.mdx",
+      "text": "([Wallets, Coldkeys and Hotkeys](https://docs.learnbittensor.org/keys/wallets))."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/seed_phrase_security/index.mdx",
+      "text": "transactions, access TAO, and manage stake."
+    },
+    {
+      "path": "content/pages/seed_phrase_security/index.mdx",
+      "text": "seed-phrase claims as wallet-safety claims rather than generic account advice."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

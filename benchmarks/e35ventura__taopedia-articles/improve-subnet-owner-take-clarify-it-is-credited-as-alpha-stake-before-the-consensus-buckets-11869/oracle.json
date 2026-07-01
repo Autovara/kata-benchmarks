@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_owner_take/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_owner_take/index.mdx",
+      "text": "## How It Is Credited"
+    },
+    {
+      "path": "content/pages/subnet_owner_take/index.mdx",
+      "text": "The owner take is denominated in the subnet's own alpha and credited to the owner as stake, not paid"
+    },
+    {
+      "path": "content/pages/subnet_owner_take/index.mdx",
+      "text": "out as liquid TAO. The owner therefore holds it as a subnet stake position, subject to the same"
+    },
+    {
+      "path": "content/pages/subnet_owner_take/index.mdx",
+      "text": "staking and price dynamics as other alpha staked on that subnet rather than as a fixed TAO payout"
+    },
+    {
+      "path": "content/pages/subnet_owner_take/index.mdx",
+      "text": "([Emission: Distribution](https://docs.learnbittensor.org/learn/emissions#distribution),"
+    },
+    {
+      "path": "content/pages/subnet_owner_take/index.mdx",
+      "text": "[Emission](https://docs.learnbittensor.org/learn/emissions))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

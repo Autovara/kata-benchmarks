@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fix-validator-weights-validator-trust-wording-and-input-side-boundaries-12647",
+  "title": "Fix validator_weights: validator trust wording and input-side boundaries",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@7dae1c6b8b4cec30f5d49f3975da4c1d8f733333",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/c54e9753dc6eb709e913820cc81e7fb802764c29",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: c54e9753dc6eb709e913820cc81e7fb802764c29 | Original subject: Fix validator_weights: validator trust wording and input-side boundaries (#12647)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:07:54.992983+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-min-burn-add-startup-constants-for-the-registration-burn-band-12425",
+  "title": "improve min_burn: add startup constants for the registration burn band",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@1433f72757278831b9866d2495849d1fb9f6f446",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/b115c8434068f7d4612d553210d8a3e61ee9ef60",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: b115c8434068f7d4612d553210d8a3e61ee9ef60 | Original subject: improve min_burn: add startup constants for the registration burn band (#12425)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.912683+00:00"
+}

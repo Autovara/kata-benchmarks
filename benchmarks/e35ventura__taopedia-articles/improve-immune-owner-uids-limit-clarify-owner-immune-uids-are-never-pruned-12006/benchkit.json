@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-immune-owner-uids-limit-clarify-owner-immune-uids-are-never-pruned-12006",
+  "title": "improve immune_owner_uids_limit: clarify owner-immune UIDs are never pruned",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@bff3612fb1634ef6bd61ed300fcdf858dc840da8",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/e0e2cabe098572dbfb51b702577734f2cd25b2e6",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: e0e2cabe098572dbfb51b702577734f2cd25b2e6 | Original subject: improve immune_owner_uids_limit: clarify owner-immune UIDs are never pruned (#12006)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.804788+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-crowdloans-to-extrinsics-article-8679",
+  "title": "Add Distinction from Crowdloans to extrinsics article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@945d75f03e5fa9826d6062c39fa2ea9dc5200d96",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/ec1586ad01e865eb6864a14df9096b1b6aceb5a2",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: ec1586ad01e865eb6864a14df9096b1b6aceb5a2 | Original subject: Add Distinction from Crowdloans to extrinsics article (#8679)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.218611+00:00"
+}

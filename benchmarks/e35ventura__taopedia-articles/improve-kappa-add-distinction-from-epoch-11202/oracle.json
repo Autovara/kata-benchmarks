@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/kappa/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/kappa/index.mdx",
+      "text": "## Distinction from Epoch"
+    },
+    {
+      "path": "content/pages/kappa/index.mdx",
+      "text": "Kappa and an epoch operate at different layers of consensus. Kappa is the majority-threshold"
+    },
+    {
+      "path": "content/pages/kappa/index.mdx",
+      "text": "hyperparameter Yuma Consensus uses to decide the consensus weight at each UID, while an epoch is the"
+    },
+    {
+      "path": "content/pages/kappa/index.mdx",
+      "text": "recurring block interval over which weights are gathered and that consensus computation runs"
+    },
+    {
+      "path": "content/pages/kappa/index.mdx",
+      "text": "([Subnet Hyperparameters: Kappa](https://docs.learnbittensor.org/subnets/subnet-hyperparameters#kappa),"
+    },
+    {
+      "path": "content/pages/kappa/index.mdx",
+      "text": "[Yuma Consensus](https://docs.learnbittensor.org/learn/yuma-consensus),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

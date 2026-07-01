@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fix-delegation-rewards-take-cooldown-applies-to-increases-12596",
+  "title": "fix delegation_rewards: take cooldown applies to increases",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@8f54ef7f01358218a798a51d857cd18d5975586e",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/6b15cb5ba25cd305a2720bcf9fee85422e732b28",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 6b15cb5ba25cd305a2720bcf9fee85422e732b28 | Original subject: fix delegation_rewards: take cooldown applies to increases (#12596)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:07:54.952888+00:00"
+}

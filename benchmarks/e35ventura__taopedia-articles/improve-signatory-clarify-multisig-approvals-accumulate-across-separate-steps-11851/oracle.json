@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/signatory/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/signatory/index.mdx",
+      "text": "These approvals accumulate rather than happening in one step. After a signatory proposes a"
+    },
+    {
+      "path": "content/pages/signatory/index.mdx",
+      "text": "transaction, the other signatories add their approvals separately, and the transaction executes only"
+    },
+    {
+      "path": "content/pages/signatory/index.mdx",
+      "text": "once the threshold is reached, so the approval path can span several actions before completion"
+    },
+    {
+      "path": "content/pages/signatory/index.mdx",
+      "text": "([Secure a Coldkey with a Multisig Wallet](https://docs.learnbittensor.org/keys/multisig))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/rate_limits/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/rate_limits/index.mdx",
+      "text": "`set_children` is paced at 150 blocks, roughly 30 minutes, while raising a child key take percentage"
+    },
+    {
+      "path": "content/pages/rate_limits/index.mdx",
+      "text": "uses `TxChildkeyTakeRateLimit` at 216,000 blocks, roughly 30 days. On chain that limit is enforced"
+    },
+    {
+      "path": "content/pages/rate_limits/index.mdx",
+      "text": "only when the new take is greater than the current take, returning `TxChildkeyTakeRateLimitExceeded`"
+    },
+    {
+      "path": "content/pages/rate_limits/index.mdx",
+      "text": "on a too-soon increase; lowering take is not paced the same way"
+    },
+    {
+      "path": "content/pages/rate_limits/index.mdx",
+      "text": "[Rate Limits: Child key take rate limit](https://docs.learnbittensor.org/learn/chain-rate-limits#child-key-take-rate-limit),"
+    },
+    {
+      "path": "content/pages/rate_limits/index.mdx",
+      "text": "[`set_children`](https://github.com/opentensor/subtensor/blob/main/pallets/subtensor/src/staking/set_children.rs))."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/rate_limits/index.mdx",
+      "text": "`set_children` is paced at 150 blocks, roughly 30 minutes, while changing a child key take"
+    },
+    {
+      "path": "content/pages/rate_limits/index.mdx",
+      "text": "percentage uses `TxChildkeyTakeRateLimit` at 216,000 blocks, roughly 30 days, and returns"
+    },
+    {
+      "path": "content/pages/rate_limits/index.mdx",
+      "text": "`TxChildkeyTakeRateLimitExceeded` when repeated too soon"
+    },
+    {
+      "path": "content/pages/rate_limits/index.mdx",
+      "text": "[Rate Limits: Child key take rate limit](https://docs.learnbittensor.org/learn/chain-rate-limits#child-key-take-rate-limit))."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

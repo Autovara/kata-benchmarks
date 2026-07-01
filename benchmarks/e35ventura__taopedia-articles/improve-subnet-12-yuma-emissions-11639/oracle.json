@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_12/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_12/index.mdx",
+      "text": "fairly across the active miner set."
+    },
+    {
+      "path": "content/pages/subnet_12/index.mdx",
+      "text": "Verified synthetic and organic job scores shape the validator weights submitted on netuid 12; Yuma"
+    },
+    {
+      "path": "content/pages/subnet_12/index.mdx",
+      "text": "Consensus then settles those weights into emission shares each tempo\u2014job-verification scores are"
+    },
+    {
+      "path": "content/pages/subnet_12/index.mdx",
+      "text": "subnet evaluation input, not the emission payout itself"
+    },
+    {
+      "path": "content/pages/subnet_12/index.mdx",
+      "text": "([ComputeHorde repository](https://github.com/backend-developers-ltd/ComputeHorde/),"
+    },
+    {
+      "path": "content/pages/subnet_12/index.mdx",
+      "text": "[Yuma Consensus](https://docs.learnbittensor.org/learn/yuma-consensus),"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/subnet_12/index.mdx",
+      "text": "fairly across the active miner set. Scores from both synthetic and organic job completion feed into"
+    },
+    {
+      "path": "content/pages/subnet_12/index.mdx",
+      "text": "weight vectors submitted to [Yuma Consensus](https://docs.learnbittensor.org/learn/yuma-consensus),"
+    },
+    {
+      "path": "content/pages/subnet_12/index.mdx",
+      "text": "which converts them into emission shares distributed to subnet participants through Dynamic TAO."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

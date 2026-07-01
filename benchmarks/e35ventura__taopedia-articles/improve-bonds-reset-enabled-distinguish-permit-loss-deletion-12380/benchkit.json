@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-bonds-reset-enabled-distinguish-permit-loss-deletion-12380",
+  "title": "improve bonds_reset_enabled: distinguish permit-loss deletion",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@5223276c0e0df22f66921b4e6e6358ca4c2fff47",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/400b3b81f0b53beb2ec36c0311fc5200080088e8",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 400b3b81f0b53beb2ec36c0311fc5200080088e8 | Original subject: improve bonds_reset_enabled: distinguish permit-loss deletion (#12380)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.618634+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/immune_owner_uids_limit/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/immune_owner_uids_limit/index.mdx",
+      "text": "## Effect on Pruning"
+    },
+    {
+      "path": "content/pages/immune_owner_uids_limit/index.mdx",
+      "text": "Owner-immune neurons are skipped entirely when a full subnet selects a UID to replace on"
+    },
+    {
+      "path": "content/pages/immune_owner_uids_limit/index.mdx",
+      "text": "registration. Unlike ordinary post-registration immunity, which can still be pruned as a fallback"
+    },
+    {
+      "path": "content/pages/immune_owner_uids_limit/index.mdx",
+      "text": "when too few non-immune UIDs remain, an owner-immune hotkey is never chosen for displacement, so"
+    },
+    {
+      "path": "content/pages/immune_owner_uids_limit/index.mdx",
+      "text": "this limit caps how many slots stay permanently outside the replacement pool"
+    },
+    {
+      "path": "content/pages/immune_owner_uids_limit/index.mdx",
+      "text": "([`get_neuron_to_prune`](https://github.com/opentensor/subtensor/blob/main/pallets/subtensor/src/subnets/registration.rs))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

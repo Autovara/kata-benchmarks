@@ -1,0 +1,1 @@
+content/pages/transferring_stake/index.mdx

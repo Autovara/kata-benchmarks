@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/staking_operation_rate_limit_exceeded/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/staking_operation_rate_limit_exceeded/index.mdx",
+      "text": "title: \"Staking Operation Rate Limit Exceeded\""
+    },
+    {
+      "path": "content/pages/staking_operation_rate_limit_exceeded/index.mdx",
+      "text": "summary:"
+    },
+    {
+      "path": "content/pages/staking_operation_rate_limit_exceeded/index.mdx",
+      "text": "\"How the StakingOperationRateLimitExceeded error signals that a second staking operation was"
+    },
+    {
+      "path": "content/pages/staking_operation_rate_limit_exceeded/index.mdx",
+      "text": "attempted on a subnet before the one-per-block staking cooldown had cleared.\""
+    },
+    {
+      "path": "content/pages/staking_operation_rate_limit_exceeded/index.mdx",
+      "text": "category: \"Staking\""
+    },
+    {
+      "path": "content/pages/staking_operation_rate_limit_exceeded/index.mdx",
+      "text": "tags: [\"Staking\", \"Errors\"]"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

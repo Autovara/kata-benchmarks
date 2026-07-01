@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/uid_slot/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/uid_slot/index.mdx",
+      "text": "- **UID slot** \u2014 one indexed participant position on a netuid."
+    },
+    {
+      "path": "content/pages/uid_slot/index.mdx",
+      "text": "- **Pruning score** \u2014 ranking that selects which occupied slot is reclaimed first."
+    },
+    {
+      "path": "content/pages/uid_slot/index.mdx",
+      "text": "## Distinction from Validator Registration"
+    },
+    {
+      "path": "content/pages/uid_slot/index.mdx",
+      "text": "Validator registration names the paid entry process when a participant registers a hotkey to"
+    },
+    {
+      "path": "content/pages/uid_slot/index.mdx",
+      "text": "validate on a subnet. A UID slot names the numbered position inside that subnet that successful"
+    },
+    {
+      "path": "content/pages/uid_slot/index.mdx",
+      "text": "entry grants"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

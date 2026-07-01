@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-autostaking-add-distinction-from-effective-stake-10842",
+  "title": "improve autostaking: add distinction from effective stake",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@38e667ed44a501e48e3e6802b7b2378623c5d547",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/a84a77e080cb0fd3dcfb729b27413b77e3e1c2c7",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: a84a77e080cb0fd3dcfb729b27413b77e3e1c2c7 | Original subject: improve autostaking: add distinction from effective stake (#10842)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.528619+00:00"
+}

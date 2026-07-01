@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/last_update/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/last_update/index.mdx",
+      "text": "With dynamic tempos, the inactivity window read against last update is no longer a fixed block count"
+    },
+    {
+      "path": "content/pages/last_update/index.mdx",
+      "text": "on the hyperparameter table alone. Subnets derive the effective cutoff in blocks from activity"
+    },
+    {
+      "path": "content/pages/last_update/index.mdx",
+      "text": "cutoff factor and tempo, so readers comparing last_update to the allowed span need those subnet"
+    },
+    {
+      "path": "content/pages/last_update/index.mdx",
+      "text": "settings rather than a legacy fixed cutoff value"
+    },
+    {
+      "path": "content/pages/last_update/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters),"
+    },
+    {
+      "path": "content/pages/last_update/index.mdx",
+      "text": "[The Subnet Metagraph](https://docs.learnbittensor.org/subnets/metagraph))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

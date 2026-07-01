@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-mining-and-validating-to-incentive-mechanism-article-9058",
+  "title": "Add Distinction from Mining And Validating to incentive mechanism article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@f14ff9d380f09b6044f44774c2f4729e5e995369",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/23a68d136f52d56875d610f8310ce53a04dd71a8",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 23a68d136f52d56875d610f8310ce53a04dd71a8 | Original subject: Add Distinction from Mining And Validating to incentive mechanism article (#9058)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.312161+00:00"
+}

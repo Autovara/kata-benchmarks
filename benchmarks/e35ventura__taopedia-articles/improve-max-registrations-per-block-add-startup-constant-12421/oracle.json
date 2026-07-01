@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/max_registrations_per_block/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/max_registrations_per_block/index.mdx",
+      "text": "The constants reference exposes the startup default as"
+    },
+    {
+      "path": "content/pages/max_registrations_per_block/index.mdx",
+      "text": "`api.consts.subtensorModule.initialMaxRegistrationsPerBlock`, listed as `1`. That value matches the"
+    },
+    {
+      "path": "content/pages/max_registrations_per_block/index.mdx",
+      "text": "documented one-registration default for the legacy per-block cap, while the current hyperparameter"
+    },
+    {
+      "path": "content/pages/max_registrations_per_block/index.mdx",
+      "text": "documentation still marks the setting as unused for live neuron registration"
+    },
+    {
+      "path": "content/pages/max_registrations_per_block/index.mdx",
+      "text": "([Subtensor Constants: initialMaxRegistrationsPerBlock](https://docs.learnbittensor.org/subtensor-api/constants#initialmaxregistrationsperblock),"
+    },
+    {
+      "path": "content/pages/max_registrations_per_block/index.mdx",
+      "text": "[Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

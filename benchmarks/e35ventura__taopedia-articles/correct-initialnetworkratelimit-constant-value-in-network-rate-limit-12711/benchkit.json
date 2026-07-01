@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "correct-initialnetworkratelimit-constant-value-in-network-rate-limit-12711",
+  "title": "Correct initialNetworkRateLimit constant value in network_rate_limit",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@29450d9ad1257a0c2a776b3ff02b9ae5ca7292c8",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/5c9e91887432f642f83d8311377087da92465c48",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 5c9e91887432f642f83d8311377087da92465c48 | Original subject: Correct initialNetworkRateLimit constant value in network_rate_limit (#12711)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:07:54.925279+00:00"
+}

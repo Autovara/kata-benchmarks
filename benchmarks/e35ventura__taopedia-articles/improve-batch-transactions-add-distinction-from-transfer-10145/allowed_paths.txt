@@ -1,0 +1,1 @@
+content/pages/batch_transactions/index.mdx

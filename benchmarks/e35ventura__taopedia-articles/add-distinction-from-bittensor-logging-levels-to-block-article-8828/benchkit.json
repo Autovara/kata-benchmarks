@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-bittensor-logging-levels-to-block-article-8828",
+  "title": "Add Distinction from Bittensor Logging Levels to block article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@199490f5f826c4f1cd38fdfd9184e0431e4c48ba",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/0e6dd18d8c17e928b3f9c39915cdce8ee397aab0",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 0e6dd18d8c17e928b3f9c39915cdce8ee397aab0 | Original subject: Add Distinction from Bittensor Logging Levels to block article (#8828)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.144497+00:00"
+}

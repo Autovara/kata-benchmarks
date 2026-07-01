@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/halving/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/halving/index.mdx",
+      "text": "## TAO Halving Does Not Halve Alpha Rewards"
+    },
+    {
+      "path": "content/pages/halving/index.mdx",
+      "text": "In Dynamic TAO, a TAO halving can reduce TAO injection into subnet pools and the matched alpha"
+    },
+    {
+      "path": "content/pages/halving/index.mdx",
+      "text": "injection alongside it, but the halving documentation states that alpha rewards paid to miners,"
+    },
+    {
+      "path": "content/pages/halving/index.mdx",
+      "text": "validators, and subnet owners do not halve from a TAO halving alone"
+    },
+    {
+      "path": "content/pages/halving/index.mdx",
+      "text": "([Effect on Alpha Emissions](https://docs.learnbittensor.org/concepts/halving#effect-on-alpha-emissions))."
+    },
+    {
+      "path": "content/pages/halving/index.mdx",
+      "text": "This keeps TAO-halving language separate from alpha-halving language. A subnet alpha halving is the"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

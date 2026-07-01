@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_hyperparameters/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_hyperparameters/index.mdx",
+      "text": "## Distinction from Yuma Consensus"
+    },
+    {
+      "path": "content/pages/subnet_hyperparameters/index.mdx",
+      "text": "Subnet hyperparameters name the per-subnet protocol settings that govern timing, limits, and"
+    },
+    {
+      "path": "content/pages/subnet_hyperparameters/index.mdx",
+      "text": "registration behavior. Yuma Consensus is the separate mechanism that converts validator weight"
+    },
+    {
+      "path": "content/pages/subnet_hyperparameters/index.mdx",
+      "text": "submissions into emission shares each tempo"
+    },
+    {
+      "path": "content/pages/subnet_hyperparameters/index.mdx",
+      "text": "([Yuma Consensus](https://docs.learnbittensor.org/learn/yuma-consensus),"
+    },
+    {
+      "path": "content/pages/subnet_hyperparameters/index.mdx",
+      "text": "[Emission](https://docs.learnbittensor.org/learn/emissions),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

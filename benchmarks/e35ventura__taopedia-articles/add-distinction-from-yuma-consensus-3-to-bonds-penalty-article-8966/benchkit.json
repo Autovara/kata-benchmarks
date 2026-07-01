@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-yuma-consensus-3-to-bonds-penalty-article-8966",
+  "title": "Add Distinction from Yuma Consensus 3 to bonds penalty article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@14034d711aecb71816c910bebc9fc6da3f033528",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/c94e9c3a4f1135c743f8d5c238b5f3a5e46e5d19",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: c94e9c3a4f1135c743f8d5c238b5f3a5e46e5d19 | Original subject: Add Distinction from Yuma Consensus 3 to bonds penalty article (#8966)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.392746+00:00"
+}

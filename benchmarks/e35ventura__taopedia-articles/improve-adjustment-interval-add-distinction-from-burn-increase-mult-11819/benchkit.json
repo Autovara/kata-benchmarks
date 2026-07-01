@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-adjustment-interval-add-distinction-from-burn-increase-mult-11819",
+  "title": "improve adjustment_interval: add distinction from burn increase mult",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@8052dd2486a2789a693ecef006199c8701f7c0d3",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/58bf9dd9f98e32f0d04073ad30c231f9981292c8",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 58bf9dd9f98e32f0d04073ad30c231f9981292c8 | Original subject: improve adjustment_interval: add distinction from burn increase mult (#11819)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.467684+00:00"
+}

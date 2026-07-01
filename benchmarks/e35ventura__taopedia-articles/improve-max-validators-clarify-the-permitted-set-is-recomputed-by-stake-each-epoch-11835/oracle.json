@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/max_validators/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/max_validators/index.mdx",
+      "text": "Because permits are awarded to the highest-stake neurons up to this cap, the permitted set is"
+    },
+    {
+      "path": "content/pages/max_validators/index.mdx",
+      "text": "recomputed rather than fixed. As stake shifts between epochs, a neuron near the cap can gain or lose"
+    },
+    {
+      "path": "content/pages/max_validators/index.mdx",
+      "text": "its permit from one epoch to the next without any registration or deregistration, while the cap"
+    },
+    {
+      "path": "content/pages/max_validators/index.mdx",
+      "text": "keeps the total number of permitted validators constant"
+    },
+    {
+      "path": "content/pages/max_validators/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters),"
+    },
+    {
+      "path": "content/pages/max_validators/index.mdx",
+      "text": "[Glossary: Validator Permit](https://docs.learnbittensor.org/resources/glossary#validator-permit),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

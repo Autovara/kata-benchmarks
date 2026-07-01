@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/min_allowed_uids/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/min_allowed_uids/index.mdx",
+      "text": "The constants reference exposes the startup default as"
+    },
+    {
+      "path": "content/pages/min_allowed_uids/index.mdx",
+      "text": "`api.consts.subtensorModule.initialMinAllowedUids`, listed as `64`. That constant names the initial"
+    },
+    {
+      "path": "content/pages/min_allowed_uids/index.mdx",
+      "text": "UID-count floor used for a subnet, while the live `MinAllowedUids` hyperparameter remains"
+    },
+    {
+      "path": "content/pages/min_allowed_uids/index.mdx",
+      "text": "root-governed per-netuid state"
+    },
+    {
+      "path": "content/pages/min_allowed_uids/index.mdx",
+      "text": "([Subtensor Constants: initialMinAllowedUids](https://docs.learnbittensor.org/subtensor-api/constants#initialminalloweduids),"
+    },
+    {
+      "path": "content/pages/min_allowed_uids/index.mdx",
+      "text": "[Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

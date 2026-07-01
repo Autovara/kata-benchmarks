@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/synapse/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/synapse/index.mdx",
+      "text": "## Built on a Pydantic Model"
+    },
+    {
+      "path": "content/pages/synapse/index.mdx",
+      "text": "A synapse is more than a loose collection of fields. The documentation states that synapse objects"
+    },
+    {
+      "path": "content/pages/synapse/index.mdx",
+      "text": "are based on the BaseModel of the Pydantic data validation library, so the structured message"
+    },
+    {
+      "path": "content/pages/synapse/index.mdx",
+      "text": "carries typed, validated fields rather than arbitrary data"
+    },
+    {
+      "path": "content/pages/synapse/index.mdx",
+      "text": "([Glossary: Synapse](https://docs.learnbittensor.org/resources/glossary#synapse))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

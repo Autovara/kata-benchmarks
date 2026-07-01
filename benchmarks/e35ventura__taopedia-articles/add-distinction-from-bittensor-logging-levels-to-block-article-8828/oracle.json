@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/block/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/block/index.mdx",
+      "text": "## Distinction from Bittensor Logging Levels"
+    },
+    {
+      "path": "content/pages/block/index.mdx",
+      "text": "A logging level and a block answer different questions about the same run: how software classified a"
+    },
+    {
+      "path": "content/pages/block/index.mdx",
+      "text": "message versus what the chain recorded as finalized state. A logging level marks severity in local"
+    },
+    {
+      "path": "content/pages/block/index.mdx",
+      "text": "diagnostic output, while a block is the on-chain record that confirms included extrinsics and"
+    },
+    {
+      "path": "content/pages/block/index.mdx",
+      "text": "finalized outcomes, so styled terminal output alone does not prove a chain result"
+    },
+    {
+      "path": "content/pages/block/index.mdx",
+      "text": "([Logging](https://docs.learnbittensor.org/concepts/bt-logging-levels),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

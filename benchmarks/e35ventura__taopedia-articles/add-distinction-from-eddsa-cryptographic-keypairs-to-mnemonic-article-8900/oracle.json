@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/mnemonic/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/mnemonic/index.mdx",
+      "text": "## Distinction from EdDSA Cryptographic Keypairs"
+    },
+    {
+      "path": "content/pages/mnemonic/index.mdx",
+      "text": "Mnemonic names recovery words that can regenerate keys. EdDSA keypairs name the cryptographic pair"
+    },
+    {
+      "path": "content/pages/mnemonic/index.mdx",
+      "text": "structure produced during wallet generation"
+    },
+    {
+      "path": "content/pages/mnemonic/index.mdx",
+      "text": "([Glossary: Mnemonic](https://docs.learnbittensor.org/resources/glossary#mnemonic),"
+    },
+    {
+      "path": "content/pages/mnemonic/index.mdx",
+      "text": "[Glossary: EdDSA Cryptographic Keypairs](https://docs.learnbittensor.org/resources/glossary#eddsa-cryptographic-keypairs))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

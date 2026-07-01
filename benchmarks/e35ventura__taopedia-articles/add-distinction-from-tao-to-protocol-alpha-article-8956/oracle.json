@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/protocol_alpha/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/protocol_alpha/index.mdx",
+      "text": "## Distinction from TAO"
+    },
+    {
+      "path": "content/pages/protocol_alpha/index.mdx",
+      "text": "TAO and protocol alpha have different scopes. TAO is the Bittensor network token, while protocol"
+    },
+    {
+      "path": "content/pages/protocol_alpha/index.mdx",
+      "text": "alpha names subnet-specific alpha tokens in Dynamic TAO tokenomics"
+    },
+    {
+      "path": "content/pages/protocol_alpha/index.mdx",
+      "text": "([Glossary: TAO](https://docs.learnbittensor.org/resources/glossary#tao-tau),"
+    },
+    {
+      "path": "content/pages/protocol_alpha/index.mdx",
+      "text": "[Glossary: Protocol Alpha](https://docs.learnbittensor.org/resources/glossary#protocol-alpha),"
+    },
+    {
+      "path": "content/pages/protocol_alpha/index.mdx",
+      "text": "[Understanding Subnets](https://docs.learnbittensor.org/subnets/understanding-subnets))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

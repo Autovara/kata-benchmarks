@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/alpha_price/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/alpha_price/index.mdx",
+      "text": "## Distinction from Price Discovery"
+    },
+    {
+      "path": "content/pages/alpha_price/index.mdx",
+      "text": "Price discovery and alpha price name a process and its result. Price discovery is how trading and"
+    },
+    {
+      "path": "content/pages/alpha_price/index.mdx",
+      "text": "conversions settle a subnet's price through the pool, while the alpha price is the resulting"
+    },
+    {
+      "path": "content/pages/alpha_price/index.mdx",
+      "text": "TAO-denominated quote that process produces at a given moment"
+    },
+    {
+      "path": "content/pages/alpha_price/index.mdx",
+      "text": "([Understanding Subnets](https://docs.learnbittensor.org/subnets/understanding-subnets),"
+    },
+    {
+      "path": "content/pages/alpha_price/index.mdx",
+      "text": "[Slippage](https://docs.learnbittensor.org/learn/slippage))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

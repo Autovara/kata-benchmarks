@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subtensor_events/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subtensor_events/index.mdx",
+      "text": "## Distinction from Chain Reads"
+    },
+    {
+      "path": "content/pages/subtensor_events/index.mdx",
+      "text": "A chain read and a Subtensor event differ in what they show. A chain read inspects current public"
+    },
+    {
+      "path": "content/pages/subtensor_events/index.mdx",
+      "text": "state at a surface such as storage, while an event is a record the runtime emitted after an action"
+    },
+    {
+      "path": "content/pages/subtensor_events/index.mdx",
+      "text": "was processed"
+    },
+    {
+      "path": "content/pages/subtensor_events/index.mdx",
+      "text": "([Inspecting the Chain](https://docs.learnbittensor.org/concepts/inspecting-the-chain),"
+    },
+    {
+      "path": "content/pages/subtensor_events/index.mdx",
+      "text": "[Subtensor Storage](https://docs.learnbittensor.org/subtensor-api/storage),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

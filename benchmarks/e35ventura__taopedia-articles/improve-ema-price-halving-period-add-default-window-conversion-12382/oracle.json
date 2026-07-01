@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/ema_price_halving_period/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/ema_price_halving_period/index.mdx",
+      "text": "At the documented mainnet and testnet block cadence of one block every 12 seconds, that default of"
+    },
+    {
+      "path": "content/pages/ema_price_halving_period/index.mdx",
+      "text": "201,600 blocks corresponds to about 28 days of smoothing horizon"
+    },
+    {
+      "path": "content/pages/ema_price_halving_period/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters),"
+    },
+    {
+      "path": "content/pages/ema_price_halving_period/index.mdx",
+      "text": "[Bittensor Networks](https://docs.learnbittensor.org/concepts/bittensor-networks))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

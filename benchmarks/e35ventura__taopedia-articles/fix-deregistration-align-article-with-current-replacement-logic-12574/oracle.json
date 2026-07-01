@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/deregistration/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/deregistration/index.mdx",
+      "text": "Official docs still explain the displaced participant in pruning-score terms, using pruning score as"
+    },
+    {
+      "path": "content/pages/deregistration/index.mdx",
+      "text": "shorthand for emissions-based replacement order. In the current runtime, that replacement path is"
+    },
+    {
+      "path": "content/pages/deregistration/index.mdx",
+      "text": "applied by comparing live emissions, immunity status, and registration-block order on ties rather"
+    },
+    {
+      "path": "content/pages/deregistration/index.mdx",
+      "text": "than by reading a maintained pruning-score table"
+    },
+    {
+      "path": "content/pages/deregistration/index.mdx",
+      "text": "([Glossary: Pruning Score](https://docs.learnbittensor.org/resources/glossary#pruning-score),"
+    },
+    {
+      "path": "content/pages/deregistration/index.mdx",
+      "text": "[`get_neuron_to_prune`](https://github.com/opentensor/subtensor/blob/main/pallets/subtensor/src/subnets/registration.rs))."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/deregistration/index.mdx",
+      "text": "Pruning score ranks which UID is most expendable when a full subnet accepts a new registration."
+    },
+    {
+      "path": "content/pages/deregistration/index.mdx",
+      "text": "Deregistration is the removal that frees the selected slot"
+    },
+    {
+      "path": "content/pages/deregistration/index.mdx",
+      "text": "- **Pruning score** \u2014 ranking input for displacement candidates."
+    },
+    {
+      "path": "content/pages/deregistration/index.mdx",
+      "text": "participants, or describe registration commands. Live replacement eligibility belongs in mining and"
+    },
+    {
+      "path": "content/pages/deregistration/index.mdx",
+      "text": "validator references"
+    },
+    {
+      "path": "content/pages/deregistration/index.mdx",
+      "text": "([Glossary: Deregistration](https://docs.learnbittensor.org/resources/glossary#deregistration))."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

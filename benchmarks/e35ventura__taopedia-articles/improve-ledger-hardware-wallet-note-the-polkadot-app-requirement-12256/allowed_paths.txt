@@ -1,0 +1,1 @@
+content/pages/ledger_hardware_wallet/index.mdx

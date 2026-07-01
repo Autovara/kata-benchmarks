@@ -1,0 +1,1 @@
+content/pages/uid_slot/index.mdx

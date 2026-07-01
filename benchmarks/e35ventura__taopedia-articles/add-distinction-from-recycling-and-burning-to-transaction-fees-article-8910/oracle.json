@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/transaction_fees/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/transaction_fees/index.mdx",
+      "text": "## Distinction from Recycling and Burning"
+    },
+    {
+      "path": "content/pages/transaction_fees/index.mdx",
+      "text": "Recycling and burning name a supply-accounting outcome, while a transaction fee names a charge. A"
+    },
+    {
+      "path": "content/pages/transaction_fees/index.mdx",
+      "text": "transaction fee is the cost charged to process an action; its collected amount is then handled"
+    },
+    {
+      "path": "content/pages/transaction_fees/index.mdx",
+      "text": "through recycling rather than the fee itself being a removal category"
+    },
+    {
+      "path": "content/pages/transaction_fees/index.mdx",
+      "text": "([Glossary: Recycling and burning](https://docs.learnbittensor.org/resources/glossary#recycling-and-burning),"
+    },
+    {
+      "path": "content/pages/transaction_fees/index.mdx",
+      "text": "[Transaction Fees in Bittensor](https://docs.learnbittensor.org/learn/fees))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

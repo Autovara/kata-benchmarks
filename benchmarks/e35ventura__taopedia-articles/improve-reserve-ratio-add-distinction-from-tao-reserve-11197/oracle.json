@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/reserve_ratio/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/reserve_ratio/index.mdx",
+      "text": "## Distinction from TAO Reserve"
+    },
+    {
+      "path": "content/pages/reserve_ratio/index.mdx",
+      "text": "A reserve ratio and the TAO reserve relate as a derived ratio and one of its inputs. The TAO reserve"
+    },
+    {
+      "path": "content/pages/reserve_ratio/index.mdx",
+      "text": "is the TAO-side balance held in a subnet's liquidity pool, while the reserve ratio expresses the"
+    },
+    {
+      "path": "content/pages/reserve_ratio/index.mdx",
+      "text": "relationship between that TAO reserve and the alpha reserve \u2014 the proportion that governs price and"
+    },
+    {
+      "path": "content/pages/reserve_ratio/index.mdx",
+      "text": "slippage"
+    },
+    {
+      "path": "content/pages/reserve_ratio/index.mdx",
+      "text": "([Glossary: Reserve Ratio](https://docs.learnbittensor.org/resources/glossary#reserve-ratio),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

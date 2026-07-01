@@ -1,0 +1,1 @@
+content/pages/incentive_mechanism/index.mdx

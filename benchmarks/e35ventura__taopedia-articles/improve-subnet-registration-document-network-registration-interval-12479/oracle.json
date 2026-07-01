@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_registration/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_registration/index.mdx",
+      "text": "Subnet creation is also paced by a network registration rate limit. The rate-limits reference lists"
+    },
+    {
+      "path": "content/pages/subnet_registration/index.mdx",
+      "text": "`NetworkRateLimit` as a 14,400-block interval, about two days, between successful new-subnet"
+    },
+    {
+      "path": "content/pages/subnet_registration/index.mdx",
+      "text": "registrations; the create-a-subnet guide notes that the live value can be queried from"
+    },
+    {
+      "path": "content/pages/subnet_registration/index.mdx",
+      "text": "`subtensorModule.networkRateLimit()`. A creator therefore needs both enough TAO for the current burn"
+    },
+    {
+      "path": "content/pages/subnet_registration/index.mdx",
+      "text": "and enough blocks since the previous subnet registration"
+    },
+    {
+      "path": "content/pages/subnet_registration/index.mdx",
+      "text": "([Chain Rate Limits: Network registration rate limit](https://docs.learnbittensor.org/learn/chain-rate-limits#network-registration-rate-limit),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/incentive_mechanism/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/incentive_mechanism/index.mdx",
+      "text": "## Distinction from Mining And Validating"
+    },
+    {
+      "path": "content/pages/incentive_mechanism/index.mdx",
+      "text": "Mining and validating names the paired subnet roles of work production and evaluation. An incentive"
+    },
+    {
+      "path": "content/pages/incentive_mechanism/index.mdx",
+      "text": "mechanism is the rule set that turns that work into measurable validator signals and emissions"
+    },
+    {
+      "path": "content/pages/incentive_mechanism/index.mdx",
+      "text": "([Miners](https://docs.learnbittensor.org/miners),"
+    },
+    {
+      "path": "content/pages/incentive_mechanism/index.mdx",
+      "text": "[Validators](https://docs.learnbittensor.org/validators),"
+    },
+    {
+      "path": "content/pages/incentive_mechanism/index.mdx",
+      "text": "[Understanding Incentive Mechanisms](https://docs.learnbittensor.org/learn/anatomy-of-incentive-mechanism))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

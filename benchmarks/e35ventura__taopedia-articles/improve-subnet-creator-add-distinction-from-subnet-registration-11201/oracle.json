@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_creator/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_creator/index.mdx",
+      "text": "## Distinction from Subnet Registration"
+    },
+    {
+      "path": "content/pages/subnet_creator/index.mdx",
+      "text": "A subnet creator and subnet registration relate as an actor and the process they perform. A subnet"
+    },
+    {
+      "path": "content/pages/subnet_creator/index.mdx",
+      "text": "creator is the entity that launches and owns a subnet, defining its task and incentive design, while"
+    },
+    {
+      "path": "content/pages/subnet_creator/index.mdx",
+      "text": "subnet registration is the on-chain process \u2014 paying the burn cost to claim a netuid \u2014 that brings"
+    },
+    {
+      "path": "content/pages/subnet_creator/index.mdx",
+      "text": "the subnet into existence"
+    },
+    {
+      "path": "content/pages/subnet_creator/index.mdx",
+      "text": "([Glossary: Subnet Creator](https://docs.learnbittensor.org/resources/glossary#subnet-creator),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

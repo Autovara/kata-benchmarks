@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/polkadot_vault/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/polkadot_vault/index.mdx",
+      "text": "## Distinction from Private Key"
+    },
+    {
+      "path": "content/pages/polkadot_vault/index.mdx",
+      "text": "A private key is the protected secret of a wallet's cryptographic key pair that authorizes actions,"
+    },
+    {
+      "path": "content/pages/polkadot_vault/index.mdx",
+      "text": "while Polkadot Vault is an air-gapped signing environment that holds that key material offline and"
+    },
+    {
+      "path": "content/pages/polkadot_vault/index.mdx",
+      "text": "signs transactions away from the online device"
+    },
+    {
+      "path": "content/pages/polkadot_vault/index.mdx",
+      "text": "([Glossary: Private Key](https://docs.learnbittensor.org/resources/glossary#private-key),"
+    },
+    {
+      "path": "content/pages/polkadot_vault/index.mdx",
+      "text": "[Coldkey and Hotkey Workstation Security](https://docs.learnbittensor.org/keys/coldkey-hotkey-security))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

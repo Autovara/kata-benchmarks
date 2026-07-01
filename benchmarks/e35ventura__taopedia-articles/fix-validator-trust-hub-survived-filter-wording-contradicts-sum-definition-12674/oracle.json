@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/validator_trust/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/validator_trust/index.mdx",
+      "text": "Validator trust is a validator-side Yuma Consensus metric. It sums each validator's clipped weight"
+    },
+    {
+      "path": "content/pages/validator_trust/index.mdx",
+      "text": "contributions across miners after consensus filtering"
+    },
+    {
+      "path": "content/pages/validator_trust/index.mdx",
+      "text": "Validator trust therefore sums those capped contributions across miners after that benchmark is"
+    },
+    {
+      "path": "content/pages/validator_trust/index.mdx",
+      "text": "applied, not from raw submitted scores alone"
+    },
+    {
+      "path": "content/pages/validator_trust/index.mdx",
+      "text": "- **Validator trust** \u2014 validator-side clipped influence summed across miners for one pass."
+    },
+    {
+      "path": "content/pages/validator_trust/index.mdx",
+      "text": "- **Validator trust** \u2014 summed clipped influence from that validator's row after filtering."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/validator_trust/index.mdx",
+      "text": "Validator trust is a validator-side Yuma Consensus metric. It is tied to clipped validator weights"
+    },
+    {
+      "path": "content/pages/validator_trust/index.mdx",
+      "text": "and indicates validator influence after consensus filtering"
+    },
+    {
+      "path": "content/pages/validator_trust/index.mdx",
+      "text": "Validator trust therefore measures influence from weights that survived that filter, not from raw"
+    },
+    {
+      "path": "content/pages/validator_trust/index.mdx",
+      "text": "submitted scores alone"
+    },
+    {
+      "path": "content/pages/validator_trust/index.mdx",
+      "text": "## Distinction from Trust"
+    },
+    {
+      "path": "content/pages/validator_trust/index.mdx",
+      "text": "- **Trust** \u2014 miner-side clipping outcome."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

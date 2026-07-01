@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/register/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/register/index.mdx",
+      "text": "Neuron registration is continuous on ordinary subnets such as netuid 1. There are no interval-based"
+    },
+    {
+      "path": "content/pages/register/index.mdx",
+      "text": "registration windows; admission is priced through a burn that decays between registrations and rises"
+    },
+    {
+      "path": "content/pages/register/index.mdx",
+      "text": "with each successful registration through `BurnHalfLife` and `BurnIncreaseMult`"
+    },
+    {
+      "path": "content/pages/register/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    },
+    {
+      "path": "content/pages/register/index.mdx",
+      "text": "That continuity still leaves a per-block success cap. `MaxRegistrationsPerBlock` limits how many"
+    },
+    {
+      "path": "content/pages/register/index.mdx",
+      "text": "registrations can succeed on a netuid in the current block; when the block counter is full,"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/register/index.mdx",
+      "text": "Neuron registration is continuous on ordinary subnets. There are no registration windows, rate"
+    },
+    {
+      "path": "content/pages/register/index.mdx",
+      "text": "limits, or per-block caps on the admission action itself. Admission is governed by a burn price that"
+    },
+    {
+      "path": "content/pages/register/index.mdx",
+      "text": "decays over time between registrations and rises with each successful registration through"
+    },
+    {
+      "path": "content/pages/register/index.mdx",
+      "text": "`BurnHalfLife` and `BurnIncreaseMult` on a subnet such as netuid 1"
+    },
+    {
+      "path": "content/pages/register/index.mdx",
+      "text": "([Rate Limits: Neuron registration](https://docs.learnbittensor.org/learn/chain-rate-limits#neuron-uid-registration),"
+    },
+    {
+      "path": "content/pages/register/index.mdx",
+      "text": "[Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/sandwich_attack/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/sandwich_attack/index.mdx",
+      "text": "## Distinction from Front-Running"
+    },
+    {
+      "path": "content/pages/sandwich_attack/index.mdx",
+      "text": "A sandwich attack and front-running are related MEV tactics of different scope. Front-running places"
+    },
+    {
+      "path": "content/pages/sandwich_attack/index.mdx",
+      "text": "a transaction ahead of a victim's pending trade to act first, while a sandwich attack brackets the"
+    },
+    {
+      "path": "content/pages/sandwich_attack/index.mdx",
+      "text": "victim \u2014 front-running with a buy before and back-running with a sell after \u2014 so front-running is"
+    },
+    {
+      "path": "content/pages/sandwich_attack/index.mdx",
+      "text": "one half of the sandwich rather than the whole maneuver"
+    },
+    {
+      "path": "content/pages/sandwich_attack/index.mdx",
+      "text": "([Glossary: MEV](https://docs.learnbittensor.org/resources/glossary#mev-maximal-extractable-value),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

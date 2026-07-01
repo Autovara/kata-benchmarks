@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/stake/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/stake/index.mdx",
+      "text": "There is also a lower protocol floor for stake and unstake amounts. The constants reference lists"
+    },
+    {
+      "path": "content/pages/stake/index.mdx",
+      "text": "`api.consts.subtensorModule.initialMinStake` as `2000000`, and the custom-error reference describes"
+    },
+    {
+      "path": "content/pages/stake/index.mdx",
+      "text": "`StakeAmountTooLow` as the error for amounts below 2,000,000 RAO, equal to 0.002 TAO. That smaller"
+    },
+    {
+      "path": "content/pages/stake/index.mdx",
+      "text": "transaction floor is separate from the 0.1 TAO nominator minimum above"
+    },
+    {
+      "path": "content/pages/stake/index.mdx",
+      "text": "([Subtensor Constants: initialMinStake](https://docs.learnbittensor.org/subtensor-api/constants#initialminstake),"
+    },
+    {
+      "path": "content/pages/stake/index.mdx",
+      "text": "[Subtensor Custom Errors](https://docs.learnbittensor.org/errors/custom),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

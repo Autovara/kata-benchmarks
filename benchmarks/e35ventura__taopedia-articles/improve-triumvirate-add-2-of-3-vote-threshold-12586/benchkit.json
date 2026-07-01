@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-triumvirate-add-2-of-3-vote-threshold-12586",
+  "title": "improve triumvirate: add 2-of-3 vote threshold",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@aefeb76aba6f1f7daf7d36b6e8ecda6e3bb6fbee",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/a6aa01916cf6dfabebe536407704f2828dd54074",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: a6aa01916cf6dfabebe536407704f2828dd54074 | Original subject: improve triumvirate: add 2-of-3 vote threshold (#12586)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.232229+00:00"
+}

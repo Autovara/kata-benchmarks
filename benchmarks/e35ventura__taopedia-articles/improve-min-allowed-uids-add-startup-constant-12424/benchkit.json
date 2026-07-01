@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-min-allowed-uids-add-startup-constant-12424",
+  "title": "improve min_allowed_uids: add startup constant",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@b35aa1012aca41cc94155c95db1ed182801ad435",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/1433f72757278831b9866d2495849d1fb9f6f446",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 1433f72757278831b9866d2495849d1fb9f6f446 | Original subject: improve min_allowed_uids: add startup constant (#12424)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.908023+00:00"
+}

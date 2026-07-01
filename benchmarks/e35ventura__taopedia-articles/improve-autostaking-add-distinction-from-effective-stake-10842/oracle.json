@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/autostaking/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/autostaking/index.mdx",
+      "text": "## Distinction from Effective Stake"
+    },
+    {
+      "path": "content/pages/autostaking/index.mdx",
+      "text": "Autostaking and effective stake relate as an action and a measured total. Autostaking is the"
+    },
+    {
+      "path": "content/pages/autostaking/index.mdx",
+      "text": "behavior of automatically restaking emissions back into stake so they compound, while effective"
+    },
+    {
+      "path": "content/pages/autostaking/index.mdx",
+      "text": "stake is a validator's combined self-and-delegated stake total that determines its consensus"
+    },
+    {
+      "path": "content/pages/autostaking/index.mdx",
+      "text": "influence; autostaked emissions add to the stake that feeds a validator's effective stake"
+    },
+    {
+      "path": "content/pages/autostaking/index.mdx",
+      "text": "([Auto Staking for Miners](https://docs.learnbittensor.org/miners/autostaking),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

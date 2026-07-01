@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/address_poisoning_scams/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/address_poisoning_scams/index.mdx",
+      "text": "## Distinction from Yuma Consensus"
+    },
+    {
+      "path": "content/pages/address_poisoning_scams/index.mdx",
+      "text": "Address poisoning scams name destination-verification risk when copying wallet addresses. Yuma"
+    },
+    {
+      "path": "content/pages/address_poisoning_scams/index.mdx",
+      "text": "Consensus is the on-chain mechanism that converts validator weight submissions into emission shares"
+    },
+    {
+      "path": "content/pages/address_poisoning_scams/index.mdx",
+      "text": "each tempo and does not involve address-book deception"
+    },
+    {
+      "path": "content/pages/address_poisoning_scams/index.mdx",
+      "text": "([Address Poisoning Scams](https://docs.learnbittensor.org/keys/address-poisoning-scams),"
+    },
+    {
+      "path": "content/pages/address_poisoning_scams/index.mdx",
+      "text": "[Yuma Consensus](https://docs.learnbittensor.org/learn/yuma-consensus),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

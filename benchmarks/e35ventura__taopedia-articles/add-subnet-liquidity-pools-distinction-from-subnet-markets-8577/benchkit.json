@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-subnet-liquidity-pools-distinction-from-subnet-markets-8577",
+  "title": "Add subnet liquidity pools distinction from subnet markets",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@66111503d46e82ae5d767f73ae1210edbbe4bfce",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/af1f189346ba68878d3a6482436254fe79aed735",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: af1f189346ba68878d3a6482436254fe79aed735 | Original subject: Add subnet liquidity pools distinction from subnet markets (#8577)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.402340+00:00"
+}

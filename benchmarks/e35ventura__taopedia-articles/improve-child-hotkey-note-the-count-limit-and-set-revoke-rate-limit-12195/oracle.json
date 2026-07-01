@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/child_hotkey/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/child_hotkey/index.mdx",
+      "text": "## Limits on Assigning Child Hotkeys"
+    },
+    {
+      "path": "content/pages/child_hotkey/index.mdx",
+      "text": "The child hotkeys documentation sets concrete limits on the assignment. A single parent hotkey can"
+    },
+    {
+      "path": "content/pages/child_hotkey/index.mdx",
+      "text": "have at most five child hotkeys on a given subnet, and setting or revoking children is rate-limited"
+    },
+    {
+      "path": "content/pages/child_hotkey/index.mdx",
+      "text": "to once every 150 blocks, roughly thirty minutes. Each assigned proportion must be above zero, and"
+    },
+    {
+      "path": "content/pages/child_hotkey/index.mdx",
+      "text": "the proportions across all children cannot sum to more than one, so any share left unassigned stays"
+    },
+    {
+      "path": "content/pages/child_hotkey/index.mdx",
+      "text": "with the parent hotkey ([Child Hotkeys](https://docs.learnbittensor.org/validators/child-hotkeys))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

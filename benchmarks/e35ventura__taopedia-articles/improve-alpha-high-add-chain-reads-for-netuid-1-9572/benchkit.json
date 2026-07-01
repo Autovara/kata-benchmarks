@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-alpha-high-add-chain-reads-for-netuid-1-9572",
+  "title": "improve alpha_high: add chain reads for netuid 1",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@4d091c16a5bf9b9400127446fdca70dfc9e9ce27",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/78c653b05ac3c7b621d01d3df8855edd04da819e",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 78c653b05ac3c7b621d01d3df8855edd04da819e | Original subject: improve alpha_high: add chain reads for netuid 1 (#9572)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.487616+00:00"
+}

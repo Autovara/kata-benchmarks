@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-tao-weight-note-the-18-percent-value-targets-tao-alpha-parity-in-about-100-days-12420",
+  "title": "improve tao weight: note the 18 percent value targets TAO alpha parity in about 100 days",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@0e6286eca24bac19b0fc9bd4d22ae61e78579428",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/bb6565426e455e3c7ffd8b8df68aa075f70cc54a",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: bb6565426e455e3c7ffd8b8df68aa075f70cc54a | Original subject: improve tao weight: note the 18 percent value targets TAO alpha parity in about 100 days (#12420)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.204236+00:00"
+}

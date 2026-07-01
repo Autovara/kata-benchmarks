@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/activity_cutoff/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/activity_cutoff/index.mdx",
+      "text": "live chain state that should be checked for the relevant netuid."
+    },
+    {
+      "path": "content/pages/activity_cutoff/index.mdx",
+      "text": "The 5,000-block figure names the documented default for the legacy fixed-block hyperparameter. Under"
+    },
+    {
+      "path": "content/pages/activity_cutoff/index.mdx",
+      "text": "dynamic tempos, that parameter is no longer settable; live inactivity tolerance is configured"
+    },
+    {
+      "path": "content/pages/activity_cutoff/index.mdx",
+      "text": "[activity cutoff factor](https://docs.learnbittensor.org/subnets/subnet-hyperparameters#activitycutofffactor)"
+    },
+    {
+      "path": "content/pages/activity_cutoff/index.mdx",
+      "text": "on each netuid instead"
+    },
+    {
+      "path": "content/pages/activity_cutoff/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters),"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/activity_cutoff/index.mdx",
+      "text": "live chain state that should be checked for the relevant netuid. The 5000-block figure here is the"
+    },
+    {
+      "path": "content/pages/activity_cutoff/index.mdx",
+      "text": "documented default, and the value for a given subnet is owner-settable"
+    },
+    {
+      "path": "content/pages/activity_cutoff/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

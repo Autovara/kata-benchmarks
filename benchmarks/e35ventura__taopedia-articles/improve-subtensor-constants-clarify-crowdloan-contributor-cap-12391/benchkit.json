@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-subtensor-constants-clarify-crowdloan-contributor-cap-12391",
+  "title": "improve subtensor constants: clarify crowdloan contributor cap",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@5958d0b530b5360cab98a0480456c540b960be74",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/52768db6a13d03a6a26074176495bec3a00b0a4e",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 52768db6a13d03a6a26074176495bec3a00b0a4e | Original subject: improve subtensor constants: clarify crowdloan contributor cap (#12391)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.189777+00:00"
+}

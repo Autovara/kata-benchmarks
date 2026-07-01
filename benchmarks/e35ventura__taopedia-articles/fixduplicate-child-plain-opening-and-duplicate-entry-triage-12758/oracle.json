@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/duplicate_child/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/duplicate_child/index.mdx",
+      "text": "`DuplicateChild` means the same child hotkey was listed more than once in one child-set call for a"
+    },
+    {
+      "path": "content/pages/duplicate_child/index.mdx",
+      "text": "parent on a subnet. The standard-errors reference describes it as \"Duplicate child when setting"
+    },
+    {
+      "path": "content/pages/duplicate_child/index.mdx",
+      "text": "children\""
+    },
+    {
+      "path": "content/pages/duplicate_child/index.mdx",
+      "text": "The scan applies to the submitted list itself, not to whether that hotkey was already a child before"
+    },
+    {
+      "path": "content/pages/duplicate_child/index.mdx",
+      "text": "the call ([Child Hotkeys](https://docs.learnbittensor.org/validators/child-hotkeys))."
+    },
+    {
+      "path": "content/pages/duplicate_child/index.mdx",
+      "text": "A `set_children` call submits a full list of"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/duplicate_child/index.mdx",
+      "text": "`DuplicateChild` is a documented Subtensor standard error raised by the `schedule_children`"
+    },
+    {
+      "path": "content/pages/duplicate_child/index.mdx",
+      "text": "extrinsic. The standard-errors reference describes it as \"Duplicate child when setting children\""
+    },
+    {
+      "path": "content/pages/duplicate_child/index.mdx",
+      "text": "A `schedule_children` call submits a full list of"
+    },
+    {
+      "path": "content/pages/duplicate_child/index.mdx",
+      "text": "each paired with its own stake proportion. `do_schedule_children` scans that list for repeats before"
+    },
+    {
+      "path": "content/pages/duplicate_child/index.mdx",
+      "text": "accepting it, and raises `DuplicateChild` as soon as it finds the same child hotkey listed a second"
+    },
+    {
+      "path": "content/pages/duplicate_child/index.mdx",
+      "text": "([Subtensor source: set_children.rs](https://github.com/opentensor/subtensor/blob/main/pallets/subtensor/src/staking/set_children.rs))."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

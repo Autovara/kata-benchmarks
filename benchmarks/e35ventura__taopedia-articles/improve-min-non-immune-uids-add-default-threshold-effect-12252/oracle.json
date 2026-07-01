@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/min_non_immune_uids/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/min_non_immune_uids/index.mdx",
+      "text": "With that documented default of `10`, the pruning fallback described above can begin as soon as a"
+    },
+    {
+      "path": "content/pages/min_non_immune_uids/index.mdx",
+      "text": "subnet has only ten non-immune UIDs left, because pruning one more non-immune UID would violate the"
+    },
+    {
+      "path": "content/pages/min_non_immune_uids/index.mdx",
+      "text": "floor and force selection to fall back to the lowest-ranked immune UID instead"
+    },
+    {
+      "path": "content/pages/min_non_immune_uids/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

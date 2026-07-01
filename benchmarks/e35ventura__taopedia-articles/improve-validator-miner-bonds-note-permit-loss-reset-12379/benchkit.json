@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-validator-miner-bonds-note-permit-loss-reset-12379",
+  "title": "improve validator_miner_bonds: note permit-loss reset",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@6c2a7c79b788e01823817c91964b90bb48562073",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/5223276c0e0df22f66921b4e6e6358ca4c2fff47",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 5223276c0e0df22f66921b4e6e6358ca4c2fff47 | Original subject: improve validator_miner_bonds: note permit-loss reset (#12379)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.254810+00:00"
+}

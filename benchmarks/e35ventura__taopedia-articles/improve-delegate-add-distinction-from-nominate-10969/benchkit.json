@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-delegate-add-distinction-from-nominate-10969",
+  "title": "improve delegate: add distinction from nominate",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@d41ce6fc5a4856fd9d091948deba882529e142d1",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/9ae3f89f77c58e20d601816fc71d5c6275e8fb54",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 9ae3f89f77c58e20d601816fc71d5c6275e8fb54 | Original subject: improve delegate: add distinction from nominate (#10969)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.668116+00:00"
+}

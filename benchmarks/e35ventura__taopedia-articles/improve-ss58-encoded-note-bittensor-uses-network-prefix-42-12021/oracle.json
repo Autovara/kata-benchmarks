@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/ss58_encoded/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/ss58_encoded/index.mdx",
+      "text": "## A Network Prefix Makes the Address Bittensor-Specific"
+    },
+    {
+      "path": "content/pages/ss58_encoded/index.mdx",
+      "text": "Bittensor encodes SS58 addresses with the network prefix 42. Because that prefix is part of the"
+    },
+    {
+      "path": "content/pages/ss58_encoded/index.mdx",
+      "text": "encoded string, the same public key produces a Bittensor-specific SS58 address rather than one"
+    },
+    {
+      "path": "content/pages/ss58_encoded/index.mdx",
+      "text": "shared unchanged across every Substrate network"
+    },
+    {
+      "path": "content/pages/ss58_encoded/index.mdx",
+      "text": "([Convert Ethereum H160 Address to Substrate SS58](https://docs.learnbittensor.org/evm-tutorials/convert-h160-to-ss58))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

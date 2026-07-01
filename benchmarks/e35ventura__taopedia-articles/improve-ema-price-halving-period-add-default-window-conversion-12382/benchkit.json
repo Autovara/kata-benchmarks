@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-ema-price-halving-period-add-default-window-conversion-12382",
+  "title": "improve ema_price_halving_period: add default window conversion",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@79908bcf927d2305a4b38bbebd5b8b84cd2a9061",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/c06c2ca466bd37c61e5ed58dd663e01f79f115a9",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: c06c2ca466bd37c61e5ed58dd663e01f79f115a9 | Original subject: improve ema_price_halving_period: add default window conversion (#12382)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.717157+00:00"
+}

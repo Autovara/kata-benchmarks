@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/active_uid/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/active_uid/index.mdx",
+      "text": "## Distinction from Yuma Consensus"
+    },
+    {
+      "path": "content/pages/active_uid/index.mdx",
+      "text": "Active UID is a metagraph flag showing whether a subnet slot currently satisfies activity conditions"
+    },
+    {
+      "path": "content/pages/active_uid/index.mdx",
+      "text": "for participation. Yuma Consensus is the separate tempo process that converts participating"
+    },
+    {
+      "path": "content/pages/active_uid/index.mdx",
+      "text": "validators' weight submissions into emission shares each epoch"
+    },
+    {
+      "path": "content/pages/active_uid/index.mdx",
+      "text": "([Glossary: Active UID](https://docs.learnbittensor.org/resources/glossary#active-uid),"
+    },
+    {
+      "path": "content/pages/active_uid/index.mdx",
+      "text": "[Yuma Consensus](https://docs.learnbittensor.org/learn/yuma-consensus),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

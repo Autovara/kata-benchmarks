@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-subnet-creator-add-distinction-from-subnet-registration-11201",
+  "title": "improve subnet_creator: add distinction from Subnet Registration",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@23fc437a4cd067c248aec0a4e08490dcd7eb5922",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/b5b00fafc11bd6ed64a563f6be97043e4034cb2f",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: b5b00fafc11bd6ed64a563f6be97043e4034cb2f | Original subject: improve subnet_creator: add distinction from Subnet Registration (#11201)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.153483+00:00"
+}

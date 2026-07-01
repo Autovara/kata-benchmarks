@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-burning-add-distinction-from-register-9943",
+  "title": "improve burning: add distinction from register",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@2babbb302962c69f82c10df8f3db653bb8f0237a",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/449eb01bb2f5bce51f1c8e6db78ba392ef6d4446",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 449eb01bb2f5bce51f1c8e6db78ba392ef6d4446 | Original subject: improve burning: add distinction from register (#9943)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.624988+00:00"
+}

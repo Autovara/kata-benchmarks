@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-miner-registration-to-immunity-period-article-9056",
+  "title": "Add Distinction from Miner Registration to immunity period article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@ac49d9940bb488b9cb16ed8da426ec2c351176cc",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/0ead58282e1e7300d3c2e91910a8d3caa9493308",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 0ead58282e1e7300d3c2e91910a8d3caa9493308 | Original subject: Add Distinction from Miner Registration to immunity period article (#9056)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.307803+00:00"
+}

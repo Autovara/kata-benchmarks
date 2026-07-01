@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/eddsa_cryptographic_keypairs/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/eddsa_cryptographic_keypairs/index.mdx",
+      "text": "## Distinction from H160 Address"
+    },
+    {
+      "path": "content/pages/eddsa_cryptographic_keypairs/index.mdx",
+      "text": "EdDSA cryptographic keypairs are a native Bittensor wallet key scheme of public and private keys"
+    },
+    {
+      "path": "content/pages/eddsa_cryptographic_keypairs/index.mdx",
+      "text": "generated with EdDSA, while an H160 address is the Ethereum-style account format used by EVM wallets"
+    },
+    {
+      "path": "content/pages/eddsa_cryptographic_keypairs/index.mdx",
+      "text": "in Bittensor EVM ([Wallets](https://docs.learnbittensor.org/getting-started/wallets),"
+    },
+    {
+      "path": "content/pages/eddsa_cryptographic_keypairs/index.mdx",
+      "text": "[Bittensor EVM Smart Contracts](https://docs.learnbittensor.org/evm-tutorials))."
+    },
+    {
+      "path": "content/pages/eddsa_cryptographic_keypairs/index.mdx",
+      "text": "Native-keypair vocabulary names the EdDSA signing scheme; H160 vocabulary names the EVM-side address"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/commit_reveal_period/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/commit_reveal_period/index.mdx",
+      "text": "## Distinction from Time Lock Encryption"
+    },
+    {
+      "path": "content/pages/commit_reveal_period/index.mdx",
+      "text": "The commit reveal period is the `CommitRevealPeriod` hyperparameter that sets how many tempos pass"
+    },
+    {
+      "path": "content/pages/commit_reveal_period/index.mdx",
+      "text": "before committed weights are revealed. Time-lock encryption is the cryptographic primitive that"
+    },
+    {
+      "path": "content/pages/commit_reveal_period/index.mdx",
+      "text": "keeps committed weights unreadable across that window"
+    },
+    {
+      "path": "content/pages/commit_reveal_period/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters),"
+    },
+    {
+      "path": "content/pages/commit_reveal_period/index.mdx",
+      "text": "[Commit Reveal](https://docs.learnbittensor.org/concepts/commit-reveal),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

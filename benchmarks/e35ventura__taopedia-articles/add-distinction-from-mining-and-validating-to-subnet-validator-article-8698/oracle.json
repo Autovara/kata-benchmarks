@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_validator/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_validator/index.mdx",
+      "text": "## Distinction from Mining and Validating"
+    },
+    {
+      "path": "content/pages/subnet_validator/index.mdx",
+      "text": "Mining and validating also differs from subnet validator in scope. Subnet validator names the"
+    },
+    {
+      "path": "content/pages/subnet_validator/index.mdx",
+      "text": "participant that evaluates miner responses and sets weights, while mining and validating keeps both"
+    },
+    {
+      "path": "content/pages/subnet_validator/index.mdx",
+      "text": "role paths in one introductory frame ([Validators](https://docs.learnbittensor.org/validators),"
+    },
+    {
+      "path": "content/pages/subnet_validator/index.mdx",
+      "text": "[Glossary: Subnet Validator](https://docs.learnbittensor.org/resources/glossary#subnet-validator),"
+    },
+    {
+      "path": "content/pages/subnet_validator/index.mdx",
+      "text": "[Introduction to Bittensor](https://docs.learnbittensor.org/learn/introduction))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

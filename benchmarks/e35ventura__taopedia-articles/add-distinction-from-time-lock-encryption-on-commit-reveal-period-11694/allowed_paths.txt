@@ -1,0 +1,1 @@
+content/pages/commit_reveal_period/index.mdx

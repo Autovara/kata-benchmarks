@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/coinbase/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/coinbase/index.mdx",
+      "text": "triggers Yuma Consensus at subnet tempo boundaries.\""
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/coinbase/index.mdx",
+      "text": "triggers Yuma Consensus every block.\""
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

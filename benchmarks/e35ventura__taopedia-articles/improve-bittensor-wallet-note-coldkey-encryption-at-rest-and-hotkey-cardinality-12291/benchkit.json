@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-bittensor-wallet-note-coldkey-encryption-at-rest-and-hotkey-cardinality-12291",
+  "title": "improve bittensor wallet: note coldkey encryption-at-rest and hotkey cardinality",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@b2ac2f8feb31868ed27bcc0f4c116c667d4cd2d2",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/166888c4b716c9f4e87f0ca9fee56e3bc8b46387",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 166888c4b716c9f4e87f0ca9fee56e3bc8b46387 | Original subject: improve bittensor wallet: note coldkey encryption-at-rest and hotkey cardinality (#12291)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.577465+00:00"
+}

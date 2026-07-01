@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-time-lock-encryption-on-commit-reveal-period-11694",
+  "title": "Add Distinction from Time Lock Encryption on commit reveal period",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@484f5237e476dc83c487bf8fae9066fd768b9d79",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/6be17a44e356c9216df9ad51086c0ee7ad0f3777",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 6be17a44e356c9216df9ad51086c0ee7ad0f3777 | Original subject: Add Distinction from Time Lock Encryption on commit reveal period (#11694)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.384424+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-axon-add-distinction-from-serving-rate-limit-11045",
+  "title": "improve axon: add distinction from Serving Rate Limit",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@a0c867035f221738702fd64aa6cf54efd8a54c7b",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/b85aa6f86f83e8d2ce603201645528d133635213",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: b85aa6f86f83e8d2ce603201645528d133635213 | Original subject: improve axon: add distinction from Serving Rate Limit (#11045)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.535846+00:00"
+}

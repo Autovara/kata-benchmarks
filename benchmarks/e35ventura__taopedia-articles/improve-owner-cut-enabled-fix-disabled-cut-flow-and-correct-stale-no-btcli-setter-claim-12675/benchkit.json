@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-owner-cut-enabled-fix-disabled-cut-flow-and-correct-stale-no-btcli-setter-claim-12675",
+  "title": "improve owner_cut_enabled: fix disabled-cut flow and correct stale no-btcli-setter claim",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@d13c09bc6817c56ab2119416b608d2948140f7bb",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/2c9f885b8689670e14ad5bc430db0dbc782d837f",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 2c9f885b8689670e14ad5bc430db0dbc782d837f | Original subject: improve owner_cut_enabled: fix disabled-cut flow and correct stale no-btcli-setter claim (#12675)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:48.975365+00:00"
+}

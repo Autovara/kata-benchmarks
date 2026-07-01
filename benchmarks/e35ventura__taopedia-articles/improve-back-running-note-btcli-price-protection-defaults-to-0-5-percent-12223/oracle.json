@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/back_running/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/back_running/index.mdx",
+      "text": "In btcli, price protection is enabled by default with a tolerance of 0.5%; the documentation notes"
+    },
+    {
+      "path": "content/pages/back_running/index.mdx",
+      "text": "that the SDK, unlike btcli, does not enable it by default and must be configured explicitly"
+    },
+    {
+      "path": "content/pages/back_running/index.mdx",
+      "text": "([Price Protection](https://docs.learnbittensor.org/learn/price-protection))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

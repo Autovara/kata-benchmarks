@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fix-burn-half-life-separate-decay-timing-from-per-block-registration-cap-11994",
+  "title": "fix burn_half_life: separate decay timing from per-block registration cap",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@b7304a55721f4fe3fd28263d970f508cb81eb0ef",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/c6c6ac291dbdb142937185b3cff00a1e9e04a193",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: c6c6ac291dbdb142937185b3cff00a1e9e04a193 | Original subject: fix burn_half_life: separate decay timing from per-block registration cap (#11994)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:48.992839+00:00"
+}

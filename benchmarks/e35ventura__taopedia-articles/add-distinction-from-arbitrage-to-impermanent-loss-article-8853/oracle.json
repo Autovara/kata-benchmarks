@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/impermanent_loss/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/impermanent_loss/index.mdx",
+      "text": "## Distinction from Arbitrage"
+    },
+    {
+      "path": "content/pages/impermanent_loss/index.mdx",
+      "text": "Arbitrage closes a price gap through trading. Impermanent loss names the drift exposure a liquidity"
+    },
+    {
+      "path": "content/pages/impermanent_loss/index.mdx",
+      "text": "provider bears while capital sits in the pool"
+    },
+    {
+      "path": "content/pages/impermanent_loss/index.mdx",
+      "text": "([User Liquidity Positions](https://docs.learnbittensor.org/liquidity-positions),"
+    },
+    {
+      "path": "content/pages/impermanent_loss/index.mdx",
+      "text": "[Slippage](https://docs.learnbittensor.org/learn/slippage))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

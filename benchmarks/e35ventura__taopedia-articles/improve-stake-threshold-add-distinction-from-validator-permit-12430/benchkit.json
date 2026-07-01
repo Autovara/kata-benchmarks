@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-stake-threshold-add-distinction-from-validator-permit-12430",
+  "title": "improve stake_threshold: add distinction from validator permit",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@7b01f1c3293aaf1be9e4e1cca9df28a3d19d86b1",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/94c97fb2d1ad6dd9baf815d5b5e0add57e4be205",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 94c97fb2d1ad6dd9baf815d5b5e0add57e4be205 | Original subject: improve stake_threshold: add distinction from validator permit (#12430)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.093018+00:00"
+}

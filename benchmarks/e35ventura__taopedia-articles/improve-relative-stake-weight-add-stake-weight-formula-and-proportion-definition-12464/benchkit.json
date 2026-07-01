@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-relative-stake-weight-add-stake-weight-formula-and-proportion-definition-12464",
+  "title": "improve relative_stake_weight: add stake-weight formula and proportion definition",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@ba67693f98a83a015e92029114d4debe7a562d61",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/11b757b74a7ea3fac3ad2df0a1e556667c938efd",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 11b757b74a7ea3fac3ad2df0a1e556667c938efd | Original subject: improve relative_stake_weight: add stake-weight formula and proportion definition (#12464)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.000155+00:00"
+}

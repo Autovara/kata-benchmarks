@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/expired_weight_commit/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/expired_weight_commit/index.mdx",
+      "text": "title: \"Expired Weight Commit\""
+    },
+    {
+      "path": "content/pages/expired_weight_commit/index.mdx",
+      "text": "summary:"
+    },
+    {
+      "path": "content/pages/expired_weight_commit/index.mdx",
+      "text": "\"How the ExpiredWeightCommit error signals that a reveal_weights call submitted a hash the runtime"
+    },
+    {
+      "path": "content/pages/expired_weight_commit/index.mdx",
+      "text": "could pair only with a commit whose commit epoch is already past the subnet's reveal period.\""
+    },
+    {
+      "path": "content/pages/expired_weight_commit/index.mdx",
+      "text": "category: \"Validation\""
+    },
+    {
+      "path": "content/pages/expired_weight_commit/index.mdx",
+      "text": "tags: [\"Validation\", \"Errors\"]"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

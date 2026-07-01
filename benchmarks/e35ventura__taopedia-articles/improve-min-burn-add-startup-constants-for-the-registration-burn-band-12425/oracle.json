@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/min_burn/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/min_burn/index.mdx",
+      "text": "The same floor appears in the constants reference as the startup constant"
+    },
+    {
+      "path": "content/pages/min_burn/index.mdx",
+      "text": "`api.consts.subtensorModule.initialMinBurn`, listed as `500000`, the raw form of the 0.0005 TAO"
+    },
+    {
+      "path": "content/pages/min_burn/index.mdx",
+      "text": "figure above. That value anchors the bottom of the dynamic registration band whose other startup"
+    },
+    {
+      "path": "content/pages/min_burn/index.mdx",
+      "text": "constants are `initialBurn`, listed as `100000000` (0.1 TAO, the starting burn), and"
+    },
+    {
+      "path": "content/pages/min_burn/index.mdx",
+      "text": "`initialMaxBurn`, listed as `100000000000` (100 TAO, the ceiling). Each names a launch value, while"
+    },
+    {
+      "path": "content/pages/min_burn/index.mdx",
+      "text": "the live `MinBurn`, `Burn`, and `MaxBurn` storage values are the owner-settable values a subnet uses"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

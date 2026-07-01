@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-blockchain-validator-vs-subnet-validator-add-distinction-from-yuma-consensus-9006",
+  "title": "improve blockchain_validator_vs_subnet_validator: add distinction from yuma consensus",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@ebf9802ab64572008c50b8527983b1661bddfdb0",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/74b08dc726a22443d16dedc341f20f0fefa1c742",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 74b08dc726a22443d16dedc341f20f0fefa1c742 | Original subject: improve blockchain_validator_vs_subnet_validator: add distinction from yuma consensus (#9006)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.601685+00:00"
+}

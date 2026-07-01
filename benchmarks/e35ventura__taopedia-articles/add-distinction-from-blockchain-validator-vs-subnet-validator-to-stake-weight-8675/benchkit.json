@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-blockchain-validator-vs-subnet-validator-to-stake-weight-8675",
+  "title": "Add Distinction from Blockchain Validator vs Subnet Validator to stake weight",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@23996d352951df62af4ae151e778c9a279ca1eb2",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/8387031ed33328a8dd35afb9c2d25baac9235da2",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 8387031ed33328a8dd35afb9c2d25baac9235da2 | Original subject: Add Distinction from Blockchain Validator vs Subnet Validator to stake weight (#8675)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.173877+00:00"
+}

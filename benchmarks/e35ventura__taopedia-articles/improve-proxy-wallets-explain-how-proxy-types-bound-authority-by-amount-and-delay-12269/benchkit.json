@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-proxy-wallets-explain-how-proxy-types-bound-authority-by-amount-and-delay-12269",
+  "title": "improve proxy wallets: explain how proxy types bound authority by amount and delay",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@ed3d5c21f88f110abfba17269e01a09164a2363a",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/1cad39d7b4a0b301c1662803294fde7f3ad53754",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 1cad39d7b4a0b301c1662803294fde7f3ad53754 | Original subject: improve proxy wallets: explain how proxy types bound authority by amount and delay (#12269)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.979210+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_10/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_10/index.mdx",
+      "text": "Twenty-four-hour fee-income scores shape the validator weights submitted on netuid 10; Yuma"
+    },
+    {
+      "path": "content/pages/subnet_10/index.mdx",
+      "text": "Consensus then settles those weights into emission shares each tempo\u2014TaoFi trading fees are subnet"
+    },
+    {
+      "path": "content/pages/subnet_10/index.mdx",
+      "text": "evaluation input, not the emission payout itself"
+    },
+    {
+      "path": "content/pages/subnet_10/index.mdx",
+      "text": "([Swap repository](https://github.com/Swap-Subnet/swap-subnet),"
+    },
+    {
+      "path": "content/pages/subnet_10/index.mdx",
+      "text": "[Yuma Consensus](https://docs.learnbittensor.org/learn/yuma-consensus),"
+    },
+    {
+      "path": "content/pages/subnet_10/index.mdx",
+      "text": "[Emission](https://docs.learnbittensor.org/learn/emissions))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

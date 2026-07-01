@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-synapse-note-synapse-objects-are-based-on-the-pydantic-basemodel-12204",
+  "title": "improve synapse: note synapse objects are based on the Pydantic BaseModel",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@78d7b23e13e2460e3dc2da927007483114182675",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/058d48df3a9a7dff306dec1291e8e1336bb15631",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 058d48df3a9a7dff306dec1291e8e1336bb15631 | Original subject: improve synapse: note synapse objects are based on the Pydantic BaseModel (#12204)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.199875+00:00"
+}

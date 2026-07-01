@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/owner_hyperparam_rate_limit/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/owner_hyperparam_rate_limit/index.mdx",
+      "text": "At the documented default [tempo](https://docs.learnbittensor.org/resources/glossary#tempo) of 360"
+    },
+    {
+      "path": "content/pages/owner_hyperparam_rate_limit/index.mdx",
+      "text": "blocks, the default multiplier of 2 produces a 720-block cooldown before the same hyperparameter can"
+    },
+    {
+      "path": "content/pages/owner_hyperparam_rate_limit/index.mdx",
+      "text": "be changed again"
+    },
+    {
+      "path": "content/pages/owner_hyperparam_rate_limit/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters),"
+    },
+    {
+      "path": "content/pages/owner_hyperparam_rate_limit/index.mdx",
+      "text": "[Glossary: Tempo](https://docs.learnbittensor.org/resources/glossary#tempo))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

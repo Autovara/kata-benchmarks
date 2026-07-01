@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/mev_shield/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/mev_shield/index.mdx",
+      "text": "## Distinction from MEV (Maximal Extractable Value)"
+    },
+    {
+      "path": "content/pages/mev_shield/index.mdx",
+      "text": "MEV and MEV Shield answer different questions about pending transactions. MEV names the value that"
+    },
+    {
+      "path": "content/pages/mev_shield/index.mdx",
+      "text": "can be extracted when transaction ordering or pending contents can be observed or influenced before"
+    },
+    {
+      "path": "content/pages/mev_shield/index.mdx",
+      "text": "block inclusion, while MEV Shield names encrypted mempool protection that hides sensitive pending"
+    },
+    {
+      "path": "content/pages/mev_shield/index.mdx",
+      "text": "transaction contents until inclusion"
+    },
+    {
+      "path": "content/pages/mev_shield/index.mdx",
+      "text": "([Glossary: MEV](https://docs.learnbittensor.org/resources/glossary#mev-maximal-extractable-value),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

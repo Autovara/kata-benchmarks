@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/effective_stake/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/effective_stake/index.mdx",
+      "text": "## Distinction from Alpha Staker"
+    },
+    {
+      "path": "content/pages/effective_stake/index.mdx",
+      "text": "An alpha staker and effective stake describe subnet staking as the holder and the validator total it"
+    },
+    {
+      "path": "content/pages/effective_stake/index.mdx",
+      "text": "feeds. An alpha staker is a participant who holds a subnet's alpha by staking to a validator, while"
+    },
+    {
+      "path": "content/pages/effective_stake/index.mdx",
+      "text": "effective stake is that validator's combined self-and-delegated total, so each alpha-staker position"
+    },
+    {
+      "path": "content/pages/effective_stake/index.mdx",
+      "text": "adds to the effective stake of the validator it backs"
+    },
+    {
+      "path": "content/pages/effective_stake/index.mdx",
+      "text": "([Staking into Subnets](https://docs.learnbittensor.org/staking-and-delegation/delegation#staking-into-subnets),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

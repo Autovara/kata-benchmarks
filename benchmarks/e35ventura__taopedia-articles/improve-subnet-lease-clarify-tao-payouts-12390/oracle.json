@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_lease/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_lease/index.mdx",
+      "text": "The contributor payout asset is also specified by the crowdloan documentation. It states that lease"
+    },
+    {
+      "path": "content/pages/subnet_lease/index.mdx",
+      "text": "emissions are swapped for TAO and distributed to contributors as TAO, not as alpha, during coinbase"
+    },
+    {
+      "path": "content/pages/subnet_lease/index.mdx",
+      "text": "distribution. That keeps shareholder payout vocabulary tied to TAO distribution rather than to"
+    },
+    {
+      "path": "content/pages/subnet_lease/index.mdx",
+      "text": "direct receipt of subnet alpha"
+    },
+    {
+      "path": "content/pages/subnet_lease/index.mdx",
+      "text": "([Crowdloans: Emissions distribution during a lease](https://docs.learnbittensor.org/subnets/crowdloans#emissions-distribution-during-a-lease))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

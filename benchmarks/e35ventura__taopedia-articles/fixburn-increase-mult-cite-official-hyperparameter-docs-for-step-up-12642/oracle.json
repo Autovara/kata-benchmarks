@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/burn_increase_mult/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/burn_increase_mult/index.mdx",
+      "text": "## Documented Application"
+    },
+    {
+      "path": "content/pages/burn_increase_mult/index.mdx",
+      "text": "The subnet hyperparameters reference describes `BurnIncreaseMult` as the factor by which the current"
+    },
+    {
+      "path": "content/pages/burn_increase_mult/index.mdx",
+      "text": "neuron registration burn cost is multiplied when a registration succeeds, before `MinBurn` and"
+    },
+    {
+      "path": "content/pages/burn_increase_mult/index.mdx",
+      "text": "`MaxBurn` clamping. Higher values make rapid successive registrations more expensive"
+    },
+    {
+      "path": "content/pages/burn_increase_mult/index.mdx",
+      "text": "([Subnet Hyperparameters: BurnIncreaseMult](https://docs.learnbittensor.org/subnets/subnet-hyperparameters#burnincreasemult),"
+    },
+    {
+      "path": "content/pages/burn_increase_mult/index.mdx",
+      "text": "[Glossary: Register](https://docs.learnbittensor.org/resources/glossary#register))."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/burn_increase_mult/index.mdx",
+      "text": "## On-Chain Application"
+    },
+    {
+      "path": "content/pages/burn_increase_mult/index.mdx",
+      "text": "On chain, the step-up is applied as a direct multiply of the live burn immediately after each"
+    },
+    {
+      "path": "content/pages/burn_increase_mult/index.mdx",
+      "text": "successful registration. The effective multiplier is floored at one, so a configured value below one"
+    },
+    {
+      "path": "content/pages/burn_increase_mult/index.mdx",
+      "text": "cannot lower the burn; the multiplied result is then clamped back inside the `MinBurn` and `MaxBurn`"
+    },
+    {
+      "path": "content/pages/burn_increase_mult/index.mdx",
+      "text": "band before it takes effect"
+    },
+    {
+      "path": "content/pages/burn_increase_mult/index.mdx",
+      "text": "([`bump_registration_price_after_registration`](https://github.com/opentensor/subtensor/blob/main/pallets/subtensor/src/subnets/registration.rs))."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

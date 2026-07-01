@@ -1,0 +1,1 @@
+content/pages/hotkey_not_registered_in_subnet/index.mdx

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-transfer-distinction-from-address-poisoning-scams-8650",
+  "title": "Add transfer distinction from address poisoning scams",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@947f000269cbd3e05f07bec7b7a9afc49a7b4c63",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/128714f8abb8494c58a95283bcec317686fb6f51",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 128714f8abb8494c58a95283bcec317686fb6f51 | Original subject: Add transfer distinction from address poisoning scams (#8650)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.412795+00:00"
+}

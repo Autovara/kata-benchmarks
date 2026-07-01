@@ -1,0 +1,1 @@
+content/pages/impermanent_loss/index.mdx

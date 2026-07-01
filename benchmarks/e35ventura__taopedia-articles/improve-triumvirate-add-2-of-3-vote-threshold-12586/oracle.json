@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/triumvirate/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/triumvirate/index.mdx",
+      "text": "That first-stage vote is decided by a 2-of-3 majority of the fixed three seats. The governance"
+    },
+    {
+      "path": "content/pages/triumvirate/index.mdx",
+      "text": "documentation states that 2-of-3 aye votes advance the proposal to the review track, while 2-of-3"
+    },
+    {
+      "path": "content/pages/triumvirate/index.mdx",
+      "text": "nay votes or a timeout reject it and clean it up. The Triumvirate is therefore a first-stage"
+    },
+    {
+      "path": "content/pages/triumvirate/index.mdx",
+      "text": "approval gate rather than the final authority on a proposal"
+    },
+    {
+      "path": "content/pages/triumvirate/index.mdx",
+      "text": "([Governance Overview](https://docs.learnbittensor.org/governance))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/liquidity_provider_rewards/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/liquidity_provider_rewards/index.mdx",
+      "text": "## Distinction from Yuma Consensus"
+    },
+    {
+      "path": "content/pages/liquidity_provider_rewards/index.mdx",
+      "text": "Liquidity provider rewards name returns earned from providing liquidity in subnet pools. Yuma"
+    },
+    {
+      "path": "content/pages/liquidity_provider_rewards/index.mdx",
+      "text": "Consensus is the separate mechanism that converts validator weight submissions into miner and"
+    },
+    {
+      "path": "content/pages/liquidity_provider_rewards/index.mdx",
+      "text": "validator emission shares each tempo"
+    },
+    {
+      "path": "content/pages/liquidity_provider_rewards/index.mdx",
+      "text": "([User Liquidity Positions](https://docs.learnbittensor.org/liquidity-positions),"
+    },
+    {
+      "path": "content/pages/liquidity_provider_rewards/index.mdx",
+      "text": "[Yuma Consensus](https://docs.learnbittensor.org/learn/yuma-consensus),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

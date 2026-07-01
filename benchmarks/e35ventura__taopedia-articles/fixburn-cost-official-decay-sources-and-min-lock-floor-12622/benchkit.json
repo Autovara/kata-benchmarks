@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fixburn-cost-official-decay-sources-and-min-lock-floor-12622",
+  "title": "fix(burn_cost): official decay sources and min-lock floor",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@9b406f6cf624f0c783d1f9fecf0a0f650a39ead3",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/e1bd9eafe2263e6734a9e605d4b6fec1dc05662e",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "source-quality",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: e1bd9eafe2263e6734a9e605d4b6fec1dc05662e | Original subject: fix(burn_cost): official decay sources and min-lock floor (#12622)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:07:54.997396+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-recycling-and-burning-note-burn-and-recycle-are-rejected-on-the-root-netuid-12384",
+  "title": "improve recycling and burning: note burn and recycle are rejected on the root netuid",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@74b072998a2d3470f4a3c1087b940d9a8969a218",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/461d9ff1426f67d33e59988cbb213a5fc9eab11a",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 461d9ff1426f67d33e59988cbb213a5fc9eab11a | Original subject: improve recycling and burning: note burn and recycle are rejected on the root netuid (#12384)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.989952+00:00"
+}

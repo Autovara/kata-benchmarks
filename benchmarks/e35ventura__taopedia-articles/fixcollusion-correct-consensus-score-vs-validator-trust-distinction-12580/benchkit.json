@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fixcollusion-correct-consensus-score-vs-validator-trust-distinction-12580",
+  "title": "fix(collusion): correct consensus score vs validator trust distinction",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@7fab4a3194852508be48a1d31d393a535012d04b",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/3a8ea0045f88c04fd348edf41d355be725829e17",
+  "visibility": "visible",
+  "status": "retired",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 3a8ea0045f88c04fd348edf41d355be725829e17 | Original subject: fix(collusion): correct consensus score vs validator trust distinction (#12580) | Revealed from a retired private holdout pool.",
+  "retired_at": "2026-07-01T03:46:22.107205+00:00",
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:07:55.035519+00:00"
+}

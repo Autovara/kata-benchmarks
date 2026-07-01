@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_liquidity_pools/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_liquidity_pools/index.mdx",
+      "text": "## Distinction from Subnet Markets"
+    },
+    {
+      "path": "content/pages/subnet_liquidity_pools/index.mdx",
+      "text": "A subnet liquidity pool and a subnet market sit on the trading side and the work side of the same"
+    },
+    {
+      "path": "content/pages/subnet_liquidity_pools/index.mdx",
+      "text": "subnet. A subnet liquidity pool is the paired TAO and alpha reserve that prices and trades the"
+    },
+    {
+      "path": "content/pages/subnet_liquidity_pools/index.mdx",
+      "text": "subnet's alpha, while a subnet market is the work-and-evaluation setting where miners produce and"
+    },
+    {
+      "path": "content/pages/subnet_liquidity_pools/index.mdx",
+      "text": "validators evaluate"
+    },
+    {
+      "path": "content/pages/subnet_liquidity_pools/index.mdx",
+      "text": "([Understanding Subnets](https://docs.learnbittensor.org/subnets/understanding-subnets),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

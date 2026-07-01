@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-subnet-registration-document-network-registration-interval-12479",
+  "title": "improve subnet_registration: document network registration interval",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@e3c9665bf45319435d77f067cb460f98f68bab4b",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/c1e5c994394d7d1827b29324d2af8161e5da2861",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: c1e5c994394d7d1827b29324d2af8161e5da2861 | Original subject: improve subnet_registration: document network registration interval (#12479)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.179024+00:00"
+}

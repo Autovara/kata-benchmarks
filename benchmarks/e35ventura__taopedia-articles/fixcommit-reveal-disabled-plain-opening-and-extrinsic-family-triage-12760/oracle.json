@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/commit_reveal_disabled/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/commit_reveal_disabled/index.mdx",
+      "text": "`CommitRevealDisabled` means a validator sent a commit or reveal weight extrinsic to a netuid that"
+    },
+    {
+      "path": "content/pages/commit_reveal_disabled/index.mdx",
+      "text": "has not turned on concealed submission. The standard-errors reference describes it as \"Attempting to"
+    },
+    {
+      "path": "content/pages/commit_reveal_disabled/index.mdx",
+      "text": "commit/reveal weights when disabled\""
+    },
+    {
+      "path": "content/pages/commit_reveal_disabled/index.mdx",
+      "text": "The `CommitRevealWeightsEnabled` hyperparameter is set per netuid, so one subnet can require"
+    },
+    {
+      "path": "content/pages/commit_reveal_disabled/index.mdx",
+      "text": "commit-reveal while another still accepts plain weight submission"
+    },
+    {
+      "path": "content/pages/commit_reveal_disabled/index.mdx",
+      "text": "([Commit Reveal Weights Enabled](https://docs.learnbittensor.org/subnets/subnet-hyperparameters#commitrevealweightsenabled))."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/commit_reveal_disabled/index.mdx",
+      "text": "`CommitRevealDisabled` is a documented Subtensor standard error raised by commit-reveal weight"
+    },
+    {
+      "path": "content/pages/commit_reveal_disabled/index.mdx",
+      "text": "extrinsics. The standard-errors reference describes it as \"Attempting to commit/reveal weights when"
+    },
+    {
+      "path": "content/pages/commit_reveal_disabled/index.mdx",
+      "text": "disabled\""
+    },
+    {
+      "path": "content/pages/commit_reveal_disabled/index.mdx",
+      "text": "When the `CommitRevealWeightsEnabled` hyperparameter is off for a network, validator weights must"
+    },
+    {
+      "path": "content/pages/commit_reveal_disabled/index.mdx",
+      "text": "use the direct weight path rather than concealed commit-then-reveal submission."
+    },
+    {
+      "path": "content/pages/commit_reveal_disabled/index.mdx",
+      "text": "`CommitRevealDisabled` means a commit or reveal weight call targeted such a network, so the"
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

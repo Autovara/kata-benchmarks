@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-extrinsics-to-public-key-article-9028",
+  "title": "Add Distinction from Extrinsics to public key article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@7b2f436456b98d770f399398c147b281ce92dadf",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/e5a625f982434958df58be0dd607a523a5ec96d0",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: e5a625f982434958df58be0dd607a523a5ec96d0 | Original subject: Add Distinction from Extrinsics to public key article (#9028)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.268408+00:00"
+}

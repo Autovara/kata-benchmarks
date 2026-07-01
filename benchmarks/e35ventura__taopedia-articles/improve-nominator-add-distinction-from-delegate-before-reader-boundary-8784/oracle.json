@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/nominator/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/nominator/index.mdx",
+      "text": "## Distinction from Delegate"
+    },
+    {
+      "path": "content/pages/nominator/index.mdx",
+      "text": "A nominator is the TAO-holder role that stakes behind a delegate. A delegate is the subnet validator"
+    },
+    {
+      "path": "content/pages/nominator/index.mdx",
+      "text": "role that receives that nominated stake and performs validation work"
+    },
+    {
+      "path": "content/pages/nominator/index.mdx",
+      "text": "([Glossary: Nominator](https://docs.learnbittensor.org/resources/glossary#nominator),"
+    },
+    {
+      "path": "content/pages/nominator/index.mdx",
+      "text": "[Glossary: Delegate](https://docs.learnbittensor.org/resources/glossary#delegate),"
+    },
+    {
+      "path": "content/pages/nominator/index.mdx",
+      "text": "[Staking and delegation overview](https://docs.learnbittensor.org/staking-and-delegation/delegation))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

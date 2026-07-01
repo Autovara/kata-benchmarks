@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/validator_take/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/validator_take/index.mdx",
+      "text": "Take increases are paced by a block-based cooldown, but decreases are not. The rate-limit reference"
+    },
+    {
+      "path": "content/pages/validator_take/index.mdx",
+      "text": "documents 216,000 blocks (roughly 30 days) as the delegate-take cooldown, stored on chain as"
+    },
+    {
+      "path": "content/pages/validator_take/index.mdx",
+      "text": "`TxDelegateTakeRateLimit`. That cooldown applies to the `increase_take` path, while `decrease_take`"
+    },
+    {
+      "path": "content/pages/validator_take/index.mdx",
+      "text": "takes effect immediately, so a validator can lower commission at any time but must wait out the"
+    },
+    {
+      "path": "content/pages/validator_take/index.mdx",
+      "text": "window before raising it again"
+    },
+    {
+      "path": "content/pages/validator_take/index.mdx",
+      "text": "[TxDelegateTakeRateLimit Storage](https://subtensor.com/reference/subtensormodule/storage/TxDelegateTakeRateLimit),"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/validator_take/index.mdx",
+      "text": "Successful take changes are also paced by a block-based cooldown. The rate-limit reference documents"
+    },
+    {
+      "path": "content/pages/validator_take/index.mdx",
+      "text": "216,000 blocks (roughly 30 days) between accepted delegate-take updates, stored on chain as"
+    },
+    {
+      "path": "content/pages/validator_take/index.mdx",
+      "text": "`TxDelegateTakeRateLimit`"
+    },
+    {
+      "path": "content/pages/validator_take/index.mdx",
+      "text": "[TxDelegateTakeRateLimit Storage](https://subtensor.com/reference/subtensormodule/storage/TxDelegateTakeRateLimit))."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

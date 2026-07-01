@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/root_subnet/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/root_subnet/index.mdx",
+      "text": "The Root Subnet is also the only subnet without its own alpha currency. Stake on Subnet Zero stays"
+    },
+    {
+      "path": "content/pages/root_subnet/index.mdx",
+      "text": "TAO-denominated, while ordinary subnet staking records support in that subnet's alpha context"
+    },
+    {
+      "path": "content/pages/root_subnet/index.mdx",
+      "text": "([Glossary: Root Subnet/Subnet Zero](https://docs.learnbittensor.org/resources/glossary#root-subnetsubnet-zero),"
+    },
+    {
+      "path": "content/pages/root_subnet/index.mdx",
+      "text": "[Understanding Subnets](https://docs.learnbittensor.org/subnets/understanding-subnets))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

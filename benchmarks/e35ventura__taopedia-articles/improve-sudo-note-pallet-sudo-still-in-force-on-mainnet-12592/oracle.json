@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/sudo/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/sudo/index.mdx",
+      "text": "That replacement is a planned design rather than the live state. The governance documentation states"
+    },
+    {
+      "path": "content/pages/sudo/index.mdx",
+      "text": "that the collective-based system is still in development and not yet deployed, and that the current"
+    },
+    {
+      "path": "content/pages/sudo/index.mdx",
+      "text": "mainnet runtime uses `pallet_sudo` for privileged operations. Readers should therefore treat sudo as"
+    },
+    {
+      "path": "content/pages/sudo/index.mdx",
+      "text": "the authority pattern still in force on mainnet, with the staged review path describing where"
+    },
+    {
+      "path": "content/pages/sudo/index.mdx",
+      "text": "governance is headed ([Governance Overview](https://docs.learnbittensor.org/governance))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

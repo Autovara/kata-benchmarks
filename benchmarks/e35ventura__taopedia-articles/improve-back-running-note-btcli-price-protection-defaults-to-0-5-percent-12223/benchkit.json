@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-back-running-note-btcli-price-protection-defaults-to-0-5-percent-12223",
+  "title": "improve back running: note btcli price protection defaults to 0.5 percent",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@e250f6d8b9a7f0f289ae5a6361aab09f878e66e8",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/4373e146e2871f5643489e74e56d45754154bf67",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 4373e146e2871f5643489e74e56d45754154bf67 | Original subject: improve back running: note btcli price protection defaults to 0.5 percent (#12223)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.547122+00:00"
+}

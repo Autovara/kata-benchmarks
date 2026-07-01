@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-active-uid-add-distinction-from-yuma-consensus-9074",
+  "title": "improve active_uid: add distinction from yuma consensus",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@014673b1a8712ccfcfd0a9e0ae3deda9488b4f66",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/6b0c2fddfb5a94377a5ec4de9eab94975338371b",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 6b0c2fddfb5a94377a5ec4de9eab94975338371b | Original subject: improve active_uid: add distinction from yuma consensus (#9074)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.446205+00:00"
+}

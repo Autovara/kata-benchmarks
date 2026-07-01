@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subtensor/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subtensor/index.mdx",
+      "text": "## Distinction from Fast Blocks"
+    },
+    {
+      "path": "content/pages/subtensor/index.mdx",
+      "text": "Fast blocks and Subtensor name a timing configuration and the blockchain it runs on. Subtensor is"
+    },
+    {
+      "path": "content/pages/subtensor/index.mdx",
+      "text": "the Bittensor blockchain that records state and processes transactions, while fast blocks are a"
+    },
+    {
+      "path": "content/pages/subtensor/index.mdx",
+      "text": "local-development mode that runs a Subtensor instance with accelerated 250 millisecond block"
+    },
+    {
+      "path": "content/pages/subtensor/index.mdx",
+      "text": "production, so fast blocks are a setting applied to a local Subtensor chain rather than a separate"
+    },
+    {
+      "path": "content/pages/subtensor/index.mdx",
+      "text": "chain ([Glossary: Subtensor](https://docs.learnbittensor.org/resources/glossary#subtensor),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

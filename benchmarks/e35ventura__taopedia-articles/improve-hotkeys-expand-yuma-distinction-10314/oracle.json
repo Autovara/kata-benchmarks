@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/hotkeys/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/hotkeys/index.mdx",
+      "text": "- **Yuma Consensus** \u2014 on-chain settlement that turns validator weights into emission shares."
+    },
+    {
+      "path": "content/pages/hotkeys/index.mdx",
+      "text": "Hotkeys sign weight submissions; Yuma processes validator weights into rewards"
+    },
+    {
+      "path": "content/pages/hotkeys/index.mdx",
+      "text": "([Yuma Consensus: Validator emissions](https://docs.learnbittensor.org/learn/yuma-consensus#validator-emissions))."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/hotkeys/index.mdx",
+      "text": "Yuma Consensus aggregates submitted weights and credits miner incentives and validator dividends"
+    },
+    {
+      "path": "content/pages/hotkeys/index.mdx",
+      "text": "when the epoch closes on the selected netuid"
+    },
+    {
+      "path": "content/pages/hotkeys/index.mdx",
+      "text": "([Yuma Consensus](https://docs.learnbittensor.org/learn/yuma-consensus),"
+    },
+    {
+      "path": "content/pages/hotkeys/index.mdx",
+      "text": "[Emission](https://docs.learnbittensor.org/learn/emissions))."
+    },
+    {
+      "path": "content/pages/hotkeys/index.mdx",
+      "text": "Coldkeys secure funds and authorize high-risk moves; hotkeys sign routine subnet operations"
+    },
+    {
+      "path": "content/pages/hotkeys/index.mdx",
+      "text": "including weight setting. Key vocabulary names who can submit; Yuma names how those submissions"
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

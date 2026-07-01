@@ -1,0 +1,1 @@
+content/pages/max_registrations_per_block/index.mdx

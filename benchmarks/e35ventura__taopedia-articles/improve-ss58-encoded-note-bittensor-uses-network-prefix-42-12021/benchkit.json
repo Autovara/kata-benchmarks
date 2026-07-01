@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-ss58-encoded-note-bittensor-uses-network-prefix-42-12021",
+  "title": "improve ss58 encoded: note Bittensor uses network prefix 42",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@af9403e46886043c0bd0cec0c47e422514b871a0",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/94349a0b13e51656b63ebf488c06e051ecc57c4d",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 94349a0b13e51656b63ebf488c06e051ecc57c4d | Original subject: improve ss58 encoded: note Bittensor uses network prefix 42 (#12021)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:48.982449+00:00"
+}

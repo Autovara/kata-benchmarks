@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subtensor_storage/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subtensor_storage/index.mdx",
+      "text": "## Distinction from Subtensor Events"
+    },
+    {
+      "path": "content/pages/subtensor_storage/index.mdx",
+      "text": "A Subtensor storage entry and a Subtensor event answer different questions. A storage entry names a"
+    },
+    {
+      "path": "content/pages/subtensor_storage/index.mdx",
+      "text": "state surface that can be read after processing, while an event names a record emitted while the"
+    },
+    {
+      "path": "content/pages/subtensor_storage/index.mdx",
+      "text": "runtime processes activity"
+    },
+    {
+      "path": "content/pages/subtensor_storage/index.mdx",
+      "text": "([Subtensor Storage](https://docs.learnbittensor.org/subtensor-api/storage),"
+    },
+    {
+      "path": "content/pages/subtensor_storage/index.mdx",
+      "text": "[Subtensor Events](https://docs.learnbittensor.org/subtensor-api/events))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

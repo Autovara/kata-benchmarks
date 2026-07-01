@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/crowdloans/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/crowdloans/index.mdx",
+      "text": "## Distinction from Burn Cost"
+    },
+    {
+      "path": "content/pages/crowdloans/index.mdx",
+      "text": "Burn cost names the TAO amount required for subnet creation, while a crowdloan names one collective"
+    },
+    {
+      "path": "content/pages/crowdloans/index.mdx",
+      "text": "funding path that can help contributors pool TAO toward that creation action"
+    },
+    {
+      "path": "content/pages/crowdloans/index.mdx",
+      "text": "([Glossary: Burn Cost](https://docs.learnbittensor.org/resources/glossary#burn-cost),"
+    },
+    {
+      "path": "content/pages/crowdloans/index.mdx",
+      "text": "[Crowdloans](https://docs.learnbittensor.org/subnets/crowdloans),"
+    },
+    {
+      "path": "content/pages/crowdloans/index.mdx",
+      "text": "[Create a Subnet: Burn cost](https://docs.learnbittensor.org/subnets/create-a-subnet#burn-cost))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

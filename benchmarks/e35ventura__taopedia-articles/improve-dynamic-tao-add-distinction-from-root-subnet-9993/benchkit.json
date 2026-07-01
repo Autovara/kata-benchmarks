@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-dynamic-tao-add-distinction-from-root-subnet-9993",
+  "title": "improve dynamic tao: add distinction from root subnet",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@6cd21958a5e1ca2842ac7013fae0ab3b9bf983c7",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/f6a891f156324053622f7b5cb026dc845c0a36b2",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: f6a891f156324053622f7b5cb026dc845c0a36b2 | Original subject: improve dynamic tao: add distinction from root subnet (#9993)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.700725+00:00"
+}

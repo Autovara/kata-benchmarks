@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-metagraph-add-distinction-from-netuid-10902",
+  "title": "improve metagraph: add distinction from netuid",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@c8f41594fe00b875907221f57948e642964dae58",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/3b7aefff7a06c874bdb39e45f420d19f4885d9cc",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "metadata",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 3b7aefff7a06c874bdb39e45f420d19f4885d9cc | Original subject: improve metagraph: add distinction from netuid (#10902)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.897446+00:00"
+}

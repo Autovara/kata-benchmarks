@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-root-claims-note-the-random-auto-claim-frequency-12396",
+  "title": "improve root claims: note the random auto-claim frequency",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@f9f37bea9d4cba7e0f726d8481b83e5ffb824e17",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/672ad33e4f2015b4745f184c1e3df3e9bfbb2008",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 672ad33e4f2015b4745f184c1e3df3e9bfbb2008 | Original subject: improve root claims: note the random auto-claim frequency (#12396)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.015904+00:00"
+}

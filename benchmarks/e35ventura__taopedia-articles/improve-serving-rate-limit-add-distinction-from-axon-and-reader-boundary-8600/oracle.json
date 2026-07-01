@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/serving_rate_limit/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/serving_rate_limit/index.mdx",
+      "text": "## Distinction from Axon"
+    },
+    {
+      "path": "content/pages/serving_rate_limit/index.mdx",
+      "text": "An axon is the miner-side communication endpoint validators use to reach a subnet miner. Serving"
+    },
+    {
+      "path": "content/pages/serving_rate_limit/index.mdx",
+      "text": "rate limit paces how often the on-chain axon and prometheus serving records may be updated, not"
+    },
+    {
+      "path": "content/pages/serving_rate_limit/index.mdx",
+      "text": "whether the miner runs a reachable axon server"
+    },
+    {
+      "path": "content/pages/serving_rate_limit/index.mdx",
+      "text": "([Glossary: Axon](https://docs.learnbittensor.org/resources/glossary#axon),"
+    },
+    {
+      "path": "content/pages/serving_rate_limit/index.mdx",
+      "text": "[Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

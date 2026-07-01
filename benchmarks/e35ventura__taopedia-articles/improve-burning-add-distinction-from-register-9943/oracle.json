@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/burning/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/burning/index.mdx",
+      "text": "## Distinction from Register"
+    },
+    {
+      "path": "content/pages/burning/index.mdx",
+      "text": "Burning and register name a supply outcome and the action that triggers one. Burning is the"
+    },
+    {
+      "path": "content/pages/burning/index.mdx",
+      "text": "permanent removal of TAO from spendable circulation, while register is the subnet-entry process that"
+    },
+    {
+      "path": "content/pages/burning/index.mdx",
+      "text": "purchases a UID slot by paying a registration burn in TAO"
+    },
+    {
+      "path": "content/pages/burning/index.mdx",
+      "text": "([Glossary: Burning](https://docs.learnbittensor.org/resources/glossary#burning),"
+    },
+    {
+      "path": "content/pages/burning/index.mdx",
+      "text": "[Glossary: Register](https://docs.learnbittensor.org/resources/glossary#register))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

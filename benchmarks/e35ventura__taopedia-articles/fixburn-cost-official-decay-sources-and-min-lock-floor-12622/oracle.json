@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/burn_cost/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/burn_cost/index.mdx",
+      "text": "The create-a-subnet guide describes burn cost as dynamic recycled TAO that doubles when a subnet is"
+    },
+    {
+      "path": "content/pages/burn_cost/index.mdx",
+      "text": "created and then lowers gradually over time"
+    },
+    {
+      "path": "content/pages/burn_cost/index.mdx",
+      "text": "([Create a Subnet: Burn cost](https://docs.learnbittensor.org/subnets/create-a-subnet#burn-cost),"
+    },
+    {
+      "path": "content/pages/burn_cost/index.mdx",
+      "text": "[Glossary: Burn Cost](https://docs.learnbittensor.org/resources/glossary#burn-cost))."
+    },
+    {
+      "path": "content/pages/burn_cost/index.mdx",
+      "text": "The lock-reduction interval hyperparameter sets the block span over which that elevated cost halves,"
+    },
+    {
+      "path": "content/pages/burn_cost/index.mdx",
+      "text": "so decay pacing is network-wide rather than stored on an existing netuid"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/burn_cost/index.mdx",
+      "text": "Burn cost is not a continuous demand estimate. Each subnet creation records the paid amount as the"
+    },
+    {
+      "path": "content/pages/burn_cost/index.mdx",
+      "text": "new lock baseline, and the cost is then read as that last lock doubled, reduced linearly by the"
+    },
+    {
+      "path": "content/pages/burn_cost/index.mdx",
+      "text": "number of blocks elapsed since the last creation. After one lock-reduction interval the cost returns"
+    },
+    {
+      "path": "content/pages/burn_cost/index.mdx",
+      "text": "to the previous lock value and keeps decaying toward the network minimum lock, where it is clamped,"
+    },
+    {
+      "path": "content/pages/burn_cost/index.mdx",
+      "text": "so an idle stretch lets the cost fall back while a fresh creation steps it up again"
+    },
+    {
+      "path": "content/pages/burn_cost/index.mdx",
+      "text": "([`get_network_lock_cost`](https://github.com/opentensor/subtensor/blob/main/pallets/subtensor/src/coinbase/root.rs))."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

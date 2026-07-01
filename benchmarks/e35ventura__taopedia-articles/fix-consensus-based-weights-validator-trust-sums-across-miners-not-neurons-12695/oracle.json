@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/consensus_based_weights/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/consensus_based_weights/index.mdx",
+      "text": "Validator trust sums one validator's clipped weight contributions across miners on netuid 1."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/consensus_based_weights/index.mdx",
+      "text": "Validator trust sums clipped weight influence a validator contributed across neurons on netuid 1."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

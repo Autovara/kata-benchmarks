@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fixdividends-separate-validator-trust-from-bond-based-payout-12587",
+  "title": "fix(dividends): separate validator trust from bond-based payout",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@a6aa01916cf6dfabebe536407704f2828dd54074",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/2992ee4f65c3109eaaa3850a6d5af4e952465e72",
+  "visibility": "visible",
+  "status": "retired",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 2992ee4f65c3109eaaa3850a6d5af4e952465e72 | Original subject: fix(dividends): separate validator trust from bond-based payout (#12587) | Revealed from a retired private holdout pool.",
+  "retired_at": "2026-07-01T03:46:22.111169+00:00",
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:07:55.048436+00:00"
+}

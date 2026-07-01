@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/senator/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/senator/index.mdx",
+      "text": "## Distinction from Bicameral Legislature"
+    },
+    {
+      "path": "content/pages/senator/index.mdx",
+      "text": "A senator and the bicameral legislature relate as a member and the system they sit within. The"
+    },
+    {
+      "path": "content/pages/senator/index.mdx",
+      "text": "bicameral legislature is Bittensor's two-chamber governance structure \u2014 the Triumvirate and the"
+    },
+    {
+      "path": "content/pages/senator/index.mdx",
+      "text": "Senate \u2014 while a senator is an individual member of the Senate chamber who votes on proposals the"
+    },
+    {
+      "path": "content/pages/senator/index.mdx",
+      "text": "Triumvirate advances"
+    },
+    {
+      "path": "content/pages/senator/index.mdx",
+      "text": "([Glossary: Bicameral Legislature](https://docs.learnbittensor.org/resources/glossary#bicameral-legislature),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

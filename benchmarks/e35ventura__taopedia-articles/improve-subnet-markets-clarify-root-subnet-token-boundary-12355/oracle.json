@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_markets/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_markets/index.mdx",
+      "text": "Ordinary subnet markets also have a token side. Subnet documentation describes TAO reserves, alpha"
+    },
+    {
+      "path": "content/pages/subnet_markets/index.mdx",
+      "text": "reserves, and alpha outstanding as part of subnet tokenomics, while emissions documentation connects"
+    },
+    {
+      "path": "content/pages/subnet_markets/index.mdx",
+      "text": "TAO and alpha emissions to subnet reward flow"
+    },
+    {
+      "path": "content/pages/subnet_markets/index.mdx",
+      "text": "The Root Subnet is outside that alpha-token side because Subnet Zero has no alpha currency. Root"
+    },
+    {
+      "path": "content/pages/subnet_markets/index.mdx",
+      "text": "staking remains TAO-denominated, so Root Subnet market language should not be read as implying a"
+    },
+    {
+      "path": "content/pages/subnet_markets/index.mdx",
+      "text": "separate alpha reserve or alpha outstanding balance"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/subnet_markets/index.mdx",
+      "text": "Subnet markets also have a token side. Subnet documentation describes TAO reserves, alpha reserves,"
+    },
+    {
+      "path": "content/pages/subnet_markets/index.mdx",
+      "text": "and alpha outstanding as part of subnet tokenomics, while emissions documentation connects TAO and"
+    },
+    {
+      "path": "content/pages/subnet_markets/index.mdx",
+      "text": "alpha emissions to subnet reward flow"
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

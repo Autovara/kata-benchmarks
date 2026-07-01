@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-reserve-ratio-add-distinction-from-tao-reserve-11197",
+  "title": "improve reserve_ratio: add distinction from TAO Reserve",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@9844e740cf04def2ceb3b68604bcf8edd01c7ce0",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/981e27b61ab936c61ce6276849b2ffa97135ed56",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 981e27b61ab936c61ce6276849b2ffa97135ed56 | Original subject: improve reserve_ratio: add distinction from TAO Reserve (#11197)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.004212+00:00"
+}

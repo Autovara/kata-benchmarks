@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/invalid_childkey_take/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/invalid_childkey_take/index.mdx",
+      "text": "[Subtensor Standard Errors: DelegateTakeTooHigh](https://docs.learnbittensor.org/errors/subtensor#delegatetaketoohigh),"
+    },
+    {
+      "path": "content/pages/invalid_childkey_take/index.mdx",
+      "text": "[Subtensor Standard Errors: DelegateTakeTooLow](https://docs.learnbittensor.org/errors/subtensor#delegatetaketoolow))."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/invalid_childkey_take/index.mdx",
+      "text": "[Subtensor Standard Errors: DelegateTakeTooHigh](https://docs.learnbittensor.org/errors/subtensor#delegatetakehigh),"
+    },
+    {
+      "path": "content/pages/invalid_childkey_take/index.mdx",
+      "text": "[Subtensor Standard Errors: DelegateTakeTooLow](https://docs.learnbittensor.org/errors/subtensor#delegatetoolow))."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

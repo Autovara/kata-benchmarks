@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-polkadot-vault-add-distinction-from-private-key-10129",
+  "title": "improve polkadot vault: add distinction from private key",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@da8c4016bf7bbfc75346fd49d4782d505a96297a",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/1653aba4580f1ea0ead080ab7d051ec1a621db6a",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 1653aba4580f1ea0ead080ab7d051ec1a621db6a | Original subject: improve polkadot vault: add distinction from private key (#10129)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.970414+00:00"
+}

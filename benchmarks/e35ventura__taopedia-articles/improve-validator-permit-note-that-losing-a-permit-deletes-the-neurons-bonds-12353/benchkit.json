@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-validator-permit-note-that-losing-a-permit-deletes-the-neurons-bonds-12353",
+  "title": "improve validator permit: note that losing a permit deletes the neuron's bonds",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@c0655c097e1ad3d2fafb2ad2b6ab67ee86cba73e",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/13e91af16d1ddc41abc9150d8d3fc7cbe6594013",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 13e91af16d1ddc41abc9150d8d3fc7cbe6594013 | Original subject: improve validator permit: note that losing a permit deletes the neuron's bonds (#12353)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.248158+00:00"
+}

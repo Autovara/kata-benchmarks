@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-bicameral-legislature-to-proposal-article-8871",
+  "title": "Add Distinction from Bicameral Legislature to proposal article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@9696b99067a8555ae34e8a0631e084efa179afdc",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/25900c9d68775eb2dc180a56f7367812b4671c15",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 25900c9d68775eb2dc180a56f7367812b4671c15 | Original subject: Add Distinction from Bicameral Legislature to proposal article (#8871)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.112208+00:00"
+}

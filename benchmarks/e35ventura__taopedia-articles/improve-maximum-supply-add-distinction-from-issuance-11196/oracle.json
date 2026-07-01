@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/maximum_supply/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/maximum_supply/index.mdx",
+      "text": "## Distinction from Issuance"
+    },
+    {
+      "path": "content/pages/maximum_supply/index.mdx",
+      "text": "Maximum supply and issuance relate as a ceiling and the process approaching it. Maximum supply is"
+    },
+    {
+      "path": "content/pages/maximum_supply/index.mdx",
+      "text": "the fixed 21 million TAO lifetime cap on how much can ever exist, while issuance is the ongoing"
+    },
+    {
+      "path": "content/pages/maximum_supply/index.mdx",
+      "text": "creation of new TAO that accumulates toward \u2014 but never exceeds \u2014 that cap"
+    },
+    {
+      "path": "content/pages/maximum_supply/index.mdx",
+      "text": "([Halving Mechanisms](https://docs.learnbittensor.org/concepts/halving),"
+    },
+    {
+      "path": "content/pages/maximum_supply/index.mdx",
+      "text": "[Glossary: Issuance](https://docs.learnbittensor.org/resources/glossary#issuance),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

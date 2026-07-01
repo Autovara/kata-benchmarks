@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-bittensor-platform-components-to-bittensor-tools-article-9061",
+  "title": "Add Distinction from Bittensor Platform Components to bittensor tools article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@3979ad49a95dc2e93cbe359be22d17318c163bee",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/7a222602c8c19ad8b4c7b82626573723fa676d2f",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 7a222602c8c19ad8b4c7b82626573723fa676d2f | Original subject: Add Distinction from Bittensor Platform Components to bittensor tools article (#9061)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.162201+00:00"
+}

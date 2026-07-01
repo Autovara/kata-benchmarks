@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/alpha_high/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/alpha_high/index.mdx",
+      "text": "## Chain Reads for netuid 1"
+    },
+    {
+      "path": "content/pages/alpha_high/index.mdx",
+      "text": "Readers can verify live hyperparameter values for the documented example netuid with"
+    },
+    {
+      "path": "content/pages/alpha_high/index.mdx",
+      "text": "`btcli subnet hyperparameters --netuid 1 --network finney`"
+    },
+    {
+      "path": "content/pages/alpha_high/index.mdx",
+      "text": "([Subnet Hyperparameters: View hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters#view-hyperparameters))."
+    },
+    {
+      "path": "content/pages/alpha_high/index.mdx",
+      "text": "That read path keeps live hyperparameter claims tied to a parseable netuid."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

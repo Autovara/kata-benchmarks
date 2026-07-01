@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fixcoldkey-swap-official-swap-docs-no-subtensor-links-12645",
+  "title": "fix(coldkey_swap): official swap docs, no subtensor links",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@d95e3967382717e84f9168f397d43951d46eaedd",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/4c6028531043542ee7ab130fbbf2902afd8480e4",
+  "visibility": "visible",
+  "status": "retired",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 4c6028531043542ee7ab130fbbf2902afd8480e4 | Original subject: fix(coldkey_swap): official swap docs, no subtensor links (#12645) | Revealed from a retired private holdout pool.",
+  "retired_at": "2026-07-01T03:46:22.104143+00:00",
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:07:55.023122+00:00"
+}

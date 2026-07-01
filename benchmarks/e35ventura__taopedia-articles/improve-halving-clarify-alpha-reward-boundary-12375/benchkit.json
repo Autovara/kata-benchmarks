@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-halving-clarify-alpha-reward-boundary-12375",
+  "title": "improve halving: clarify alpha reward boundary",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@442853b88d8858fcf39f9f77251efcedd06e4df5",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/5d9f3fadc5e7d183983aca616052bec1a3f515c9",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 5d9f3fadc5e7d183983aca616052bec1a3f515c9 | Original subject: improve halving: clarify alpha reward boundary (#12375)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.770608+00:00"
+}

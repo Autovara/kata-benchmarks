@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/staking_proxy_attacks/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/staking_proxy_attacks/index.mdx",
+      "text": "## How a Delay Defends, and When It Does Not"
+    },
+    {
+      "path": "content/pages/staking_proxy_attacks/index.mdx",
+      "text": "The configured delay on a proxy is the main structural defense, but only under conditions. The"
+    },
+    {
+      "path": "content/pages/staking_proxy_attacks/index.mdx",
+      "text": "guidance explains that a non-zero delay forces the delegate to announce a call and wait a number of"
+    },
+    {
+      "path": "content/pages/staking_proxy_attacks/index.mdx",
+      "text": "blocks before it can execute, which gives the protected account a window to reject it. With a zero"
+    },
+    {
+      "path": "content/pages/staking_proxy_attacks/index.mdx",
+      "text": "delay there is no such window, so a leaked delegate key can act as fast as the chain accepts the"
+    },
+    {
+      "path": "content/pages/staking_proxy_attacks/index.mdx",
+      "text": "transaction. The catch is that the window only helps if the owner actually watches for pending"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

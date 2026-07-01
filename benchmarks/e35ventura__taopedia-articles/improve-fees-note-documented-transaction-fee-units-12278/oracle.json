@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/fees/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/fees/index.mdx",
+      "text": "The same fee reference gives the units for those two parts: the length fee is 1 rao per encoded"
+    },
+    {
+      "path": "content/pages/fees/index.mdx",
+      "text": "byte, and the weight fee scales the `ref_time` component by `50,000 / 10^9` rao. Those formulas"
+    },
+    {
+      "path": "content/pages/fees/index.mdx",
+      "text": "describe fee-bearing submissions; documented fee-free extrinsics do not pay those components"
+    },
+    {
+      "path": "content/pages/fees/index.mdx",
+      "text": "([Transaction Fees in Bittensor](https://docs.learnbittensor.org/learn/fees))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

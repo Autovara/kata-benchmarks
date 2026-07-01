@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-nominator-to-senate-article-9063",
+  "title": "Add Distinction from Nominator to senate article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@e2adff0a60f2cda09e85a5b19fe3e92fa935ace5",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/bd469c640d44708ac23185c904d8ab7fea6ba73f",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: bd469c640d44708ac23185c904d8ab7fea6ba73f | Original subject: Add Distinction from Nominator to senate article (#9063)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.328982+00:00"
+}

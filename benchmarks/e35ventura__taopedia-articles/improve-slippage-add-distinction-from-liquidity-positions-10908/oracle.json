@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/slippage/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/slippage/index.mdx",
+      "text": "## Distinction from Liquidity Positions"
+    },
+    {
+      "path": "content/pages/slippage/index.mdx",
+      "text": "Slippage and liquidity positions sit on opposite sides of a subnet pool. Slippage is the price"
+    },
+    {
+      "path": "content/pages/slippage/index.mdx",
+      "text": "impact a trader absorbs when a swap moves the pool's reserve ratio, while a liquidity position is"
+    },
+    {
+      "path": "content/pages/slippage/index.mdx",
+      "text": "capital supplied into the pool that provides the depth swaps trade against, earning fees in return"
+    },
+    {
+      "path": "content/pages/slippage/index.mdx",
+      "text": "([Glossary: Slippage](https://docs.learnbittensor.org/resources/glossary#slippage),"
+    },
+    {
+      "path": "content/pages/slippage/index.mdx",
+      "text": "[User Liquidity Positions](https://docs.learnbittensor.org/liquidity-positions),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

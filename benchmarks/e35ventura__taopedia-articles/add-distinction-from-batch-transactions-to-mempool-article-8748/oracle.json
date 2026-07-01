@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/mempool/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/mempool/index.mdx",
+      "text": "## Distinction from Batch Transactions"
+    },
+    {
+      "path": "content/pages/mempool/index.mdx",
+      "text": "Batch transactions package several inner calls into one outer transaction. The mempool is the queue"
+    },
+    {
+      "path": "content/pages/mempool/index.mdx",
+      "text": "where that outer transaction waits before inclusion"
+    },
+    {
+      "path": "content/pages/mempool/index.mdx",
+      "text": "([Glossary: Mempool](https://docs.learnbittensor.org/resources/glossary#mempool),"
+    },
+    {
+      "path": "content/pages/mempool/index.mdx",
+      "text": "[Batch Transactions](https://docs.learnbittensor.org/learn/batch-transactions))."
+    },
+    {
+      "path": "content/pages/mempool/index.mdx",
+      "text": "- **Mempool** \u2014 pending transactions awaiting inclusion."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-consensus-derivation-teaching-to-miner-incentive-12187",
+  "title": "Add consensus-derivation teaching to miner_incentive",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@f44091ed5566a23a38c6e691be958683d8011025",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/548050d8f528356c0221a2308ad437b16cd285ff",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 548050d8f528356c0221a2308ad437b16cd285ff | Original subject: Add consensus-derivation teaching to miner_incentive (#12187)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.040922+00:00"
+}

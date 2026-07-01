@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-evm-chain-id-note-the-substrate-side-receiving-address-must-be-the-ss58-form-12333",
+  "title": "improve evm chain id: note the substrate-side receiving address must be the SS58 form",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@eb9107026ed88f54cee8800e9516047aeddd0839",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/e54e3d8d5199762408b310f36c376eee03268d09",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: e54e3d8d5199762408b310f36c376eee03268d09 | Original subject: improve evm chain id: note the substrate-side receiving address must be the SS58 form (#12333)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.727087+00:00"
+}

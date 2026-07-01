@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_emission_enabled/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_emission_enabled/index.mdx",
+      "text": "## Distinction from Owner Cut Enabled"
+    },
+    {
+      "path": "content/pages/subnet_emission_enabled/index.mdx",
+      "text": "Subnet emission enabled is the root-governed switch for whether a subnet receives pool-side"
+    },
+    {
+      "path": "content/pages/subnet_emission_enabled/index.mdx",
+      "text": "injection at all. Owner cut enabled is the subnet-owner switch for whether the owner's reserved"
+    },
+    {
+      "path": "content/pages/subnet_emission_enabled/index.mdx",
+      "text": "share of emissions is distributed, so one controls subnet-level injection while the other controls a"
+    },
+    {
+      "path": "content/pages/subnet_emission_enabled/index.mdx",
+      "text": "single payout branch inside the distribution that follows"
+    },
+    {
+      "path": "content/pages/subnet_emission_enabled/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

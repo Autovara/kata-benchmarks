@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/blockchain_validator_vs_subnet_validator/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/blockchain_validator_vs_subnet_validator/index.mdx",
+      "text": "## Distinction from Yuma Consensus"
+    },
+    {
+      "path": "content/pages/blockchain_validator_vs_subnet_validator/index.mdx",
+      "text": "Blockchain validator versus subnet validator names two validator roles at different layers: network"
+    },
+    {
+      "path": "content/pages/blockchain_validator_vs_subnet_validator/index.mdx",
+      "text": "block production and subnet work evaluation. Yuma Consensus is the separate subnet mechanism that"
+    },
+    {
+      "path": "content/pages/blockchain_validator_vs_subnet_validator/index.mdx",
+      "text": "converts subnet validator weight submissions into emission shares each tempo"
+    },
+    {
+      "path": "content/pages/blockchain_validator_vs_subnet_validator/index.mdx",
+      "text": "([Glossary: Blockchain Validator vs Subnet Validator](https://docs.learnbittensor.org/resources/glossary#blockchain-validator-vs-subnet-validator),"
+    },
+    {
+      "path": "content/pages/blockchain_validator_vs_subnet_validator/index.mdx",
+      "text": "[Glossary: Subnet Validator](https://docs.learnbittensor.org/resources/glossary#subnet-validator),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

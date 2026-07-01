@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-burn-cost-to-crowdloans-article-8708",
+  "title": "Add Distinction from Burn Cost to crowdloans article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@fd428ca156828d5bcfa31468d469e866dd979310",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/056c5a81f7edde6ea6aa89c87ae3232a5a2627ac",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 056c5a81f7edde6ea6aa89c87ae3232a5a2627ac | Original subject: Add Distinction from Burn Cost to crowdloans article (#8708)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.184139+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/local_blockchain/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/local_blockchain/index.mdx",
+      "text": "## Distinction from Bittensor Networks"
+    },
+    {
+      "path": "content/pages/local_blockchain/index.mdx",
+      "text": "A Bittensor network and a local blockchain name an environment set and one private chain. Bittensor"
+    },
+    {
+      "path": "content/pages/local_blockchain/index.mdx",
+      "text": "networks covers mainnet, testnet, and localnet, while a local blockchain is the private, isolated"
+    },
+    {
+      "path": "content/pages/local_blockchain/index.mdx",
+      "text": "chain used for development and testing"
+    },
+    {
+      "path": "content/pages/local_blockchain/index.mdx",
+      "text": "([Bittensor Networks](https://docs.learnbittensor.org/concepts/bittensor-networks),"
+    },
+    {
+      "path": "content/pages/local_blockchain/index.mdx",
+      "text": "[Glossary: Local Blockchain](https://docs.learnbittensor.org/resources/glossary#local-blockchain))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

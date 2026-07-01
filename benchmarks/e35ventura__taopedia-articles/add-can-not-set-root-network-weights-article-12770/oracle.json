@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/can_not_set_root_network_weights/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/can_not_set_root_network_weights/index.mdx",
+      "text": "title: \"Can Not Set Root Network Weights\""
+    },
+    {
+      "path": "content/pages/can_not_set_root_network_weights/index.mdx",
+      "text": "summary:"
+    },
+    {
+      "path": "content/pages/can_not_set_root_network_weights/index.mdx",
+      "text": "\"How the CanNotSetRootNetworkWeights error rejects a weight-setting call that targets the root"
+    },
+    {
+      "path": "content/pages/can_not_set_root_network_weights/index.mdx",
+      "text": "subnet, since validator weights are reserved for the root subnet's own consensus path.\""
+    },
+    {
+      "path": "content/pages/can_not_set_root_network_weights/index.mdx",
+      "text": "category: \"Validation\""
+    },
+    {
+      "path": "content/pages/can_not_set_root_network_weights/index.mdx",
+      "text": "tags: [\"Validation\", \"Errors\"]"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

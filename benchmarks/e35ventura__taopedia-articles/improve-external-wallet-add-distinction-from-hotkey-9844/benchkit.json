@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-external-wallet-add-distinction-from-hotkey-9844",
+  "title": "improve external wallet: add distinction from hotkey",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@55ad6288f87b3750b645362e8832f96de70ec9bb",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/722ed41943d6a0e4f1fa739a6dc300dcd0672d47",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 722ed41943d6a0e4f1fa739a6dc300dcd0672d47 | Original subject: improve external wallet: add distinction from hotkey (#9844)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.731411+00:00"
+}

@@ -1,0 +1,1 @@
+content/pages/coldkey_hotkey_workstation_security/index.mdx

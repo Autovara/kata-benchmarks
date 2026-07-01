@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-tempo-name-the-startup-constant-and-the-min-max-tempo-bound-constants-12476",
+  "title": "improve tempo: name the startup constant and the min/max tempo bound constants",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@bc2dd91070e873b81d01b2e47436a5ec6c6731d9",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/cb3e2b16a0acbde04eb7e24fb6c0393a87d9dfad",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: cb3e2b16a0acbde04eb7e24fb6c0393a87d9dfad | Original subject: improve tempo: name the startup constant and the min/max tempo bound constants (#12476)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.218604+00:00"
+}

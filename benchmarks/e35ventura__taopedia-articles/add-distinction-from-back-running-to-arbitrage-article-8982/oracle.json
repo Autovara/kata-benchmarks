@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/arbitrage/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/arbitrage/index.mdx",
+      "text": "## Distinction from Back-Running"
+    },
+    {
+      "path": "content/pages/arbitrage/index.mdx",
+      "text": "Back-running and arbitrage answer different questions. Back-running describes transaction ordering:"
+    },
+    {
+      "path": "content/pages/arbitrage/index.mdx",
+      "text": "submitting a trade immediately after a specific pending swap to act on the move it just caused."
+    },
+    {
+      "path": "content/pages/arbitrage/index.mdx",
+      "text": "Arbitrage describes the reason for a trade: closing a price difference between markets. A single"
+    },
+    {
+      "path": "content/pages/arbitrage/index.mdx",
+      "text": "back-run that corrects a pool dislocation can be both, but ordering and motive are separate ideas"
+    },
+    {
+      "path": "content/pages/arbitrage/index.mdx",
+      "text": "([MEV](https://docs.learnbittensor.org/resources/glossary#mev-maximal-extractable-value),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

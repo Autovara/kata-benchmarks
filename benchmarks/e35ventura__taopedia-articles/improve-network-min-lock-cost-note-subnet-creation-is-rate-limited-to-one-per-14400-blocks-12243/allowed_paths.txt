@@ -1,0 +1,1 @@
+content/pages/network_min_lock_cost/index.mdx

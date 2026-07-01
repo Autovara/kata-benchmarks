@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/validator_miner_bonds/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/validator_miner_bonds/index.mdx",
+      "text": "Bond state also depends on continued validation eligibility. The validator documentation states that"
+    },
+    {
+      "path": "content/pages/validator_miner_bonds/index.mdx",
+      "text": "when a validator permit is lost, the neuron's associated consensus bonds are deleted, so a validator"
+    },
+    {
+      "path": "content/pages/validator_miner_bonds/index.mdx",
+      "text": "that later regains permit must rebuild bond state rather than resuming from the previous bonds"
+    },
+    {
+      "path": "content/pages/validator_miner_bonds/index.mdx",
+      "text": "([Validating in Bittensor](https://docs.learnbittensor.org/validators),"
+    },
+    {
+      "path": "content/pages/validator_miner_bonds/index.mdx",
+      "text": "[Glossary: Validator Permit](https://docs.learnbittensor.org/resources/glossary#validator-permit))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

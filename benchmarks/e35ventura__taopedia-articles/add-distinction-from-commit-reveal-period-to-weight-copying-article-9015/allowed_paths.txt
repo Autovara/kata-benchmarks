@@ -1,0 +1,1 @@
+content/pages/weight_copying/index.mdx

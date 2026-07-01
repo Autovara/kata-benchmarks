@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/pure_proxies/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/pure_proxies/index.mdx",
+      "text": "## Distinction from Hotkey"
+    },
+    {
+      "path": "content/pages/pure_proxies/index.mdx",
+      "text": "Pure proxies are keyless stand-in accounts used to preserve multisig address stability when members"
+    },
+    {
+      "path": "content/pages/pure_proxies/index.mdx",
+      "text": "rotate. A hotkey is an operational signing key used for frequent network operations such as"
+    },
+    {
+      "path": "content/pages/pure_proxies/index.mdx",
+      "text": "validation and mining"
+    },
+    {
+      "path": "content/pages/pure_proxies/index.mdx",
+      "text": "([Understanding Pure Proxies](https://docs.learnbittensor.org/keys/proxies/pure-proxies),"
+    },
+    {
+      "path": "content/pages/pure_proxies/index.mdx",
+      "text": "[Glossary: Hotkey](https://docs.learnbittensor.org/resources/glossary#hotkey))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,1 @@
+content/pages/external_wallet/index.mdx

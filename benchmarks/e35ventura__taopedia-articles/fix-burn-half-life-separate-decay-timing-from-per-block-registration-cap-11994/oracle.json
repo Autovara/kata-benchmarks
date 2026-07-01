@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/burn_half_life/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/burn_half_life/index.mdx",
+      "text": "admission is continuous without interval-based registration windows; burn half life governs how the"
+    },
+    {
+      "path": "content/pages/burn_half_life/index.mdx",
+      "text": "live charge decays between successful registration events"
+    },
+    {
+      "path": "content/pages/burn_half_life/index.mdx",
+      "text": "[Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    },
+    {
+      "path": "content/pages/burn_half_life/index.mdx",
+      "text": "Burn half life shapes decay timing, not per-block registration throughput."
+    },
+    {
+      "path": "content/pages/burn_half_life/index.mdx",
+      "text": "`MaxRegistrationsPerBlock` limits how many registrations can succeed on a netuid in the current"
+    },
+    {
+      "path": "content/pages/burn_half_life/index.mdx",
+      "text": "block, which is separate from how quickly the live burn eases back toward the floor between those"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/burn_half_life/index.mdx",
+      "text": "registration is continuous with no windows or per-block caps; burn half life governs how the live"
+    },
+    {
+      "path": "content/pages/burn_half_life/index.mdx",
+      "text": "charge decays between those registration events"
+    },
+    {
+      "path": "content/pages/burn_half_life/index.mdx",
+      "text": "[Rate Limits: Neuron registration](https://docs.learnbittensor.org/learn/chain-rate-limits#neuron-uid-registration))."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

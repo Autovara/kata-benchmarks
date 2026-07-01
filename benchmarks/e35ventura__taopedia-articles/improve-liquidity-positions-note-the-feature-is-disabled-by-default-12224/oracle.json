@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/liquidity_positions/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/liquidity_positions/index.mdx",
+      "text": "## Supplying Liquidity Is Off by Default"
+    },
+    {
+      "path": "content/pages/liquidity_positions/index.mdx",
+      "text": "Whether users can supply liquidity positions on a subnet is not automatic. The subnet"
+    },
+    {
+      "path": "content/pages/liquidity_positions/index.mdx",
+      "text": "hyperparameters documentation lists the user-liquidity feature as disabled by default, so a subnet"
+    },
+    {
+      "path": "content/pages/liquidity_positions/index.mdx",
+      "text": "owner must enable it before users can add liquidity positions on that subnet"
+    },
+    {
+      "path": "content/pages/liquidity_positions/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

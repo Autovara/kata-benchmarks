@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_deregistration/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_deregistration/index.mdx",
+      "text": "The reference constants put a documented length on that window. They list a default network immunity"
+    },
+    {
+      "path": "content/pages/subnet_deregistration/index.mdx",
+      "text": "period of 1,296,000 blocks, which is roughly 180 days at standard block time, so a newly created"
+    },
+    {
+      "path": "content/pages/subnet_deregistration/index.mdx",
+      "text": "subnet has a long documented head start before it can enter the removal comparison"
+    },
+    {
+      "path": "content/pages/subnet_deregistration/index.mdx",
+      "text": "([Subtensor Constants](https://docs.learnbittensor.org/subtensor-api/constants))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/network_min_lock_cost/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/network_min_lock_cost/index.mdx",
+      "text": "## Subnet Creation Is Also Rate-Limited"
+    },
+    {
+      "path": "content/pages/network_min_lock_cost/index.mdx",
+      "text": "Price is not the only constraint on adding subnets. The subnet-creation documentation states that"
+    },
+    {
+      "path": "content/pages/network_min_lock_cost/index.mdx",
+      "text": "subnet creations are limited to one per 14,400 blocks, approximately one every two days, so the"
+    },
+    {
+      "path": "content/pages/network_min_lock_cost/index.mdx",
+      "text": "network adds new subnets on a throttled schedule rather than all at once"
+    },
+    {
+      "path": "content/pages/network_min_lock_cost/index.mdx",
+      "text": "([Create a Subnet](https://docs.learnbittensor.org/subnets/create-a-subnet))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

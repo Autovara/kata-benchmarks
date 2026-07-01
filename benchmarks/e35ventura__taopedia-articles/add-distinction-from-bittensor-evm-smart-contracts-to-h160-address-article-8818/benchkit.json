@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-bittensor-evm-smart-contracts-to-h160-address-article-8818",
+  "title": "Add Distinction from Bittensor EVM Smart Contracts to h160 address article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@7f69f419112472bfb21da9720e9622b79b43813e",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/465fb24fe1b610a5f0678aae4e6b55b9fcf6f2ea",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 465fb24fe1b610a5f0678aae4e6b55b9fcf6f2ea | Original subject: Add Distinction from Bittensor EVM Smart Contracts to h160 address article (#8818)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.131775+00:00"
+}

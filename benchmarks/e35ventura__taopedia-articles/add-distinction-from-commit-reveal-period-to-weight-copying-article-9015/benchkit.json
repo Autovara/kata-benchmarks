@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-commit-reveal-period-to-weight-copying-article-9015",
+  "title": "Add Distinction from Commit Reveal Period to weight copying article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@1cdc587d91a0fb3e902454008404e0e9f5ac47a7",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/2fc8db2a83ecbac5395ebd13d934082d47902146",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 2fc8db2a83ecbac5395ebd13d934082d47902146 | Original subject: Add Distinction from Commit Reveal Period to weight copying article (#9015)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.214282+00:00"
+}

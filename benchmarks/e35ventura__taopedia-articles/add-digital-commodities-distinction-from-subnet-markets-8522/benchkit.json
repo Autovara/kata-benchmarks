@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-digital-commodities-distinction-from-subnet-markets-8522",
+  "title": "Add digital commodities distinction from subnet markets",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@0eb86a5b1249901de353e206ad810af45443c4a8",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/6956cae974106eaff60b9dbff47ec353862edcc6",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 6956cae974106eaff60b9dbff47ec353862edcc6 | Original subject: Add digital commodities distinction from subnet markets (#8522)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.054980+00:00"
+}

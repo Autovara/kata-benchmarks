@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/metagraph/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/metagraph/index.mdx",
+      "text": "## Distinction from Netuid"
+    },
+    {
+      "path": "content/pages/metagraph/index.mdx",
+      "text": "A metagraph and a netuid relate as a state structure and the identifier that selects it. A netuid is"
+    },
+    {
+      "path": "content/pages/metagraph/index.mdx",
+      "text": "the numeric identifier of a specific subnet, while the metagraph is that subnet's state snapshot \u2014"
+    },
+    {
+      "path": "content/pages/metagraph/index.mdx",
+      "text": "the table of UIDs, stakes, weights, ranks, and related values \u2014 so a netuid names which subnet and"
+    },
+    {
+      "path": "content/pages/metagraph/index.mdx",
+      "text": "the metagraph holds what is currently true inside it"
+    },
+    {
+      "path": "content/pages/metagraph/index.mdx",
+      "text": "([Glossary: Netuid](https://docs.learnbittensor.org/resources/glossary#netuid),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

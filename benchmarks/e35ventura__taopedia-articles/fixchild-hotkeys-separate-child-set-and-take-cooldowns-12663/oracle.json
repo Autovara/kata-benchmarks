@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/child_hotkeys/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/child_hotkeys/index.mdx",
+      "text": "across all subnets, not only on the netuid where children are being set, so a parent must clear the"
+    },
+    {
+      "path": "content/pages/child_hotkeys/index.mdx",
+      "text": "documented total across all subnets before children can be configured on any netuid"
+    },
+    {
+      "path": "content/pages/child_hotkeys/index.mdx",
+      "text": "limit on assigning or revoking children, so a parent can be inside one cooldown while the other"
+    },
+    {
+      "path": "content/pages/child_hotkeys/index.mdx",
+      "text": "action family is still available"
+    },
+    {
+      "path": "content/pages/child_hotkeys/index.mdx",
+      "text": "[Chain Rate Limits: Child hotkey operations rate limit](https://docs.learnbittensor.org/learn/chain-rate-limits#child-hotkey-operations-rate-limit),"
+    },
+    {
+      "path": "content/pages/child_hotkeys/index.mdx",
+      "text": "ceiling, are protocol limits from the documentation"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/child_hotkeys/index.mdx",
+      "text": "across all subnets, not only on the netuid where children are being set. Readers can query the live"
+    },
+    {
+      "path": "content/pages/child_hotkeys/index.mdx",
+      "text": "threshold with `subtensorModule.stakeThreshold()` on chain"
+    },
+    {
+      "path": "content/pages/child_hotkeys/index.mdx",
+      "text": "limit on assigning or revoking children"
+    },
+    {
+      "path": "content/pages/child_hotkeys/index.mdx",
+      "text": "[`set_children`](https://github.com/opentensor/subtensor/blob/main/pallets/subtensor/src/staking/set_children.rs),"
+    },
+    {
+      "path": "content/pages/child_hotkeys/index.mdx",
+      "text": "ceiling, are protocol limits from the documentation."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

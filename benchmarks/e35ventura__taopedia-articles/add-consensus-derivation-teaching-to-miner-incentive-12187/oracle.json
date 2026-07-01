@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/miner_incentive/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/miner_incentive/index.mdx",
+      "text": "## How Miner Incentive Is Determined"
+    },
+    {
+      "path": "content/pages/miner_incentive/index.mdx",
+      "text": "Miner incentive is an outcome of consensus, not a value a miner sets. Validators evaluate miner work"
+    },
+    {
+      "path": "content/pages/miner_incentive/index.mdx",
+      "text": "and submit scored weight vectors through `set_weights`; each tempo Yuma Consensus clips outlier"
+    },
+    {
+      "path": "content/pages/miner_incentive/index.mdx",
+      "text": "weights, merges the surviving signals into rank, and credits each miner an emission share in"
+    },
+    {
+      "path": "content/pages/miner_incentive/index.mdx",
+      "text": "proportion to that rank"
+    },
+    {
+      "path": "content/pages/miner_incentive/index.mdx",
+      "text": "([Glossary: Weight Setting](https://docs.learnbittensor.org/resources/glossary#weight-setting),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

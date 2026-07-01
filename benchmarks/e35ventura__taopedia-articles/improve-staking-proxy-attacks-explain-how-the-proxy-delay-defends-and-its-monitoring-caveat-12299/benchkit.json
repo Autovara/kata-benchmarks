@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-staking-proxy-attacks-explain-how-the-proxy-delay-defends-and-its-monitoring-caveat-12299",
+  "title": "improve staking proxy attacks: explain how the proxy delay defends and its monitoring caveat",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@0aed1b520f4e7139981146ba59a316cd274a1fbf",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/30b688245cf6ed84b9a7dc4e16692d2aca40cd79",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 30b688245cf6ed84b9a7dc4e16692d2aca40cd79 | Original subject: improve staking proxy attacks: explain how the proxy delay defends and its monitoring caveat (#12299)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.097498+00:00"
+}

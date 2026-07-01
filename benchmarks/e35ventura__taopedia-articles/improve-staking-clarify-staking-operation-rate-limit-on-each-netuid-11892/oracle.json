@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/staking/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/staking/index.mdx",
+      "text": "Staking is also a rate-limited action on each netuid. The rate-limit documentation groups add stake,"
+    },
+    {
+      "path": "content/pages/staking/index.mdx",
+      "text": "remove stake, and move stake under the staking-operation limit, allowing one successful operation"
+    },
+    {
+      "path": "content/pages/staking/index.mdx",
+      "text": "per block on a particular subnet. Repeated staking attempts on netuid 1 or another selected netuid"
+    },
+    {
+      "path": "content/pages/staking/index.mdx",
+      "text": "are therefore paced by the chain rather than being an unrestricted sequence of support additions"
+    },
+    {
+      "path": "content/pages/staking/index.mdx",
+      "text": "([Rate Limits: Staking operations rate limits](https://docs.learnbittensor.org/learn/chain-rate-limits#staking-operations-rate-limits))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

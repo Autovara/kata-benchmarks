@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-bonds-moving-average-add-ema-alpha-derivation-and-1e6-scaling-11690",
+  "title": "improve bonds_moving_average: add EMA alpha derivation and 1e6 scaling",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@04a76bef08326171a90207fce076eafef7c25c80",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/90e88a931aa4d18a3754c5fffdfc7a8e2d247be4",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 90e88a931aa4d18a3754c5fffdfc7a8e2d247be4 | Original subject: improve bonds_moving_average: add EMA alpha derivation and 1e6 scaling (#11690)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.613100+00:00"
+}

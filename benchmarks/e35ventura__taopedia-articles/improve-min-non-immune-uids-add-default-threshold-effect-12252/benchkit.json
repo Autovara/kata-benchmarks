@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-min-non-immune-uids-add-default-threshold-effect-12252",
+  "title": "improve min_non_immune_uids: add default threshold effect",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@186d787abedf092876487820311ba1b26d443a8a",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/9da7ecfd61b2f7e85f0fedfaf07446e6ff7a6d22",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 9da7ecfd61b2f7e85f0fedfaf07446e6ff7a6d22 | Original subject: improve min_non_immune_uids: add default threshold effect (#12252)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.917330+00:00"
+}

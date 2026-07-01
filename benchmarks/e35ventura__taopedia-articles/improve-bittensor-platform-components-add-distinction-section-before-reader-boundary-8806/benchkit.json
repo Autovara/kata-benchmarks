@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-bittensor-platform-components-add-distinction-section-before-reader-boundary-8806",
+  "title": "improve bittensor_platform_components: add distinction section before reader boundary",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@84c14e7a0b0e96a9d78db9650e007378a9967607",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/a83beec1144f96e29b27beab369e80a137c9b621",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: a83beec1144f96e29b27beab369e80a137c9b621 | Original subject: improve bittensor_platform_components: add distinction section before reader boundary (#8806)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.591982+00:00"
+}

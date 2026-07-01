@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_is_active/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_is_active/index.mdx",
+      "text": "## Reader Boundary"
+    },
+    {
+      "path": "content/pages/subnet_is_active/index.mdx",
+      "text": "Subnet is active should not be read as a registration gate, an emission amount, or proof that a"
+    },
+    {
+      "path": "content/pages/subnet_is_active/index.mdx",
+      "text": "subnet is profitable. It names only the boolean flag that reports whether the subnet's emission path"
+    },
+    {
+      "path": "content/pages/subnet_is_active/index.mdx",
+      "text": "has started on the selected netuid"
+    },
+    {
+      "path": "content/pages/subnet_is_active/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

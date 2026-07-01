@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fix-subjective-evaluation-remove-contradictory-survived-clipping-sentence-in-validator-trust-section-12691",
+  "title": "Fix subjective_evaluation: remove contradictory survived-clipping sentence in validator trust section",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@13aa1391a07872833d61207630d6b0047d97fc16",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/1a543081eb3b83fedea92a1ba725e9db3ebb1cc1",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 1a543081eb3b83fedea92a1ba725e9db3ebb1cc1 | Original subject: Fix subjective_evaluation: remove contradictory survived-clipping sentence in validator trust section (#12691)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:07:54.976943+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/transfer/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/transfer/index.mdx",
+      "text": "## Distinction from Address Poisoning Scams"
+    },
+    {
+      "path": "content/pages/transfer/index.mdx",
+      "text": "Address poisoning and a transfer describe a deception and the action it targets. Address poisoning"
+    },
+    {
+      "path": "content/pages/transfer/index.mdx",
+      "text": "names a destination-selection scam that plants a lookalike wallet address, while a transfer is the"
+    },
+    {
+      "path": "content/pages/transfer/index.mdx",
+      "text": "wallet action that moves TAO to a chosen destination address"
+    },
+    {
+      "path": "content/pages/transfer/index.mdx",
+      "text": "([Address Poisoning Scams](https://docs.learnbittensor.org/keys/address-poisoning-scams),"
+    },
+    {
+      "path": "content/pages/transfer/index.mdx",
+      "text": "[Glossary: Transfer](https://docs.learnbittensor.org/resources/glossary#transfer))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

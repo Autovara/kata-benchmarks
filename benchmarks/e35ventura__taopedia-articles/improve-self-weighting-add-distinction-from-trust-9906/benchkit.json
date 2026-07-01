@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-self-weighting-add-distinction-from-trust-9906",
+  "title": "improve self weighting: add distinction from trust",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@a596f4f07c17a5156684ba5c674e294cc83f2526",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/a15d472f9ae6a4b289f48353db74bd1c0390e5e5",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: a15d472f9ae6a4b289f48353db74bd1c0390e5e5 | Original subject: improve self weighting: add distinction from trust (#9906)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.055956+00:00"
+}

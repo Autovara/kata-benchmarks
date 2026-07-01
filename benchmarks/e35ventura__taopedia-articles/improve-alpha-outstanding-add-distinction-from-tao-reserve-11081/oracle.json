@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/alpha_outstanding/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/alpha_outstanding/index.mdx",
+      "text": "## Distinction from TAO Reserve"
+    },
+    {
+      "path": "content/pages/alpha_outstanding/index.mdx",
+      "text": "Alpha outstanding and the TAO reserve track different sides of a subnet's economy. Alpha outstanding"
+    },
+    {
+      "path": "content/pages/alpha_outstanding/index.mdx",
+      "text": "is the amount of a subnet's alpha circulating outside the protocol's reserves, while the TAO reserve"
+    },
+    {
+      "path": "content/pages/alpha_outstanding/index.mdx",
+      "text": "is the TAO-side balance of the subnet's liquidity pool that, with the alpha reserve, sets the alpha"
+    },
+    {
+      "path": "content/pages/alpha_outstanding/index.mdx",
+      "text": "([Emission: Alpha outstanding injection](https://docs.learnbittensor.org/learn/emissions#alpha-outstanding-injection),"
+    },
+    {
+      "path": "content/pages/alpha_outstanding/index.mdx",
+      "text": "[Emission: TAO reserve injection](https://docs.learnbittensor.org/learn/emissions#tao-reserve-injection),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

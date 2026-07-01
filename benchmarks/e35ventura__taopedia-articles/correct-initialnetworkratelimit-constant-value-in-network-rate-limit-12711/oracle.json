@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/network_rate_limit/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/network_rate_limit/index.mdx",
+      "text": "`api.consts.subtensorModule.initialNetworkRateLimit`, listed as `7200`. The live `NetworkRateLimit`"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/network_rate_limit/index.mdx",
+      "text": "`api.consts.subtensorModule.initialNetworkRateLimit`, listed as `14400`. The live `NetworkRateLimit`"
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

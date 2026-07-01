@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/collusion/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/collusion/index.mdx",
+      "text": "Collusion is validators coordinating to inflate weights toward chosen targets. Consensus score names"
+    },
+    {
+      "path": "content/pages/collusion/index.mdx",
+      "text": "the per-miner clipping benchmark `W\u0304_j` Yuma derives from stake-weighted validator agreement before"
+    },
+    {
+      "path": "content/pages/collusion/index.mdx",
+      "text": "individual weights are capped\u2014not a validator-alignment metric read after clipping"
+    },
+    {
+      "path": "content/pages/collusion/index.mdx",
+      "text": "([Glossary: Consensus Score](https://docs.learnbittensor.org/resources/glossary#consensus-score),"
+    },
+    {
+      "path": "content/pages/collusion/index.mdx",
+      "text": "[Yuma Consensus: Clipping](https://docs.learnbittensor.org/learn/yuma-consensus#clipping))."
+    },
+    {
+      "path": "content/pages/collusion/index.mdx",
+      "text": "- **Collusion** \u2014 coordinated inflation of weights toward shared miner targets."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/collusion/index.mdx",
+      "text": "Collusion is validators coordinating to inflate weights toward chosen targets. Consensus score"
+    },
+    {
+      "path": "content/pages/collusion/index.mdx",
+      "text": "measures how closely a validator's weights align with the stake-weighted agreement point"
+    },
+    {
+      "path": "content/pages/collusion/index.mdx",
+      "text": "([Understanding Incentive Mechanisms](https://docs.learnbittensor.org/learn/anatomy-of-incentive-mechanism),"
+    },
+    {
+      "path": "content/pages/collusion/index.mdx",
+      "text": "[Glossary: Consensus Score](https://docs.learnbittensor.org/resources/glossary#consensus-score))."
+    },
+    {
+      "path": "content/pages/collusion/index.mdx",
+      "text": "- **Collusion** \u2014 coordinated behavior a coalition might attempt."
+    },
+    {
+      "path": "content/pages/collusion/index.mdx",
+      "text": "- **Consensus score** \u2014 alignment benchmark Yuma uses when clipping outlier weights."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/alpha_tokens/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/alpha_tokens/index.mdx",
+      "text": "## Distinction from Protocol Alpha"
+    },
+    {
+      "path": "content/pages/alpha_tokens/index.mdx",
+      "text": "Alpha tokens and protocol alpha are different holdings of the same subnet currency. Alpha tokens are"
+    },
+    {
+      "path": "content/pages/alpha_tokens/index.mdx",
+      "text": "the subnet's tradeable units that stakers receive and hold, while protocol alpha is alpha held by"
+    },
+    {
+      "path": "content/pages/alpha_tokens/index.mdx",
+      "text": "the protocol itself rather than circulating among participants, so the two describe staker-held"
+    },
+    {
+      "path": "content/pages/alpha_tokens/index.mdx",
+      "text": "versus protocol-held alpha"
+    },
+    {
+      "path": "content/pages/alpha_tokens/index.mdx",
+      "text": "([Glossary: Protocol Alpha](https://docs.learnbittensor.org/resources/glossary#protocol-alpha),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

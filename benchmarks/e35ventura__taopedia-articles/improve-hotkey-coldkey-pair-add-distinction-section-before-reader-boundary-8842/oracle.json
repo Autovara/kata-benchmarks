@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/hotkey_coldkey_pair/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/hotkey_coldkey_pair/index.mdx",
+      "text": "## Distinction from Register"
+    },
+    {
+      "path": "content/pages/hotkey_coldkey_pair/index.mdx",
+      "text": "A hotkey-coldkey pair names the authentication relationship between operational hotkey and owning"
+    },
+    {
+      "path": "content/pages/hotkey_coldkey_pair/index.mdx",
+      "text": "coldkey. Register is the subnet entry process that assigns a UID slot to a hotkey on a netuid"
+    },
+    {
+      "path": "content/pages/hotkey_coldkey_pair/index.mdx",
+      "text": "([Glossary: Hotkey-Coldkey Pair](https://docs.learnbittensor.org/resources/glossary#hotkey-coldkey-pair),"
+    },
+    {
+      "path": "content/pages/hotkey_coldkey_pair/index.mdx",
+      "text": "[Glossary: Register](https://docs.learnbittensor.org/resources/glossary#register),"
+    },
+    {
+      "path": "content/pages/hotkey_coldkey_pair/index.mdx",
+      "text": "[Glossary: UID Slot](https://docs.learnbittensor.org/resources/glossary#uid-slot))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

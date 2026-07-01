@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/bonds_reset_enabled/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/bonds_reset_enabled/index.mdx",
+      "text": "This flag should not be read as the only bond-clearing condition. Validator documentation also"
+    },
+    {
+      "path": "content/pages/bonds_reset_enabled/index.mdx",
+      "text": "states that when a validator permit is lost, the neuron's associated consensus bonds are deleted;"
+    },
+    {
+      "path": "content/pages/bonds_reset_enabled/index.mdx",
+      "text": "that permit-loss path is separate from an owner-enabled reset workflow"
+    },
+    {
+      "path": "content/pages/bonds_reset_enabled/index.mdx",
+      "text": "([Validating in Bittensor](https://docs.learnbittensor.org/validators),"
+    },
+    {
+      "path": "content/pages/bonds_reset_enabled/index.mdx",
+      "text": "[Glossary: Validator Permit](https://docs.learnbittensor.org/resources/glossary#validator-permit))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

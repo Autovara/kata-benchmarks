@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/miner_deregistration/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/miner_deregistration/index.mdx",
+      "text": "That roster-removal lifecycle is separate from the tempo pass that converts validator weight"
+    },
+    {
+      "path": "content/pages/miner_deregistration/index.mdx",
+      "text": "submissions into emission shares"
+    },
+    {
+      "path": "content/pages/miner_deregistration/index.mdx",
+      "text": "Yuma still aggregates submitted weights and credits miner incentives and validator dividends for"
+    },
+    {
+      "path": "content/pages/miner_deregistration/index.mdx",
+      "text": "participants who remain on the netuid when the epoch closes"
+    },
+    {
+      "path": "content/pages/miner_deregistration/index.mdx",
+      "text": "([Emission](https://docs.learnbittensor.org/learn/emissions))."
+    },
+    {
+      "path": "content/pages/miner_deregistration/index.mdx",
+      "text": "Immunity period and pruning score sit in related lifecycle vocabulary. Deregistration removes a"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/miner_deregistration/index.mdx",
+      "text": "Yuma Consensus settles validator weight submissions into emission shares each tempo"
+    },
+    {
+      "path": "content/pages/miner_deregistration/index.mdx",
+      "text": "Removal vocabulary and settlement vocabulary answer different subnet outcome layers"
+    },
+    {
+      "path": "content/pages/miner_deregistration/index.mdx",
+      "text": "([Glossary: UID Slot](https://docs.learnbittensor.org/resources/glossary#uid-slot))."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

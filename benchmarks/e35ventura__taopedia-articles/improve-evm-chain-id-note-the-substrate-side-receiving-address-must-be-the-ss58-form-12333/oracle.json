@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/evm_chain_id/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/evm_chain_id/index.mdx",
+      "text": "## Receiving TAO from the Substrate Side"
+    },
+    {
+      "path": "content/pages/evm_chain_id/index.mdx",
+      "text": "The two address forms also matter when funding an EVM account. The MetaMask setup guidance notes"
+    },
+    {
+      "path": "content/pages/evm_chain_id/index.mdx",
+      "text": "that when TAO is sent to your EVM account from a substrate wallet application or an exchange, the"
+    },
+    {
+      "path": "content/pages/evm_chain_id/index.mdx",
+      "text": "destination must be the SS58 form of the account rather than its 0x address, because the substrate"
+    },
+    {
+      "path": "content/pages/evm_chain_id/index.mdx",
+      "text": "side cannot send to the raw EVM form. That SS58 form is a safe public mirror of the same account:"
+    },
+    {
+      "path": "content/pages/evm_chain_id/index.mdx",
+      "text": "converting an H160 address to its SS58 form, or back, does not yield the corresponding private key"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

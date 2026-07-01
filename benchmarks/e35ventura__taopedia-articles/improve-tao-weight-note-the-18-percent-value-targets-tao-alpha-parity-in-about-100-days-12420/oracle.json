@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/tao_weight/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/tao_weight/index.mdx",
+      "text": "The emissions documentation also gives the reasoning behind the value. It states the 18% level is"
+    },
+    {
+      "path": "content/pages/tao_weight/index.mdx",
+      "text": "planned with the goal of reaching weight parity between TAO and total alpha in approximately 100"
+    },
+    {
+      "path": "content/pages/tao_weight/index.mdx",
+      "text": "days, so the current figure represents a planned trajectory toward parity rather than a permanent"
+    },
+    {
+      "path": "content/pages/tao_weight/index.mdx",
+      "text": "fixed ratio ([Emission](https://docs.learnbittensor.org/learn/emissions))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

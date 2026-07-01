@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fixmax-allowed-uids-align-pruning-score-wording-with-displacement-model-12534",
+  "title": "fix(max_allowed_uids): align pruning score wording with displacement model",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@87c4fd8341f20d7580b643eb89546ef1acbed554",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/1875eae10382e955a4f55a23d83f4cc52ef1f63a",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 1875eae10382e955a4f55a23d83f4cc52ef1f63a | Original subject: fix(max_allowed_uids): align pruning score wording with displacement model (#12534)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.017018+00:00"
+}

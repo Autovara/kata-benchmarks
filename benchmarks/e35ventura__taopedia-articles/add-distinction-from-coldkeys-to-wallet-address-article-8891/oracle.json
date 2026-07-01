@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/wallet_address/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/wallet_address/index.mdx",
+      "text": "## Distinction from Coldkeys"
+    },
+    {
+      "path": "content/pages/wallet_address/index.mdx",
+      "text": "A coldkey and a wallet address name a signing key and its public identifier. The coldkey is the"
+    },
+    {
+      "path": "content/pages/wallet_address/index.mdx",
+      "text": "security-critical key that controls TAO and stake, while the wallet address is the coldkey's"
+    },
+    {
+      "path": "content/pages/wallet_address/index.mdx",
+      "text": "public-key-derived identifier used to receive TAO"
+    },
+    {
+      "path": "content/pages/wallet_address/index.mdx",
+      "text": "([Glossary: Coldkey](https://docs.learnbittensor.org/resources/glossary#coldkey),"
+    },
+    {
+      "path": "content/pages/wallet_address/index.mdx",
+      "text": "[Glossary: Wallet Address](https://docs.learnbittensor.org/resources/glossary#wallet-address))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

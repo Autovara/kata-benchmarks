@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/extrinsics/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/extrinsics/index.mdx",
+      "text": "## Distinction from Crowdloans"
+    },
+    {
+      "path": "content/pages/extrinsics/index.mdx",
+      "text": "A crowdloan and an extrinsic relate as a funding campaign and the action it can execute. Crowdloan"
+    },
+    {
+      "path": "content/pages/extrinsics/index.mdx",
+      "text": "documentation describes a campaign that, on finalization, runs exactly one specified action \u2014 a call"
+    },
+    {
+      "path": "content/pages/extrinsics/index.mdx",
+      "text": "(an extrinsic) or a target-address transfer \u2014 chosen when the campaign is created"
+    },
+    {
+      "path": "content/pages/extrinsics/index.mdx",
+      "text": "([Crowdloans](https://docs.learnbittensor.org/subnets/crowdloans),"
+    },
+    {
+      "path": "content/pages/extrinsics/index.mdx",
+      "text": "[Crowdloan Lifecycle](https://docs.learnbittensor.org/subnets/crowdloans#crowdloan-lifecycle),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

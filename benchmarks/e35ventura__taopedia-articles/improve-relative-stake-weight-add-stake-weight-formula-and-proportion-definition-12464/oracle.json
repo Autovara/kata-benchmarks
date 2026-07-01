@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/relative_stake_weight/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/relative_stake_weight/index.mdx",
+      "text": "## Stake Weight Formula"
+    },
+    {
+      "path": "content/pages/relative_stake_weight/index.mdx",
+      "text": "Relative stake weight is computed from stake weight, not from raw TAO or alpha balances alone. The"
+    },
+    {
+      "path": "content/pages/relative_stake_weight/index.mdx",
+      "text": "validators guide defines stake weight as alpha stake plus TAO stake multiplied by the global"
+    },
+    {
+      "path": "content/pages/relative_stake_weight/index.mdx",
+      "text": "`tao_weight` parameter, written as stake weight = \u03b1 + 0.18 \u00d7 \u03c4 at the current documented value."
+    },
+    {
+      "path": "content/pages/relative_stake_weight/index.mdx",
+      "text": "Relative stake weight is one validator's stake weight divided by the sum of stake weight across"
+    },
+    {
+      "path": "content/pages/relative_stake_weight/index.mdx",
+      "text": "validators on the same subnet"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

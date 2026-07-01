@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fix-register-align-continuous-admission-with-maxregistrationsperblock-cap-11941",
+  "title": "fix register: align continuous admission with MaxRegistrationsPerBlock cap",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@b352db60bcfb713e5ea81ca0efb7a5a1fec1182a",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/4240e9319634497a920d5c5223c9881e30dc2800",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 4240e9319634497a920d5c5223c9881e30dc2800 | Original subject: fix register: align continuous admission with MaxRegistrationsPerBlock cap (#11941)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.002957+00:00"
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/delegate_take_too_high/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/delegate_take_too_high/index.mdx",
+      "text": "([Subtensor Standard Errors](https://docs.learnbittensor.org/errors/subtensor#delegatetaketoohigh))."
+    },
+    {
+      "path": "content/pages/delegate_take_too_high/index.mdx",
+      "text": "([Subtensor Standard Errors](https://docs.learnbittensor.org/errors/subtensor#delegatetaketoohigh),"
+    },
+    {
+      "path": "content/pages/delegate_take_too_high/index.mdx",
+      "text": "([Subtensor Standard Errors: DelegateTakeTooLow](https://docs.learnbittensor.org/errors/subtensor#delegatetaketoolow),"
+    },
+    {
+      "path": "content/pages/delegate_take_too_high/index.mdx",
+      "text": "([Subtensor Standard Errors: DelegateTakeTooLow](https://docs.learnbittensor.org/errors/subtensor#delegatetaketoolow))."
+    },
+    {
+      "path": "content/pages/delegate_take_too_high/index.mdx",
+      "text": "- [Subtensor Standard Errors](https://docs.learnbittensor.org/errors/subtensor#delegatetaketoohigh)"
+    },
+    {
+      "path": "content/pages/delegate_take_too_high/index.mdx",
+      "text": "- [Subtensor Standard Errors: DelegateTakeTooLow](https://docs.learnbittensor.org/errors/subtensor#delegatetaketoolow)"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/delegate_take_too_high/index.mdx",
+      "text": "([Subtensor Standard Errors](https://docs.learnbittensor.org/errors/subtensor#delegatetakehigh))."
+    },
+    {
+      "path": "content/pages/delegate_take_too_high/index.mdx",
+      "text": "([Subtensor Standard Errors](https://docs.learnbittensor.org/errors/subtensor#delegatetakehigh),"
+    },
+    {
+      "path": "content/pages/delegate_take_too_high/index.mdx",
+      "text": "([Subtensor Standard Errors: DelegateTakeTooLow](https://docs.learnbittensor.org/errors/subtensor#delegatetoolow),"
+    },
+    {
+      "path": "content/pages/delegate_take_too_high/index.mdx",
+      "text": "([Subtensor Standard Errors: DelegateTakeTooLow](https://docs.learnbittensor.org/errors/subtensor#delegatetoolow))."
+    },
+    {
+      "path": "content/pages/delegate_take_too_high/index.mdx",
+      "text": "- [Subtensor Standard Errors](https://docs.learnbittensor.org/errors/subtensor#delegatetakehigh)"
+    },
+    {
+      "path": "content/pages/delegate_take_too_high/index.mdx",
+      "text": "- [Subtensor Standard Errors: DelegateTakeTooLow](https://docs.learnbittensor.org/errors/subtensor#delegatetoolow)"
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

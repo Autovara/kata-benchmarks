@@ -1,0 +1,1 @@
+content/pages/mechanism_emission_split/index.mdx

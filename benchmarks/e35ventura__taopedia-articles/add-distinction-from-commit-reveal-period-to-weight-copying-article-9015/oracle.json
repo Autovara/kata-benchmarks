@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/weight_copying/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/weight_copying/index.mdx",
+      "text": "## Distinction from Commit Reveal Period"
+    },
+    {
+      "path": "content/pages/weight_copying/index.mdx",
+      "text": "Commit reveal period is the hyperparameter count of tempos before committed validator weights are"
+    },
+    {
+      "path": "content/pages/weight_copying/index.mdx",
+      "text": "revealed. Weight copying is the problem where validators reuse visible weight signals instead of"
+    },
+    {
+      "path": "content/pages/weight_copying/index.mdx",
+      "text": "evaluating miner work independently"
+    },
+    {
+      "path": "content/pages/weight_copying/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters),"
+    },
+    {
+      "path": "content/pages/weight_copying/index.mdx",
+      "text": "[Weight Copying Problem](https://docs.learnbittensor.org/concepts/weight-copying-in-bittensor))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

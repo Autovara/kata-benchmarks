@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/delegation_rewards/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/delegation_rewards/index.mdx",
+      "text": "as a 216,000-block cooldown, roughly 30 days, with `DelegateTxRateLimitExceeded` returned when the"
+    },
+    {
+      "path": "content/pages/delegation_rewards/index.mdx",
+      "text": "cooldown is breached. That cooldown gates the `increase_take` path specifically, while"
+    },
+    {
+      "path": "content/pages/delegation_rewards/index.mdx",
+      "text": "`decrease_take` takes effect immediately, so a validator can lower commission at any time but cannot"
+    },
+    {
+      "path": "content/pages/delegation_rewards/index.mdx",
+      "text": "raise it again until the window clears"
+    },
+    {
+      "path": "content/pages/delegation_rewards/index.mdx",
+      "text": "([Chain Rate Limits: Delegate take rate limit](https://docs.learnbittensor.org/learn/chain-rate-limits#delegate-take-rate-limit),"
+    },
+    {
+      "path": "content/pages/delegation_rewards/index.mdx",
+      "text": "[Subtensor Reference: Delegation](https://subtensor.com/reference/mechanisms/delegation))."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/delegation_rewards/index.mdx",
+      "text": "as a 216,000-block cooldown, roughly 30 days, between successful delegate-take changes, with"
+    },
+    {
+      "path": "content/pages/delegation_rewards/index.mdx",
+      "text": "`DelegateTxRateLimitExceeded` returned when the cooldown is breached. That pacing matters to"
+    },
+    {
+      "path": "content/pages/delegation_rewards/index.mdx",
+      "text": "delegators because a validator's commission cannot be raised again immediately after a prior"
+    },
+    {
+      "path": "content/pages/delegation_rewards/index.mdx",
+      "text": "accepted increase"
+    },
+    {
+      "path": "content/pages/delegation_rewards/index.mdx",
+      "text": "([Chain Rate Limits: Delegate take rate limit](https://docs.learnbittensor.org/learn/chain-rate-limits#delegate-take-rate-limit))."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

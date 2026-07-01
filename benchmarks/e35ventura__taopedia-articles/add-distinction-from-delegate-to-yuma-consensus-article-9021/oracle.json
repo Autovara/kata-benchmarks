@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/yuma_consensus/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/yuma_consensus/index.mdx",
+      "text": "## Distinction from Delegate"
+    },
+    {
+      "path": "content/pages/yuma_consensus/index.mdx",
+      "text": "A delegate is a subnet validator that receives staked TAO from delegators and performs validation"
+    },
+    {
+      "path": "content/pages/yuma_consensus/index.mdx",
+      "text": "tasks in one or more subnets. Yuma Consensus is the separate mechanism that converts validator"
+    },
+    {
+      "path": "content/pages/yuma_consensus/index.mdx",
+      "text": "weight submissions into emission shares each tempo"
+    },
+    {
+      "path": "content/pages/yuma_consensus/index.mdx",
+      "text": "([Glossary: Delegate](https://docs.learnbittensor.org/resources/glossary#delegate),"
+    },
+    {
+      "path": "content/pages/yuma_consensus/index.mdx",
+      "text": "[Yuma Consensus](https://docs.learnbittensor.org/learn/yuma-consensus),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

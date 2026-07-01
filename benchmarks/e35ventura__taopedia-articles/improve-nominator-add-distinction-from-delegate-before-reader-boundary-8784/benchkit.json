@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-nominator-add-distinction-from-delegate-before-reader-boundary-8784",
+  "title": "improve nominator: add distinction from delegate before reader boundary",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@e59fb956aa6983ff98cec0b4379dcf0eeddc57cc",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/26b751166d291a687ac56e6b1a4b485b7c05fc54",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 26b751166d291a687ac56e6b1a4b485b7c05fc54 | Original subject: improve nominator: add distinction from delegate before reader boundary (#8784)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.958687+00:00"
+}

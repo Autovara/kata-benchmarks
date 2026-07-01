@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/lock_reduction_interval/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/lock_reduction_interval/index.mdx",
+      "text": "The constants reference gives the startup default as"
+    },
+    {
+      "path": "content/pages/lock_reduction_interval/index.mdx",
+      "text": "`api.consts.subtensorModule.initialNetworkLockReductionInterval`, listed as `100800`. That constant"
+    },
+    {
+      "path": "content/pages/lock_reduction_interval/index.mdx",
+      "text": "names the initial two-week block span, while the live `LockReductionInterval` storage value is the"
+    },
+    {
+      "path": "content/pages/lock_reduction_interval/index.mdx",
+      "text": "root-settable value the network uses after launch"
+    },
+    {
+      "path": "content/pages/lock_reduction_interval/index.mdx",
+      "text": "([Subtensor Constants: initialNetworkLockReductionInterval](https://docs.learnbittensor.org/subtensor-api/constants#initialnetworklockreductioninterval),"
+    },
+    {
+      "path": "content/pages/lock_reduction_interval/index.mdx",
+      "text": "[Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

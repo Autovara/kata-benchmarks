@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/encrypting_hotkey/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/encrypting_hotkey/index.mdx",
+      "text": "## Distinction from Coldkey and Hotkey Workstation Security"
+    },
+    {
+      "path": "content/pages/encrypting_hotkey/index.mdx",
+      "text": "Workstation security and encrypting the hotkey protect operational keys at different layers. Coldkey"
+    },
+    {
+      "path": "content/pages/encrypting_hotkey/index.mdx",
+      "text": "and hotkey workstation security is the practice of keeping the coldkey off internet-exposed machines"
+    },
+    {
+      "path": "content/pages/encrypting_hotkey/index.mdx",
+      "text": "while hotkeys run on operational hosts, while encrypting the hotkey is at-rest protection that locks"
+    },
+    {
+      "path": "content/pages/encrypting_hotkey/index.mdx",
+      "text": "the hotkey keyfile behind a password on whatever host holds it"
+    },
+    {
+      "path": "content/pages/encrypting_hotkey/index.mdx",
+      "text": "([Coldkey and Hotkey Workstation Security](https://docs.learnbittensor.org/keys/coldkey-hotkey-security),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

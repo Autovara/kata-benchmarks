@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/max_burn/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/max_burn/index.mdx",
+      "text": "## Per-Subnet Live Value Boundary"
+    },
+    {
+      "path": "content/pages/max_burn/index.mdx",
+      "text": "Max burn is per-subnet chain state. The registration-burn ceiling configured on one netuid caps how"
+    },
+    {
+      "path": "content/pages/max_burn/index.mdx",
+      "text": "high the dynamic charge can rise on that subnet, but the live ceiling can differ from reference"
+    },
+    {
+      "path": "content/pages/max_burn/index.mdx",
+      "text": "defaults and from the ceiling on another netuid"
+    },
+    {
+      "path": "content/pages/max_burn/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    },
+    {
+      "path": "content/pages/max_burn/index.mdx",
+      "text": "This article's infobox uses netuid 1 as an example label when discussing registration demand on"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

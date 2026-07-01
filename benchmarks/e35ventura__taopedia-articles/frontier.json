@@ -1,26 +1,26 @@
 {
   "schema_version": 4,
-  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@baa3ebab1a533cfdf4b114bc180b69df3c365051",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@6d4d6ce1",
   "eval_pack": "/home/ubuntu/Videos/study/kata-benchmarks/benchmarks/e35ventura__taopedia-articles",
   "modes": {
     "contributor": {
       "frontier_artifact": "kata://kings/e35ventura__taopedia-articles/contributor",
       "primary_tasks": [],
-      "primary_task_count": 0,
+      "primary_task_count": 20,
       "primary_selection": "random_live",
       "holdout_tasks": [],
-      "holdout_task_count": 0,
+      "holdout_task_count": 10,
       "holdout_eval_pack": "e35ventura__taopedia-articles",
       "holdout_is_private": true,
       "promotion_margin_points": 10.0,
       "holdout_promotion_margin_points": 10.0,
       "evaluator_version": "2026-06-29.v1",
-      "frontier_artifact_hash": "6993be2699d1ba1bb2c0c120aa3abf7e35749873777bee1d34beba380b2c706c",
-      "primary_pool_fingerprint": null,
-      "holdout_pool_fingerprint": null,
-      "frontier_updated_at": "2026-07-01T00:00:00+00:00",
-      "frontier_source": "kata-reset-empty-oracle-design"
+      "frontier_artifact_hash": "589c541486c5e011f7d00f1a28319b456d9adfb4184c69d2554a7226d015b6c8",
+      "primary_pool_fingerprint": "98d0265aef42ab1d9973cba4cef86ed10df3798e98affdae9ad484179c932b5e",
+      "holdout_pool_fingerprint": "3e2d2e06509c77590b389c67a60a8f714ef8038c6148aaa17f4ac673bf2d0f40",
+      "frontier_updated_at": "2026-07-01T04:12:09+00:00",
+      "frontier_source": "kata-first-king-refresh"
     }
   },
-  "updated_at": "2026-07-01T00:00:00+00:00"
+  "updated_at": "2026-07-01T04:12:09+00:00"
 }

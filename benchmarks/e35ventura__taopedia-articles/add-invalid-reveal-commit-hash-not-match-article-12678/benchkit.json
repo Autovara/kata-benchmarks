@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-invalid-reveal-commit-hash-not-match-article-12678",
+  "title": "Add invalid_reveal_commit_hash_not_match article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@c921b4f52a83a302f69721c2a5e7c7107f75dec5",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/a6f0f75fe9935de06e3e4ff06d476fd1b964f81b",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: a6f0f75fe9935de06e3e4ff06d476fd1b964f81b | Original subject: Add invalid_reveal_commit_hash_not_match article (#12678)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:07:54.905174+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/conviction_and_locked_stake/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/conviction_and_locked_stake/index.mdx",
+      "text": "## Distinction from Validator Take"
+    },
+    {
+      "path": "content/pages/conviction_and_locked_stake/index.mdx",
+      "text": "Conviction and locked stake describe a staker locking alpha to build a time-based commitment that"
+    },
+    {
+      "path": "content/pages/conviction_and_locked_stake/index.mdx",
+      "text": "cannot be reduced below the locked amount, while validator take is the share of delegated-stake"
+    },
+    {
+      "path": "content/pages/conviction_and_locked_stake/index.mdx",
+      "text": "emissions a validator keeps before the rest flows to stakers"
+    },
+    {
+      "path": "content/pages/conviction_and_locked_stake/index.mdx",
+      "text": "([Conviction Staking](https://docs.learnbittensor.org/staking-and-delegation/conviction-staking),"
+    },
+    {
+      "path": "content/pages/conviction_and_locked_stake/index.mdx",
+      "text": "[Glossary: Validator Take](https://docs.learnbittensor.org/resources/glossary#validator-take))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

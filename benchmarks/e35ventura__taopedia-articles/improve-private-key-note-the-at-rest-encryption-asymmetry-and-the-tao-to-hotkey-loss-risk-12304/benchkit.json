@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-private-key-note-the-at-rest-encryption-asymmetry-and-the-tao-to-hotkey-loss-risk-12304",
+  "title": "improve private key: note the at-rest encryption asymmetry and the TAO-to-hotkey loss risk",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@441427b527c4bb49db1d0327457b797c01eabde6",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/8a088bc60feb94c46f3910b03b63bbf1de6ab03a",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 8a088bc60feb94c46f3910b03b63bbf1de6ab03a | Original subject: improve private key: note the at-rest encryption asymmetry and the TAO-to-hotkey loss risk (#12304)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.974695+00:00"
+}

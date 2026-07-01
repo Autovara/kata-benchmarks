@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subtensor_error_codes/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subtensor_error_codes/index.mdx",
+      "text": "`TooManyRegistrationsThisBlock` is a Subtensor-module error name for registration attempts rejected"
+    },
+    {
+      "path": "content/pages/subtensor_error_codes/index.mdx",
+      "text": "by a per-block registration cap under older admission models. It is tied to legacy"
+    },
+    {
+      "path": "content/pages/subtensor_error_codes/index.mdx",
+      "text": "`RegistrationsThisBlock(netuid)` and `MaxRegistrationsPerBlock(netuid)` vocabulary rather than to"
+    },
+    {
+      "path": "content/pages/subtensor_error_codes/index.mdx",
+      "text": "the registration burn price itself"
+    },
+    {
+      "path": "content/pages/subtensor_error_codes/index.mdx",
+      "text": "([Subnet Hyperparameters: MaxRegistrationsPerBlock](https://docs.learnbittensor.org/subnets/subnet-hyperparameters#maxregistrationsperblock),"
+    },
+    {
+      "path": "content/pages/subtensor_error_codes/index.mdx",
+      "text": "[Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/subtensor_error_codes/index.mdx",
+      "text": "`TooManyRegistrationsThisBlock` is a Subtensor-module error for a registration attempt that arrives"
+    },
+    {
+      "path": "content/pages/subtensor_error_codes/index.mdx",
+      "text": "after the selected subnet has already accepted its configured number of registrations in the current"
+    },
+    {
+      "path": "content/pages/subtensor_error_codes/index.mdx",
+      "text": "block. The error is tied to the live `RegistrationsThisBlock(netuid)` counter and the"
+    },
+    {
+      "path": "content/pages/subtensor_error_codes/index.mdx",
+      "text": "`MaxRegistrationsPerBlock(netuid)` cap, not to the registration burn price itself"
+    },
+    {
+      "path": "content/pages/subtensor_error_codes/index.mdx",
+      "text": "([TooManyRegistrationsThisBlock](https://subtensor.com/reference/subtensormodule/errors/TooManyRegistrationsThisBlock),"
+    },
+    {
+      "path": "content/pages/subtensor_error_codes/index.mdx",
+      "text": "[RegistrationsThisBlock Storage](https://subtensor.com/reference/subtensormodule/storage/RegistrationsThisBlock),"
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

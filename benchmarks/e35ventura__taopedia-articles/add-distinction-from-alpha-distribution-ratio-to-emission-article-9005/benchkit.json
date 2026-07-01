@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-alpha-distribution-ratio-to-emission-article-9005",
+  "title": "Add Distinction from Alpha Distribution Ratio to emission article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@f90ce98eea63fae6fec600645b4fdddf0c39d597",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/ebf9802ab64572008c50b8527983b1661bddfdb0",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: ebf9802ab64572008c50b8527983b1661bddfdb0 | Original subject: Add Distinction from Alpha Distribution Ratio to emission article (#9005)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.061781+00:00"
+}

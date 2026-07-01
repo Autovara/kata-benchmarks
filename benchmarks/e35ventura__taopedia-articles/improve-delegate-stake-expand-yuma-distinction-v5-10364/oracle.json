@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/delegate_stake/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/delegate_stake/index.mdx",
+      "text": "- **Yuma Consensus** \u2014 consensus process that turns validator weights into emission shares. Delegate"
+    },
+    {
+      "path": "content/pages/delegate_stake/index.mdx",
+      "text": "stake names validator-supplied TAO; Yuma processes validator weights into rewards"
+    },
+    {
+      "path": "content/pages/delegate_stake/index.mdx",
+      "text": "([Yuma Consensus: Validator emissions](https://docs.learnbittensor.org/learn/yuma-consensus#validator-emissions))."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/delegate_stake/index.mdx",
+      "text": "- **Yuma Consensus** \u2014 mechanism that turns validator weights into emission shares."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

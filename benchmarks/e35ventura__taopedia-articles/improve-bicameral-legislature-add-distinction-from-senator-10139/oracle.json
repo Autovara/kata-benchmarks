@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/bicameral_legislature/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/bicameral_legislature/index.mdx",
+      "text": "## Distinction from Senator"
+    },
+    {
+      "path": "content/pages/bicameral_legislature/index.mdx",
+      "text": "A bicameral legislature and a senator are a governance structure and a member within it. A bicameral"
+    },
+    {
+      "path": "content/pages/bicameral_legislature/index.mdx",
+      "text": "legislature is Bittensor's two-chamber governance design pairing the Senate and the Triumvirate,"
+    },
+    {
+      "path": "content/pages/bicameral_legislature/index.mdx",
+      "text": "while a senator is an individual delegate who holds a voting role inside the Senate chamber"
+    },
+    {
+      "path": "content/pages/bicameral_legislature/index.mdx",
+      "text": "([Bittensor Governance](https://docs.learnbittensor.org/governance),"
+    },
+    {
+      "path": "content/pages/bicameral_legislature/index.mdx",
+      "text": "[Glossary: Senate](https://docs.learnbittensor.org/resources/glossary#senate))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

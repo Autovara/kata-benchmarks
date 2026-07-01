@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-commit-reveal-weights-enabled-clarify-protection-ends-once-weights-are-revealed-12015",
+  "title": "improve commit_reveal_weights_enabled: clarify protection ends once weights are revealed",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@5e36dba9c2624c7abd7151e499de8723b6b7cb87",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/47dad64f183e1acda1b6dcd4ec914935c3cd37a7",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 47dad64f183e1acda1b6dcd4ec914935c3cd37a7 | Original subject: improve commit_reveal_weights_enabled: clarify protection ends once weights are revealed (#12015)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.645126+00:00"
+}

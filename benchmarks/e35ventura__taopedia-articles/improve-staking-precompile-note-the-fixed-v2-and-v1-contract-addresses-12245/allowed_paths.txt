@@ -1,0 +1,1 @@
+content/pages/staking_precompile/index.mdx

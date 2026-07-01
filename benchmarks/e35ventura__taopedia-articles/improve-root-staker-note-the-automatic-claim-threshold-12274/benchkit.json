@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-root-staker-note-the-automatic-claim-threshold-12274",
+  "title": "improve root_staker: note the automatic claim threshold",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@279d6118010cf5a02d3bcbcbf40c62df8ecc62cd",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/e479608a67669fb5a17d13e1cd6fd797b235d752",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: e479608a67669fb5a17d13e1cd6fd797b235d752 | Original subject: improve root_staker: note the automatic claim threshold (#12274)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.020972+00:00"
+}

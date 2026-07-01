@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/non_associated_cold_key/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/non_associated_cold_key/index.mdx",
+      "text": "title: \"Non Associated Cold Key\""
+    },
+    {
+      "path": "content/pages/non_associated_cold_key/index.mdx",
+      "text": "summary:"
+    },
+    {
+      "path": "content/pages/non_associated_cold_key/index.mdx",
+      "text": "\"How the NonAssociatedColdKey error signals that a stake, unstake, or subscribe request was signed"
+    },
+    {
+      "path": "content/pages/non_associated_cold_key/index.mdx",
+      "text": "by a coldkey that does not own the targeted hotkey account.\""
+    },
+    {
+      "path": "content/pages/non_associated_cold_key/index.mdx",
+      "text": "category: \"Staking\""
+    },
+    {
+      "path": "content/pages/non_associated_cold_key/index.mdx",
+      "text": "tags: [\"Staking\", \"Errors\"]"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

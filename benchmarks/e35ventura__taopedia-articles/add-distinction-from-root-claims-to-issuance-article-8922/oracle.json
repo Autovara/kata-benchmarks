@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/issuance/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/issuance/index.mdx",
+      "text": "## Distinction from Root Claims"
+    },
+    {
+      "path": "content/pages/issuance/index.mdx",
+      "text": "Root claims and issuance describe a dividend-handling mechanism and a supply measure. Root claims"
+    },
+    {
+      "path": "content/pages/issuance/index.mdx",
+      "text": "route the alpha dividends earned through Root Subnet staking into either alpha or TAO, while"
+    },
+    {
+      "path": "content/pages/issuance/index.mdx",
+      "text": "issuance is the circulating TAO supply counted across the network, so one decides the form a reward"
+    },
+    {
+      "path": "content/pages/issuance/index.mdx",
+      "text": "takes and the other counts total tokens in circulation"
+    },
+    {
+      "path": "content/pages/issuance/index.mdx",
+      "text": "([Root Claims](https://docs.learnbittensor.org/staking-and-delegation/root-claims),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

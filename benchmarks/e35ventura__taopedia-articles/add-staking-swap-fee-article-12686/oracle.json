@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/staking_swap_fee/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/staking_swap_fee/index.mdx",
+      "text": "title: \"Staking Swap Fee\""
+    },
+    {
+      "path": "content/pages/staking_swap_fee/index.mdx",
+      "text": "summary:"
+    },
+    {
+      "path": "content/pages/staking_swap_fee/index.mdx",
+      "text": "\"How the staking swap fee charges an amount-based percentage on staking conversions through a"
+    },
+    {
+      "path": "content/pages/staking_swap_fee/index.mdx",
+      "text": "subnet's liquidity pool, distinct from slippage and from the base transaction fee.\""
+    },
+    {
+      "path": "content/pages/staking_swap_fee/index.mdx",
+      "text": "category: \"Tokenomics\""
+    },
+    {
+      "path": "content/pages/staking_swap_fee/index.mdx",
+      "text": "tags: [\"Tokenomics\", \"Staking\"]"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

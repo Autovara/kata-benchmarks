@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-off-chain-validation-systems-to-subnet-scoring-model-article-9079",
+  "title": "Add Distinction from Off-Chain Validation Systems to subnet scoring model article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@8c51618f3097defa3cb1d3c61c48a4d28f214300",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/62aaea155cc94aa4add73708ee8901c223b2b98e",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 62aaea155cc94aa4add73708ee8901c223b2b98e | Original subject: Add Distinction from Off-Chain Validation Systems to subnet scoring model article (#9079)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.335275+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/delegate/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/delegate/index.mdx",
+      "text": "## Distinction from Nominate"
+    },
+    {
+      "path": "content/pages/delegate/index.mdx",
+      "text": "A delegate and nominating describe the recipient and the action that funds it. A delegate is a"
+    },
+    {
+      "path": "content/pages/delegate/index.mdx",
+      "text": "validator that accepts stake from others and runs validation on their behalf, while to nominate is"
+    },
+    {
+      "path": "content/pages/delegate/index.mdx",
+      "text": "the action a staker takes to assign their stake to a chosen delegate, becoming a nominator of that"
+    },
+    {
+      "path": "content/pages/delegate/index.mdx",
+      "text": "validator ([Glossary: Delegate](https://docs.learnbittensor.org/resources/glossary#delegate),"
+    },
+    {
+      "path": "content/pages/delegate/index.mdx",
+      "text": "[Glossary: Nominate](https://docs.learnbittensor.org/resources/glossary#nominate),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

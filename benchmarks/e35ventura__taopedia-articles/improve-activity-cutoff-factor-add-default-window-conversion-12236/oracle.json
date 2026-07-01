@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/activity_cutoff_factor/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/activity_cutoff_factor/index.mdx",
+      "text": "In exact terms, 13,889 per-mille epochs equals 13.889 tempos. With the documented default"
+    },
+    {
+      "path": "content/pages/activity_cutoff_factor/index.mdx",
+      "text": "[tempo](https://docs.learnbittensor.org/resources/glossary#tempo) of 360 blocks, that preserves the"
+    },
+    {
+      "path": "content/pages/activity_cutoff_factor/index.mdx",
+      "text": "legacy inactivity window at about 5,000 blocks rather than changing validator tolerance when the"
+    },
+    {
+      "path": "content/pages/activity_cutoff_factor/index.mdx",
+      "text": "representation moved from fixed blocks to a tempo-scaled factor"
+    },
+    {
+      "path": "content/pages/activity_cutoff_factor/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters),"
+    },
+    {
+      "path": "content/pages/activity_cutoff_factor/index.mdx",
+      "text": "[Glossary: Tempo](https://docs.learnbittensor.org/resources/glossary#tempo))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

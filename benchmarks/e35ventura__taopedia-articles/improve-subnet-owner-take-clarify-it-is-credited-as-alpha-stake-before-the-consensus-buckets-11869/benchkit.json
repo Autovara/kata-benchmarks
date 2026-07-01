@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-subnet-owner-take-clarify-it-is-credited-as-alpha-stake-before-the-consensus-buckets-11869",
+  "title": "improve subnet_owner_take: clarify it is credited as alpha stake before the consensus buckets",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@48aaee4c89b6a29164d36bb895df8aa85ccaa581",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/244dbefd7ada066c0c7b62599566d3864163cc65",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 244dbefd7ada066c0c7b62599566d3864163cc65 | Original subject: improve subnet_owner_take: clarify it is credited as alpha stake before the consensus buckets (#11869)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.168425+00:00"
+}

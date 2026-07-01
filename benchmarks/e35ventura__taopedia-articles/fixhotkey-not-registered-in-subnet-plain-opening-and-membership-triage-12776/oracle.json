@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/hotkey_not_registered_in_subnet/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/hotkey_not_registered_in_subnet/index.mdx",
+      "text": "- label: Checked in"
+    },
+    {
+      "path": "content/pages/hotkey_not_registered_in_subnet/index.mdx",
+      "text": "value: Subnet-scoped extrinsics such as set_weights"
+    },
+    {
+      "path": "content/pages/hotkey_not_registered_in_subnet/index.mdx",
+      "text": "value: Per-subnet UID slot membership"
+    },
+    {
+      "path": "content/pages/hotkey_not_registered_in_subnet/index.mdx",
+      "text": "`HotKeyNotRegisteredInSubNet` means the signing hotkey does not hold a UID on the netuid the call"
+    },
+    {
+      "path": "content/pages/hotkey_not_registered_in_subnet/index.mdx",
+      "text": "targets. The standard-errors reference describes it as \"The hotkey is not registered in the"
+    },
+    {
+      "path": "content/pages/hotkey_not_registered_in_subnet/index.mdx",
+      "text": "Subnet membership is scoped per hotkey and netuid. A hotkey registered on one subnet still fails"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/hotkey_not_registered_in_subnet/index.mdx",
+      "text": "- label: Checked via"
+    },
+    {
+      "path": "content/pages/hotkey_not_registered_in_subnet/index.mdx",
+      "text": "value: is_hotkey_registered_on_network"
+    },
+    {
+      "path": "content/pages/hotkey_not_registered_in_subnet/index.mdx",
+      "text": "value: Uids map membership test"
+    },
+    {
+      "path": "content/pages/hotkey_not_registered_in_subnet/index.mdx",
+      "text": "`HotKeyNotRegisteredInSubNet` is a documented Subtensor standard error raised across subnet-scoped"
+    },
+    {
+      "path": "content/pages/hotkey_not_registered_in_subnet/index.mdx",
+      "text": "extrinsics. The standard-errors reference describes it as \"The hotkey is not registered in the"
+    },
+    {
+      "path": "content/pages/hotkey_not_registered_in_subnet/index.mdx",
+      "text": "that subnet. `is_hotkey_registered_on_network` returns true only when the hotkey appears in the"
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

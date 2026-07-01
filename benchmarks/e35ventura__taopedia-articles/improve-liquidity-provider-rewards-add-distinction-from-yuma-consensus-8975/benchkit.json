@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-liquidity-provider-rewards-add-distinction-from-yuma-consensus-8975",
+  "title": "improve liquidity_provider_rewards: add distinction from yuma consensus",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@828939a409199bcb0622bef57db7b6acd7da4346",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/eafe251fcf4e45170c58f982a798039a9f34d9f3",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: eafe251fcf4e45170c58f982a798039a9f34d9f3 | Original subject: improve liquidity_provider_rewards: add distinction from yuma consensus (#8975)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.838300+00:00"
+}

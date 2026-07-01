@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/immunity_period/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/immunity_period/index.mdx",
+      "text": "## Distinction from Miner Registration"
+    },
+    {
+      "path": "content/pages/immunity_period/index.mdx",
+      "text": "Immunity period names post-registration protection from deregistration. Miner registration names the"
+    },
+    {
+      "path": "content/pages/immunity_period/index.mdx",
+      "text": "initial entry step into a subnet UID slot"
+    },
+    {
+      "path": "content/pages/immunity_period/index.mdx",
+      "text": "([Glossary: Immunity Period](https://docs.learnbittensor.org/resources/glossary#immunity-period),"
+    },
+    {
+      "path": "content/pages/immunity_period/index.mdx",
+      "text": "[Mining: Miner registration](https://docs.learnbittensor.org/miners#miner-registration))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

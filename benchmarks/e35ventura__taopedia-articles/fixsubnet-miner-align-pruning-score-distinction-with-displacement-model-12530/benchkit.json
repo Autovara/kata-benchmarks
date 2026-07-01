@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fixsubnet-miner-align-pruning-score-distinction-with-displacement-model-12530",
+  "title": "fix(subnet_miner): align pruning score distinction with displacement model",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@dd451d6ca0de8acb610abc24a7fc7c10da26064a",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/38545732d151f3d9a5cd438fa3ca4c506d7ef6b8",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 38545732d151f3d9a5cd438fa3ca4c506d7ef6b8 | Original subject: fix(subnet_miner): align pruning score distinction with displacement model (#12530)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.012821+00:00"
+}

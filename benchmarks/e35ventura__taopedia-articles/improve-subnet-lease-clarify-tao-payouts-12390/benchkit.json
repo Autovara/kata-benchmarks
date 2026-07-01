@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-subnet-lease-clarify-tao-payouts-12390",
+  "title": "improve subnet lease: clarify TAO payouts",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@1171db4e02a0281b9542e16f6e22b04ff6a6e912",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/5958d0b530b5360cab98a0480456c540b960be74",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 5958d0b530b5360cab98a0480456c540b960be74 | Original subject: improve subnet lease: clarify TAO payouts (#12390)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.141384+00:00"
+}

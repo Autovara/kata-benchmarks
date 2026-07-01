@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/stake_weight/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/stake_weight/index.mdx",
+      "text": "## Distinction from Blockchain Validator vs Subnet Validator"
+    },
+    {
+      "path": "content/pages/stake_weight/index.mdx",
+      "text": "Stake weight and the blockchain-versus-subnet-validator comparison clarify which validator role"
+    },
+    {
+      "path": "content/pages/stake_weight/index.mdx",
+      "text": "stake weight applies to. A blockchain validator secures the chain at the network layer, while a"
+    },
+    {
+      "path": "content/pages/stake_weight/index.mdx",
+      "text": "subnet validator evaluates miners inside a subnet, and stake weight is the value that scales a"
+    },
+    {
+      "path": "content/pages/stake_weight/index.mdx",
+      "text": "subnet validator's consensus influence, not the block-production duty of a blockchain validator"
+    },
+    {
+      "path": "content/pages/stake_weight/index.mdx",
+      "text": "([Glossary: Stake Weight](https://docs.learnbittensor.org/resources/glossary#stake-weight),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

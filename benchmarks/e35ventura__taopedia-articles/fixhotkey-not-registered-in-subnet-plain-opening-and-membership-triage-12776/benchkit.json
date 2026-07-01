@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fixhotkey-not-registered-in-subnet-plain-opening-and-membership-triage-12776",
+  "title": "fix(hotkey_not_registered_in_subnet): plain opening and membership triage",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@d55a163baa8c429e607edaafb6f8509f7f0fdb31",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/1a9281a3326a0aaa39c8f52167e9fdbd3e53ba98",
+  "visibility": "visible",
+  "status": "retired",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 1a9281a3326a0aaa39c8f52167e9fdbd3e53ba98 | Original subject: fix(hotkey_not_registered_in_subnet): plain opening and membership triage (#12776) | Revealed from a retired private holdout pool.",
+  "retired_at": "2026-07-01T03:46:22.114897+00:00",
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:07:55.063212+00:00"
+}

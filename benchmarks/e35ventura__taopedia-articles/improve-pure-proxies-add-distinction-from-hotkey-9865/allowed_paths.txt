@@ -1,0 +1,1 @@
+content/pages/pure_proxies/index.mdx

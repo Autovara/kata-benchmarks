@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/public_key/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/public_key/index.mdx",
+      "text": "## Distinction from Extrinsics"
+    },
+    {
+      "path": "content/pages/public_key/index.mdx",
+      "text": "Extrinsics and the public key are related but different parts of Bittensor chain action vocabulary."
+    },
+    {
+      "path": "content/pages/public_key/index.mdx",
+      "text": "Extrinsics name signed transactions and calls submitted to Subtensor, while the public key is the"
+    },
+    {
+      "path": "content/pages/public_key/index.mdx",
+      "text": "shareable key material used to identify accounts and verify the signatures on those submissions"
+    },
+    {
+      "path": "content/pages/public_key/index.mdx",
+      "text": "([Subtensor Extrinsics](https://docs.learnbittensor.org/subtensor-api/extrinsics),"
+    },
+    {
+      "path": "content/pages/public_key/index.mdx",
+      "text": "[Glossary: Public Key](https://docs.learnbittensor.org/resources/glossary#public-key))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

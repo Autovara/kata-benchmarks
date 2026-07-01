@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_miner/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_miner/index.mdx",
+      "text": "A subnet miner and pruning score vocabulary relate as the work-producing role and the"
+    },
+    {
+      "path": "content/pages/subnet_miner/index.mdx",
+      "text": "emissions-based displacement shorthand applied when a full subnet must make room for a new"
+    },
+    {
+      "path": "content/pages/subnet_miner/index.mdx",
+      "text": "registration. A subnet miner is the participant that performs the work validators evaluate, while"
+    },
+    {
+      "path": "content/pages/subnet_miner/index.mdx",
+      "text": "pruning score names documented replacement-order vocabulary\u2014not a live per-neuron field readers can"
+    },
+    {
+      "path": "content/pages/subnet_miner/index.mdx",
+      "text": "query from current chain state"
+    },
+    {
+      "path": "content/pages/subnet_miner/index.mdx",
+      "text": "[Glossary: Pruning Score](https://docs.learnbittensor.org/resources/glossary#pruning-score),"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/subnet_miner/index.mdx",
+      "text": "A subnet miner and the pruning score describe a miner as the role and the value that governs its"
+    },
+    {
+      "path": "content/pages/subnet_miner/index.mdx",
+      "text": "removal. A subnet miner is the participant that performs the work validators evaluate, while the"
+    },
+    {
+      "path": "content/pages/subnet_miner/index.mdx",
+      "text": "pruning score is the per-neuron value that ranks which UID is displaced when a full subnet takes a"
+    },
+    {
+      "path": "content/pages/subnet_miner/index.mdx",
+      "text": "new registration, so a miner that earns little and holds the lowest pruning score is the first"
+    },
+    {
+      "path": "content/pages/subnet_miner/index.mdx",
+      "text": "removed once its immunity ends"
+    },
+    {
+      "path": "content/pages/subnet_miner/index.mdx",
+      "text": "[Mining in Bittensor](https://docs.learnbittensor.org/miners),"
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

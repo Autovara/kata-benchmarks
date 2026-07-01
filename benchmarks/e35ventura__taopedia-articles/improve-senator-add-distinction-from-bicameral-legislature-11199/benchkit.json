@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-senator-add-distinction-from-bicameral-legislature-11199",
+  "title": "improve senator: add distinction from Bicameral Legislature",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@c469dc904b91d50ec18918aae65e3cf46efe46b7",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/9e2361c7b749730f83c8e18af65d03a9b9f5b0db",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 9e2361c7b749730f83c8e18af65d03a9b9f5b0db | Original subject: improve senator: add distinction from Bicameral Legislature (#11199)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.062424+00:00"
+}

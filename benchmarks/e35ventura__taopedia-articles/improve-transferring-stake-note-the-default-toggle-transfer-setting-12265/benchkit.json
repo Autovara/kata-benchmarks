@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-transferring-stake-note-the-default-toggle-transfer-setting-12265",
+  "title": "improve transferring_stake: note the default toggle transfer setting",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@23e9fbd2a1ba37b50f17b832a657bae99c4400e2",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/a522365ef49d91ffc116faab8a0cc674d66acf06",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: a522365ef49d91ffc116faab8a0cc674d66acf06 | Original subject: improve transferring_stake: note the default toggle transfer setting (#12265)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.227800+00:00"
+}

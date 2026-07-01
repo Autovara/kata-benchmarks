@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/wallets/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/wallets/index.mdx",
+      "text": "## Distinction from Bittensor Tools"
+    },
+    {
+      "path": "content/pages/wallets/index.mdx",
+      "text": "Bittensor tools and a wallet name an interface layer and the account material it acts on. Bittensor"
+    },
+    {
+      "path": "content/pages/wallets/index.mdx",
+      "text": "tools are the software surfaces \u2014 developer libraries, terminal tools, and wallet interfaces \u2014 used"
+    },
+    {
+      "path": "content/pages/wallets/index.mdx",
+      "text": "to reach network features, while a wallet is the coldkey and hotkey account and signing material"
+    },
+    {
+      "path": "content/pages/wallets/index.mdx",
+      "text": "those surfaces operate with ([Bittensor Tools](https://docs.learnbittensor.org/concepts/tools),"
+    },
+    {
+      "path": "content/pages/wallets/index.mdx",
+      "text": "[Wallets, Coldkeys and Hotkeys](https://docs.learnbittensor.org/keys/wallets))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-unstaking-distinguish-liquidity-fees-from-slippage-12293",
+  "title": "improve unstaking: distinguish liquidity fees from slippage",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@fdfd2171f8f05ceef5b97ed4bf53ce4f822b965e",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/37f08256482186cf46768008d3abb71227f26697",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 37f08256482186cf46768008d3abb71227f26697 | Original subject: improve unstaking: distinguish liquidity fees from slippage (#12293)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.242342+00:00"
+}

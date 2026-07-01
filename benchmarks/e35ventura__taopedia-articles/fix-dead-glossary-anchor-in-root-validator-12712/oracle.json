@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/root_validator/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/root_validator/index.mdx",
+      "text": "([Glossary: Root Subnet/Subnet Zero](https://docs.learnbittensor.org/resources/glossary#root-subnetsubnet-zero),"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/root_validator/index.mdx",
+      "text": "([Root Validator](https://docs.learnbittensor.org/resources/glossary#root-validator),"
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

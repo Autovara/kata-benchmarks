@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fixchild-hotkeys-separate-child-set-and-take-cooldowns-12663",
+  "title": "fix(child_hotkeys): separate child-set and take cooldowns",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@ec20af0b12837c7fb10f8a79fbe3e8483bb43f95",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/9c1b35ff1f15b1143e877bb74bd87bc8f3ea9ace",
+  "visibility": "visible",
+  "status": "retired",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 9c1b35ff1f15b1143e877bb74bd87bc8f3ea9ace | Original subject: fix(child_hotkeys): separate child-set and take cooldowns (#12663) | Revealed from a retired private holdout pool.",
+  "retired_at": "2026-07-01T03:46:22.092843+00:00",
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:07:55.006497+00:00"
+}

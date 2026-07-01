@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-dendrite-add-request-path-context-12205",
+  "title": "improve dendrite: add request-path context",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@058d48df3a9a7dff306dec1291e8e1336bb15631",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/c625f9890e7009c504d486b6fd375d0879cfd951",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: c625f9890e7009c504d486b6fd375d0879cfd951 | Original subject: improve dendrite: add request-path context (#12205)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.689446+00:00"
+}

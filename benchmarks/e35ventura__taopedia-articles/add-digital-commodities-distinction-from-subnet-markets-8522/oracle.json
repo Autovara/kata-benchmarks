@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/digital_commodities/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/digital_commodities/index.mdx",
+      "text": "## Distinction from Subnet Markets"
+    },
+    {
+      "path": "content/pages/digital_commodities/index.mdx",
+      "text": "A digital commodity and a subnet market name the output and the economic setting built around it."
+    },
+    {
+      "path": "content/pages/digital_commodities/index.mdx",
+      "text": "Official documentation describes each subnet as a market for a specialized digital commodity, so the"
+    },
+    {
+      "path": "content/pages/digital_commodities/index.mdx",
+      "text": "digital commodity is the useful work output miners produce and validators evaluate, while the subnet"
+    },
+    {
+      "path": "content/pages/digital_commodities/index.mdx",
+      "text": "market is the per-subnet setting where that work is priced, staked, and rewarded"
+    },
+    {
+      "path": "content/pages/digital_commodities/index.mdx",
+      "text": "([Understanding Subnets](https://docs.learnbittensor.org/subnets/understanding-subnets),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

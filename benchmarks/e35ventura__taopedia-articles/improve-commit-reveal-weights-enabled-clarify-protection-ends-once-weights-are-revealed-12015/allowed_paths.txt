@@ -1,0 +1,1 @@
+content/pages/commit_reveal_weights_enabled/index.mdx

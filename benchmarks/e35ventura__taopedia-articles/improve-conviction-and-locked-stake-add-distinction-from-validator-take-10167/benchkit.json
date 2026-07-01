@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-conviction-and-locked-stake-add-distinction-from-validator-take-10167",
+  "title": "improve conviction and locked stake: add distinction from validator take",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@463ae2bedddcf7ca54d6f4397567be2d2e9e80a7",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/e269860cd878e346b30fe4f127f1b17f74ed0828",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: e269860cd878e346b30fe4f127f1b17f74ed0828 | Original subject: improve conviction and locked stake: add distinction from validator take (#10167)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.662180+00:00"
+}

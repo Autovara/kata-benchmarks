@@ -1,0 +1,1 @@
+content/pages/conviction_and_locked_stake/index.mdx

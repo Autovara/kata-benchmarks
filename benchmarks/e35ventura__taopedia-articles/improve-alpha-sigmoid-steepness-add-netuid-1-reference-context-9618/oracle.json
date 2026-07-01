@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/alpha_sigmoid_steepness/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/alpha_sigmoid_steepness/index.mdx",
+      "text": "## netuid 1 as a Reference Subnet"
+    },
+    {
+      "path": "content/pages/alpha_sigmoid_steepness/index.mdx",
+      "text": "Hyperparameter examples in this article use netuid 1 as a documented Finney mainnet subnet because"
+    },
+    {
+      "path": "content/pages/alpha_sigmoid_steepness/index.mdx",
+      "text": "that netuid appears repeatedly in official liquid-alpha and bond-smoothing prose"
+    },
+    {
+      "path": "content/pages/alpha_sigmoid_steepness/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    },
+    {
+      "path": "content/pages/alpha_sigmoid_steepness/index.mdx",
+      "text": "Alpha sigmoid steepness is per-subnet chain state. The steepness value configured on netuid 1 shapes"
+    },
+    {
+      "path": "content/pages/alpha_sigmoid_steepness/index.mdx",
+      "text": "how sharply liquid alpha responds inside that subnet's bond-smoothing path, but the live value can"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

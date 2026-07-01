@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/emission/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/emission/index.mdx",
+      "text": "## Distinction from Alpha Distribution Ratio"
+    },
+    {
+      "path": "content/pages/emission/index.mdx",
+      "text": "The alpha distribution ratio compares distributed subnet alpha against alpha injected into the pool."
+    },
+    {
+      "path": "content/pages/emission/index.mdx",
+      "text": "Emission is the broader process by which TAO and subnet alpha enter circulation through protocol"
+    },
+    {
+      "path": "content/pages/emission/index.mdx",
+      "text": "schedules"
+    },
+    {
+      "path": "content/pages/emission/index.mdx",
+      "text": "([Glossary: ADR](https://docs.learnbittensor.org/resources/glossary#adr-alpha-distribution-ratio),"
+    },
+    {
+      "path": "content/pages/emission/index.mdx",
+      "text": "[Emission](https://docs.learnbittensor.org/learn/emissions))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-multisig-clarify-proposer-approval-boundary-12373",
+  "title": "improve multisig: clarify proposer approval boundary",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@5b386ba8140c8a5d6eee17c83682345e9e4c428b",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/1c5f21a0f80ba618a7e2d452041fbaa8aeb2eabd",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 1c5f21a0f80ba618a7e2d452041fbaa8aeb2eabd | Original subject: improve multisig: clarify proposer approval boundary (#12373)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.938648+00:00"
+}

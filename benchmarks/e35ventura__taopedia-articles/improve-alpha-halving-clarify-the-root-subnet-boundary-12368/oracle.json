@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/alpha_halving/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/alpha_halving/index.mdx",
+      "text": "The Root Subnet is the exception on the subnet side. Subnet Zero has no alpha currency, so root"
+    },
+    {
+      "path": "content/pages/alpha_halving/index.mdx",
+      "text": "staking stays TAO-denominated and there is no alpha halving there; alpha halving vocabulary belongs"
+    },
+    {
+      "path": "content/pages/alpha_halving/index.mdx",
+      "text": "to ordinary alpha subnets rather than the Root Subnet"
+    },
+    {
+      "path": "content/pages/alpha_halving/index.mdx",
+      "text": "([Glossary: Root Subnet/Subnet Zero](https://docs.learnbittensor.org/resources/glossary#root-subnetsubnet-zero),"
+    },
+    {
+      "path": "content/pages/alpha_halving/index.mdx",
+      "text": "[Halving Mechanisms](https://docs.learnbittensor.org/concepts/halving))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

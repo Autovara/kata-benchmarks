@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/netuid/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/netuid/index.mdx",
+      "text": "## Distinction from UID Slot"
+    },
+    {
+      "path": "content/pages/netuid/index.mdx",
+      "text": "A netuid and a UID slot identify different levels of the network. A netuid is the number identifying"
+    },
+    {
+      "path": "content/pages/netuid/index.mdx",
+      "text": "a whole subnet, while a UID slot is a position within one subnet that a single neuron occupies, so a"
+    },
+    {
+      "path": "content/pages/netuid/index.mdx",
+      "text": "neuron is located by the pair of its netuid and its UID slot"
+    },
+    {
+      "path": "content/pages/netuid/index.mdx",
+      "text": "([Glossary: Netuid](https://docs.learnbittensor.org/resources/glossary#netuid),"
+    },
+    {
+      "path": "content/pages/netuid/index.mdx",
+      "text": "[Glossary: UID Slot](https://docs.learnbittensor.org/resources/glossary#uid-slot),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

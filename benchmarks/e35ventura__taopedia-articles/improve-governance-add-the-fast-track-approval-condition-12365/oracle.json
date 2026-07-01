@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/governance/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/governance/index.mdx",
+      "text": "## Strong Approval Can Fast-Track Review"
+    },
+    {
+      "path": "content/pages/governance/index.mdx",
+      "text": "The same governance overview describes a fast-track path for unusually strong support. When a"
+    },
+    {
+      "path": "content/pages/governance/index.mdx",
+      "text": "proposal reaches 75% or more aye votes, it is fast-tracked and executes at the next block rather"
+    },
+    {
+      "path": "content/pages/governance/index.mdx",
+      "text": "than waiting through the ordinary review timing"
+    },
+    {
+      "path": "content/pages/governance/index.mdx",
+      "text": "([Governance Overview](https://docs.learnbittensor.org/governance))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

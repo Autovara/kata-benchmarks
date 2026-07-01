@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subjective_evaluation/index.mdx"
+  ],
+  "required_contains": [],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/subjective_evaluation/index.mdx",
+      "text": "Validator trust measures how much of a validator's submitted influence survived consensus clipping"
+    },
+    {
+      "path": "content/pages/subjective_evaluation/index.mdx",
+      "text": "in one pass."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

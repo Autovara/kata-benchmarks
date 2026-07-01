@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/registration_allowed/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/registration_allowed/index.mdx",
+      "text": "## Per-Subnet Live Value Boundary"
+    },
+    {
+      "path": "content/pages/registration_allowed/index.mdx",
+      "text": "Registration allowed is per-subnet chain state. The toggle configured on one netuid controls whether"
+    },
+    {
+      "path": "content/pages/registration_allowed/index.mdx",
+      "text": "new neurons may register on that subnet, but the live setting can differ from reference defaults and"
+    },
+    {
+      "path": "content/pages/registration_allowed/index.mdx",
+      "text": "from the toggle on another netuid"
+    },
+    {
+      "path": "content/pages/registration_allowed/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    },
+    {
+      "path": "content/pages/registration_allowed/index.mdx",
+      "text": "This article's infobox uses netuid 1 as an example label when discussing admission on Finney"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/local_wallet/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/local_wallet/index.mdx",
+      "text": "## Distinction from NaCl Format"
+    },
+    {
+      "path": "content/pages/local_wallet/index.mdx",
+      "text": "Local wallet names wallet files kept on the user's machine. NaCl format names how some legacy wallet"
+    },
+    {
+      "path": "content/pages/local_wallet/index.mdx",
+      "text": "files may be encrypted on disk"
+    },
+    {
+      "path": "content/pages/local_wallet/index.mdx",
+      "text": "([Glossary: Local Wallet](https://docs.learnbittensor.org/resources/glossary#local-wallet),"
+    },
+    {
+      "path": "content/pages/local_wallet/index.mdx",
+      "text": "[Glossary: NaCl Format](https://docs.learnbittensor.org/resources/glossary#nacl-format))."
+    },
+    {
+      "path": "content/pages/local_wallet/index.mdx",
+      "text": "Wallet-type vocabulary and file-format vocabulary answer different security questions."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

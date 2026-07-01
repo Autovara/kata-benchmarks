@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-lock-reduction-interval-add-startup-constant-lookup-12411",
+  "title": "improve lock_reduction_interval: add startup constant lookup",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@a999e26deebc4b9858bbffd1ff4bb8aa9c838022",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/32d8ee598a469a29201882f2d2826d59b6dcd741",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 32d8ee598a469a29201882f2d2826d59b6dcd741 | Original subject: improve lock_reduction_interval: add startup constant lookup (#12411)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.847134+00:00"
+}

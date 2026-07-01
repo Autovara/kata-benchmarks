@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/seed_phrase/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/seed_phrase/index.mdx",
+      "text": "- **Yuma Consensus** \u2014 on-chain mechanism that uses validator weights to determine emission shares"
+    },
+    {
+      "path": "content/pages/seed_phrase/index.mdx",
+      "text": "([Yuma Consensus: Validator emissions](https://docs.learnbittensor.org/learn/yuma-consensus#validator-emissions))."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/seed_phrase/index.mdx",
+      "text": "- **Yuma Consensus** \u2014 on-chain weight aggregation that settles emissions."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

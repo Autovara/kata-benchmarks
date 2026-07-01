@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fixsubtensor-error-codes-mark-registration-block-cap-errors-as-legacy-12528",
+  "title": "fix(subtensor_error_codes): mark registration block-cap errors as legacy",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@dc57a98d179c2a7f0c2cfd454db94da60656bbfa",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/dd451d6ca0de8acb610abc24a7fc7c10da26064a",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: dd451d6ca0de8acb610abc24a7fc7c10da26064a | Original subject: fix(subtensor_error_codes): mark registration block-cap errors as legacy (#12528)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.028608+00:00"
+}

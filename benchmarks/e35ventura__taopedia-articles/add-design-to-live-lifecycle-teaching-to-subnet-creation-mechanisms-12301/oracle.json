@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/subnet_creation_mechanisms/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/subnet_creation_mechanisms/index.mdx",
+      "text": "## From Design to Live Subnet"
+    },
+    {
+      "path": "content/pages/subnet_creation_mechanisms/index.mdx",
+      "text": "Subnet creation has two sides that happen in order. First the creator designs the incentive"
+    },
+    {
+      "path": "content/pages/subnet_creation_mechanisms/index.mdx",
+      "text": "mechanism: the task that defines the useful work, the protocol for how validators request it and"
+    },
+    {
+      "path": "content/pages/subnet_creation_mechanisms/index.mdx",
+      "text": "miners respond, and the scoring method validators apply to those responses"
+    },
+    {
+      "path": "content/pages/subnet_creation_mechanisms/index.mdx",
+      "text": "([Understanding Incentive Mechanisms](https://docs.learnbittensor.org/learn/anatomy-of-incentive-mechanism))."
+    },
+    {
+      "path": "content/pages/subnet_creation_mechanisms/index.mdx",
+      "text": "Then the subnet is brought onto the network by registering it, which pays the dynamic burn cost and"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

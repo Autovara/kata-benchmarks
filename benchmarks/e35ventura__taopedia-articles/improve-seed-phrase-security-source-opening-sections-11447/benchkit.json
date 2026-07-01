@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-seed-phrase-security-source-opening-sections-11447",
+  "title": "improve seed_phrase_security: source opening sections",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@464caffe4d4cdd3fbc3671bcaad67e3ee062dc13",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/86eb4fc591fc158f8ab113b2c0e34748e5300a72",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "source-quality",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 86eb4fc591fc158f8ab113b2c0e34748e5300a72 | Original subject: improve seed_phrase_security: source opening sections (#11447)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.051401+00:00"
+}

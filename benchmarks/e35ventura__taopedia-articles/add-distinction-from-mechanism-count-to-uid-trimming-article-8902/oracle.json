@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/uid_trimming/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/uid_trimming/index.mdx",
+      "text": "## Distinction from Mechanism Count"
+    },
+    {
+      "path": "content/pages/uid_trimming/index.mdx",
+      "text": "Mechanism count and UID trimming both touch subnet capacity, but they name different operations."
+    },
+    {
+      "path": "content/pages/uid_trimming/index.mdx",
+      "text": "Mechanism count is the hyperparameter that sets how many incentive mechanisms run, while UID"
+    },
+    {
+      "path": "content/pages/uid_trimming/index.mdx",
+      "text": "trimming is the owner action that removes excess UIDs when live registration exceeds the configured"
+    },
+    {
+      "path": "content/pages/uid_trimming/index.mdx",
+      "text": "ceiling ([UID Trimming](https://docs.learnbittensor.org/subnets/uid-trimming),"
+    },
+    {
+      "path": "content/pages/uid_trimming/index.mdx",
+      "text": "[Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

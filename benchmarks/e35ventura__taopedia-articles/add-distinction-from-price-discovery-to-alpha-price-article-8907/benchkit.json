@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-price-discovery-to-alpha-price-article-8907",
+  "title": "Add Distinction from Price Discovery to alpha price article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@2cc996031d0321d0ab597eee51c2e6f8e5d232ba",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/1a6e5db993fafe945bc38272db43e41efa939f08",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 1a6e5db993fafe945bc38272db43e41efa939f08 | Original subject: Add Distinction from Price Discovery to alpha price article (#8907)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.339960+00:00"
+}

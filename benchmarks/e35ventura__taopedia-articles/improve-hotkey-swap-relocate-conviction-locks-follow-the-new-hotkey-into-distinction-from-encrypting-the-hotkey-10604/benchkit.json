@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-hotkey-swap-relocate-conviction-locks-follow-the-new-hotkey-into-distinction-from-encrypting-the-hotkey-10604",
+  "title": "improve hotkey swap: relocate conviction locks follow the new hotkey into distinction from encrypting the hotkey",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@4490d985555ebfc9f4b386968c487ba016ad37ed",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/56137d5c3539790825310b7b5cf9ea98730f7d22",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 56137d5c3539790825310b7b5cf9ea98730f7d22 | Original subject: improve hotkey swap: relocate conviction locks follow the new hotkey into distinction from encrypting the hotkey (#10604)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.784753+00:00"
+}

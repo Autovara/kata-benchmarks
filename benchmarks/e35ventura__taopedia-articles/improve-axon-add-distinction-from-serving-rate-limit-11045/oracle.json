@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/axon/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/axon/index.mdx",
+      "text": "## Distinction from Serving Rate Limit"
+    },
+    {
+      "path": "content/pages/axon/index.mdx",
+      "text": "An axon and the serving rate limit relate as a component and a constraint on it. An axon is the"
+    },
+    {
+      "path": "content/pages/axon/index.mdx",
+      "text": "server endpoint a neuron exposes to receive queries, while the serving rate limit is the subnet"
+    },
+    {
+      "path": "content/pages/axon/index.mdx",
+      "text": "hyperparameter capping how frequently a neuron may re-publish its axon details on-chain, throttling"
+    },
+    {
+      "path": "content/pages/axon/index.mdx",
+      "text": "how often serving information changes"
+    },
+    {
+      "path": "content/pages/axon/index.mdx",
+      "text": "([Glossary: Axon](https://docs.learnbittensor.org/resources/glossary#axon),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

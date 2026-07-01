@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-nacl-format-to-local-wallet-article-8903",
+  "title": "Add Distinction from NaCl Format to local wallet article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@e8c663ff785563afdee13138a8cca336975f8f45",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/58b2b93b2a878dcba7250831c1ebd78b42ac901c",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 58b2b93b2a878dcba7250831c1ebd78b42ac901c | Original subject: Add Distinction from NaCl Format to local wallet article (#8903)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.322031+00:00"
+}

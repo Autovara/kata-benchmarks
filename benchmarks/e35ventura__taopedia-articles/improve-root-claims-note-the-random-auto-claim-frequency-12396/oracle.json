@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/root_claims/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/root_claims/index.mdx",
+      "text": "The automatic path is not a fixed schedule. The documentation notes that auto-claims happen"
+    },
+    {
+      "path": "content/pages/root_claims/index.mdx",
+      "text": "randomly, roughly once every two days per account, so a holder should not expect a precise claim"
+    },
+    {
+      "path": "content/pages/root_claims/index.mdx",
+      "text": "interval even once the threshold condition is met"
+    },
+    {
+      "path": "content/pages/root_claims/index.mdx",
+      "text": "([Root Claims](https://docs.learnbittensor.org/staking-and-delegation/root-claims))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

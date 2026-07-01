@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-ledger-hardware-wallet-note-the-polkadot-app-requirement-12256",
+  "title": "improve ledger hardware wallet: note the Polkadot app requirement",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@10e9c5ee9240d1cccf4ec3ef2d074ee3054acf5b",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/c960fff26eb270491b16e8d8eac7f6faa0a7a06f",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: c960fff26eb270491b16e8d8eac7f6faa0a7a06f | Original subject: improve ledger hardware wallet: note the Polkadot app requirement (#12256)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.827726+00:00"
+}

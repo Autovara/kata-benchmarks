@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-sandwich-attack-add-distinction-from-front-running-11006",
+  "title": "improve sandwich_attack: add distinction from Front-Running",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@e3ef04203f92f442721aa22c1aa72ac7412f29c1",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/4990fc1c9e0e83de98ed9091ab6d9a1db58f1eee",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 4990fc1c9e0e83de98ed9091ab6d9a1db58f1eee | Original subject: improve sandwich_attack: add distinction from Front-Running (#11006)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.035628+00:00"
+}

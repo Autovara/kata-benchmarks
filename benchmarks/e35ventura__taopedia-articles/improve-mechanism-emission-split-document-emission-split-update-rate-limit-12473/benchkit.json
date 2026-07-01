@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-mechanism-emission-split-document-emission-split-update-rate-limit-12473",
+  "title": "improve mechanism_emission_split: document emission-split update rate limit",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@8e1aea178963496a2a9d79da91b3a261a9890e3e",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/3fd341efd79df20f85157057751c21dc30154929",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 3fd341efd79df20f85157057751c21dc30154929 | Original subject: improve mechanism_emission_split: document emission-split update rate limit (#12473)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.877001+00:00"
+}

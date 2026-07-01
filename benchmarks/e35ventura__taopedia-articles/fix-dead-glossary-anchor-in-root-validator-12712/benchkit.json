@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "fix-dead-glossary-anchor-in-root-validator-12712",
+  "title": "Fix dead glossary anchor in root_validator",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@27a9c04f34fd9b85648dad6b71d56f1eafc51cbc",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/c6a3d1f25375db520d6746cf80a6e8acbf211a7e",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: c6a3d1f25375db520d6746cf80a6e8acbf211a7e | Original subject: Fix dead glossary anchor in root_validator (#12712)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:07:54.944529+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/adjustment_interval/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/adjustment_interval/index.mdx",
+      "text": "## Distinction from Burn Increase Mult"
+    },
+    {
+      "path": "content/pages/adjustment_interval/index.mdx",
+      "text": "Burn increase mult steps the live registration burn up immediately after each successful slot claim,"
+    },
+    {
+      "path": "content/pages/adjustment_interval/index.mdx",
+      "text": "while adjustment interval waits until a block window ends and then recalibrates burn against the"
+    },
+    {
+      "path": "content/pages/adjustment_interval/index.mdx",
+      "text": "target registration rate for that window"
+    },
+    {
+      "path": "content/pages/adjustment_interval/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters),"
+    },
+    {
+      "path": "content/pages/adjustment_interval/index.mdx",
+      "text": "[Glossary: Register](https://docs.learnbittensor.org/resources/glossary#register))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

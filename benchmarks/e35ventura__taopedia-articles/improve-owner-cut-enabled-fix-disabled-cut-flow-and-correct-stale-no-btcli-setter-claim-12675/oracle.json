@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/owner_cut_enabled/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/owner_cut_enabled/index.mdx",
+      "text": "The disabled share is not withheld or burned, though. On chain the owner cut is subtracted from the"
+    },
+    {
+      "path": "content/pages/owner_cut_enabled/index.mdx",
+      "text": "epoch's distributable alpha only when the switch is on, so when it is off that alpha is never"
+    },
+    {
+      "path": "content/pages/owner_cut_enabled/index.mdx",
+      "text": "removed from the pool for the owner and instead stays in the epoch's normal distributable alpha"
+    },
+    {
+      "path": "content/pages/owner_cut_enabled/index.mdx",
+      "text": "path. Disabling the cut therefore leaves the owner's would-be portion to flow through the regular"
+    },
+    {
+      "path": "content/pages/owner_cut_enabled/index.mdx",
+      "text": "emission distribution \u2014 root, validator, and server/miner alpha \u2014 rather than reducing what is"
+    },
+    {
+      "path": "content/pages/owner_cut_enabled/index.mdx",
+      "text": "([`run_coinbase`](https://github.com/opentensor/subtensor/blob/main/pallets/subtensor/src/coinbase/run_coinbase.rs))."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/owner_cut_enabled/index.mdx",
+      "text": "Unlike many hyperparameters, this one has no `btcli` shortcut. The reference lists the `btcli`"
+    },
+    {
+      "path": "content/pages/owner_cut_enabled/index.mdx",
+      "text": "setter for `OwnerCutEnabled` as none, so an owner toggles it by calling the"
+    },
+    {
+      "path": "content/pages/owner_cut_enabled/index.mdx",
+      "text": "`sudo_set_owner_cut_enabled` extrinsic directly rather than through a `btcli sudo set --param` flag"
+    },
+    {
+      "path": "content/pages/owner_cut_enabled/index.mdx",
+      "text": "([Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters))."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

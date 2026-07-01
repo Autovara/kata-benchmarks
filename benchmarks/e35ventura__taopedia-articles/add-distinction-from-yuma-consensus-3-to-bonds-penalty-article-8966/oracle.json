@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/bonds_penalty/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/bonds_penalty/index.mdx",
+      "text": "## Distinction from Yuma Consensus 3"
+    },
+    {
+      "path": "content/pages/bonds_penalty/index.mdx",
+      "text": "Yuma Consensus 3 refines bond scaling inside Yuma Consensus. Bonds penalty is the hyperparameter"
+    },
+    {
+      "path": "content/pages/bonds_penalty/index.mdx",
+      "text": "that sets how strongly validator weights above the consensus benchmark are penalized during bonding"
+    },
+    {
+      "path": "content/pages/bonds_penalty/index.mdx",
+      "text": "([How Yuma Consensus 3 Makes Bittensor More Fair](https://docs.learnbittensor.org/learn/yc3-blog),"
+    },
+    {
+      "path": "content/pages/bonds_penalty/index.mdx",
+      "text": "[Subnet Hyperparameters](https://docs.learnbittensor.org/subnets/subnet-hyperparameters),"
+    },
+    {
+      "path": "content/pages/bonds_penalty/index.mdx",
+      "text": "[Yuma Consensus](https://docs.learnbittensor.org/learn/yuma-consensus))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

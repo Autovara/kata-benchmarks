@@ -1,0 +1,1 @@
+content/pages/subnet_owner_take/index.mdx

@@ -1,0 +1,1 @@
+content/pages/pruning_score/index.mdx

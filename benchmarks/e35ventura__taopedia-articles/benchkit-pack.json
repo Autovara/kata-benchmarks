@@ -1,10 +1,18 @@
 {
   "schema_version": 1,
   "repo_pack": "e35ventura__taopedia-articles",
-  "target_visible_tasks": 0,
-  "target_holdout_tasks": 0,
-  "category_targets": {},
+  "target_visible_tasks": 220,
+  "target_holdout_tasks": 10,
+  "category_targets": {
+    "content": 30,
+    "taopedia": 30,
+    "content-scope": 30,
+    "content-fix": 20,
+    "content-addition": 7,
+    "article-structure": 2,
+    "source-quality": 1
+  },
   "similarity_threshold": 0.9,
   "max_scope_concentration": 0.75,
-  "notes": "Reset after introducing oracle-backed benchmark verification. New public and private tasks should be generated from a clean environment."
+  "notes": "Initial oracle-design reset pool: 20 public primary tasks and 10 private holdout tasks generated from taopedia-articles history."
 }

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-staking-and-delegation-note-the-0-1-tao-nominator-minimum-12276",
+  "title": "improve staking_and_delegation: note the 0.1 TAO nominator minimum",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@e479608a67669fb5a17d13e1cd6fd797b235d752",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/f4738460817058f905053624097993e2eb7a8308",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: f4738460817058f905053624097993e2eb7a8308 | Original subject: improve staking_and_delegation: note the 0.1 TAO nominator minimum (#12276)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.109452+00:00"
+}

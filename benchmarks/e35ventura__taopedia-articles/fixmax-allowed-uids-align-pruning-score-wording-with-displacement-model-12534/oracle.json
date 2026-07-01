@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/max_allowed_uids/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/max_allowed_uids/index.mdx",
+      "text": "When every UID is occupied, a new registration displaces the weakest eligible incumbent using"
+    },
+    {
+      "path": "content/pages/max_allowed_uids/index.mdx",
+      "text": "documented emissions-based replacement order. Official material still calls that ordering pruning"
+    },
+    {
+      "path": "content/pages/max_allowed_uids/index.mdx",
+      "text": "score, but the current runtime compares current emissions, immunity status, and registration-block"
+    },
+    {
+      "path": "content/pages/max_allowed_uids/index.mdx",
+      "text": "order on ties rather than reading a maintained pruning-score table"
+    },
+    {
+      "path": "content/pages/max_allowed_uids/index.mdx",
+      "text": "([Mining: Miner deregistration](https://docs.learnbittensor.org/miners#miner-deregistration),"
+    },
+    {
+      "path": "content/pages/max_allowed_uids/index.mdx",
+      "text": "[Glossary: Pruning Score](https://docs.learnbittensor.org/resources/glossary#pruning-score),"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/max_allowed_uids/index.mdx",
+      "text": "When every UID is occupied, a new registration displaces the neuron with the lowest"
+    },
+    {
+      "path": "content/pages/max_allowed_uids/index.mdx",
+      "text": "[pruning score](https://docs.learnbittensor.org/miners#miner-deregistration), subject to the"
+    },
+    {
+      "path": "content/pages/max_allowed_uids/index.mdx",
+      "text": "[immunity period](https://docs.learnbittensor.org/resources/glossary#immunity-period)"
+    },
+    {
+      "path": "content/pages/max_allowed_uids/index.mdx",
+      "text": "([Mining: Miner deregistration](https://docs.learnbittensor.org/miners#miner-deregistration))."
+    },
+    {
+      "path": "content/pages/max_allowed_uids/index.mdx",
+      "text": "`MaxAllowedUids` sets how many neurons may coexist on a subnet. Pruning score ranks which incumbent"
+    },
+    {
+      "path": "content/pages/max_allowed_uids/index.mdx",
+      "text": "is weakest when a full subnet must displace one participant for a new registration"
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

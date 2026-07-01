@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/batch_transactions/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/batch_transactions/index.mdx",
+      "text": "## Distinction from Transfer"
+    },
+    {
+      "path": "content/pages/batch_transactions/index.mdx",
+      "text": "Batch transactions and a transfer differ in how many actions they carry. Batch transactions group"
+    },
+    {
+      "path": "content/pages/batch_transactions/index.mdx",
+      "text": "multiple chain actions into one outer transaction, while a transfer is a single action that sends"
+    },
+    {
+      "path": "content/pages/batch_transactions/index.mdx",
+      "text": "TAO from one wallet address to another"
+    },
+    {
+      "path": "content/pages/batch_transactions/index.mdx",
+      "text": "([Batch Transactions](https://docs.learnbittensor.org/learn/batch-transactions),"
+    },
+    {
+      "path": "content/pages/batch_transactions/index.mdx",
+      "text": "[Glossary: Transfer](https://docs.learnbittensor.org/resources/glossary#transfer))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

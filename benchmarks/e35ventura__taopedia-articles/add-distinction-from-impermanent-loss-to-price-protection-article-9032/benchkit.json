@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-impermanent-loss-to-price-protection-article-9032",
+  "title": "Add Distinction from Impermanent Loss to price protection article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@efb18ff3bc700bc45c679507b9f0d102d520e90c",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/9ce0c2452351d6e9c12243fd1f7395da8ed34368",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 9ce0c2452351d6e9c12243fd1f7395da8ed34368 | Original subject: Add Distinction from Impermanent Loss to price protection article (#9032)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.284482+00:00"
+}

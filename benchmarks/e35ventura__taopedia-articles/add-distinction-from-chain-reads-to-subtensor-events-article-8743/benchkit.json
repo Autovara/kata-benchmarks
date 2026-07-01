@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-chain-reads-to-subtensor-events-article-8743",
+  "title": "Add Distinction from Chain Reads to Subtensor events article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@14e0cfdad4ebf329a48d3667acb650e5f7cba13c",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/651c92d42ef6f4f0e4b475698ab94a10a7fa21f3",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 651c92d42ef6f4f0e4b475698ab94a10a7fa21f3 | Original subject: Add Distinction from Chain Reads to Subtensor events article (#8743)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.192584+00:00"
+}

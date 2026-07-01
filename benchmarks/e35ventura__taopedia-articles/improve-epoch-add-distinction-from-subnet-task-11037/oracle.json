@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/epoch/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/epoch/index.mdx",
+      "text": "## Distinction from Subnet Task"
+    },
+    {
+      "path": "content/pages/epoch/index.mdx",
+      "text": "An epoch and a subnet task separate timing from the work being timed. A subnet task is the problem"
+    },
+    {
+      "path": "content/pages/epoch/index.mdx",
+      "text": "miners are asked to solve and validators score, while an epoch is the recurring block interval over"
+    },
+    {
+      "path": "content/pages/epoch/index.mdx",
+      "text": "which weights are tallied and Yuma Consensus runs to distribute emissions for that work"
+    },
+    {
+      "path": "content/pages/epoch/index.mdx",
+      "text": "([Glossary: Epoch](https://docs.learnbittensor.org/resources/glossary#epoch),"
+    },
+    {
+      "path": "content/pages/epoch/index.mdx",
+      "text": "[Glossary: Subnet Task](https://docs.learnbittensor.org/resources/glossary#subnet-task),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

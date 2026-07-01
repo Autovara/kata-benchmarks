@@ -1,0 +1,1 @@
+content/pages/burn_cost/index.mdx

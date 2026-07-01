@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/dividends/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/dividends/index.mdx",
+      "text": "a subnet such as netuid 1. The consensus score is the per-miner clipping benchmark Yuma uses to cap"
+    },
+    {
+      "path": "content/pages/dividends/index.mdx",
+      "text": "validator weight signals during the pass, while validator dividends are the validator-side emission"
+    },
+    {
+      "path": "content/pages/dividends/index.mdx",
+      "text": "share produced after that pass, shaped by validator-miner bonds and the miner outcomes those bonds"
+    },
+    {
+      "path": "content/pages/dividends/index.mdx",
+      "text": "point at"
+    },
+    {
+      "path": "content/pages/dividends/index.mdx",
+      "text": "- **Consensus score** \u2014 per-miner clipping benchmark used during the pass."
+    },
+    {
+      "path": "content/pages/dividends/index.mdx",
+      "text": "Validator trust sums a validator's clipped weight contributions across miners after consensus"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/dividends/index.mdx",
+      "text": "a subnet such as netuid 1. The consensus score is the stake-weighted agreement benchmark Yuma uses"
+    },
+    {
+      "path": "content/pages/dividends/index.mdx",
+      "text": "to clip validator weight signals for a miner \u2014 an evaluation intermediate computed during the pass \u2014"
+    },
+    {
+      "path": "content/pages/dividends/index.mdx",
+      "text": "while validator dividends are the validator-side emission share produced after that pass, shaped by"
+    },
+    {
+      "path": "content/pages/dividends/index.mdx",
+      "text": "validator-miner bonds and the miner outcomes those bonds point at"
+    },
+    {
+      "path": "content/pages/dividends/index.mdx",
+      "text": "- **Consensus score** \u2014 stake-weighted agreement benchmark used to clip weights."
+    },
+    {
+      "path": "content/pages/dividends/index.mdx",
+      "text": "Validator trust names how consistently a validator's clipped weights tracked consensus, while"
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

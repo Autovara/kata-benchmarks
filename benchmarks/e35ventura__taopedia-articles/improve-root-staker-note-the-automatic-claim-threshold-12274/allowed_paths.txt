@@ -1,0 +1,1 @@
+content/pages/root_staker/index.mdx

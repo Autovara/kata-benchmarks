@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-serving-rate-limit-add-distinction-from-axon-and-reader-boundary-8600",
+  "title": "improve serving rate limit: add distinction from axon and reader boundary",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@c2e552588db64b16e08d26caa551aa517118b7e7",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/a507956e125135843701b3186f8254275fed4955",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: a507956e125135843701b3186f8254275fed4955 | Original subject: improve serving rate limit: add distinction from axon and reader boundary (#8600)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.071202+00:00"
+}

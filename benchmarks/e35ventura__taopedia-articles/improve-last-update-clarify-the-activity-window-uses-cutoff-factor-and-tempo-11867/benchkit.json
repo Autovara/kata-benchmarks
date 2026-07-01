@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-last-update-clarify-the-activity-window-uses-cutoff-factor-and-tempo-11867",
+  "title": "improve last_update: clarify the activity window uses cutoff factor and tempo",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@1e6d099183d9d4566ecdbeb1a1e785f9f7fbea26",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/221247a784dd1d8ef800e51f9c02de208365c950",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 221247a784dd1d8ef800e51f9c02de208365c950 | Original subject: improve last_update: clarify the activity window uses cutoff factor and tempo (#11867)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.818985+00:00"
+}

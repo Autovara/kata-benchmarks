@@ -1,0 +1,1 @@
+content/pages/burn_increase_mult/index.mdx

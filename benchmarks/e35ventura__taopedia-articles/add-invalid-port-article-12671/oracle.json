@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/invalid_port/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/invalid_port/index.mdx",
+      "text": "title: \"Invalid Port\""
+    },
+    {
+      "path": "content/pages/invalid_port/index.mdx",
+      "text": "summary:"
+    },
+    {
+      "path": "content/pages/invalid_port/index.mdx",
+      "text": "\"How the InvalidPort error signals that a serve_axon or serve_prometheus call submitted a port"
+    },
+    {
+      "path": "content/pages/invalid_port/index.mdx",
+      "text": "value the runtime rejects as not a usable network port.\""
+    },
+    {
+      "path": "content/pages/invalid_port/index.mdx",
+      "text": "category: \"Validation\""
+    },
+    {
+      "path": "content/pages/invalid_port/index.mdx",
+      "text": "tags: [\"Validation\", \"Errors\"]"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

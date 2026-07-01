@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/proxy_wallets/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/proxy_wallets/index.mdx",
+      "text": "## A Proxy Type Bounds Authority by Amount and Immediacy"
+    },
+    {
+      "path": "content/pages/proxy_wallets/index.mdx",
+      "text": "Beyond naming a permission category, a proxy type can also limit the size and the timing of what a"
+    },
+    {
+      "path": "content/pages/proxy_wallets/index.mdx",
+      "text": "proxy may do. The working-with-proxies guidance notes that a SmallTransfer proxy only authorizes"
+    },
+    {
+      "path": "content/pages/proxy_wallets/index.mdx",
+      "text": "transfer amounts that do not exceed 0.5 TAO, whereas the most permissive case is a proxy with type"
+    },
+    {
+      "path": "content/pages/proxy_wallets/index.mdx",
+      "text": "Any and a delay of zero, which can immediately perform any operation on behalf of the safe wallet."
+    },
+    {
+      "path": "content/pages/proxy_wallets/index.mdx",
+      "text": "The configured delay is the counterweight to that reach: a non-zero delay creates a window during"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

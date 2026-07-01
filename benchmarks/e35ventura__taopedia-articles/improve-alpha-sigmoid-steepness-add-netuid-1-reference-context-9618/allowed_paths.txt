@@ -1,0 +1,1 @@
+content/pages/alpha_sigmoid_steepness/index.mdx

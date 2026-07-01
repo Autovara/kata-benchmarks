@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/dendrite/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/dendrite/index.mdx",
+      "text": "## What It Represents"
+    },
+    {
+      "path": "content/pages/dendrite/index.mdx",
+      "text": "A dendrite is the request-side component a neuron uses to reach axon endpoints. In the documented"
+    },
+    {
+      "path": "content/pages/dendrite/index.mdx",
+      "text": "neuron communication path, validators use dendrite clients to send synapse objects toward miners,"
+    },
+    {
+      "path": "content/pages/dendrite/index.mdx",
+      "text": "and the miner-side axon receives those requests and returns responses"
+    },
+    {
+      "path": "content/pages/dendrite/index.mdx",
+      "text": "([Glossary: Dendrite](https://docs.learnbittensor.org/resources/glossary#dendrite),"
+    },
+    {
+      "path": "content/pages/dendrite/index.mdx",
+      "text": "[Glossary: Axon](https://docs.learnbittensor.org/resources/glossary#axon),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/front_running/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/front_running/index.mdx",
+      "text": "## MEV Shield Is Applied Selectively"
+    },
+    {
+      "path": "content/pages/front_running/index.mdx",
+      "text": "MEV Shield does not protect every transaction. The MEV Shield documentation states that BTCLI"
+    },
+    {
+      "path": "content/pages/front_running/index.mdx",
+      "text": "applies it by default only to commands that are more prone to MEV attacks, such as staking, subnet"
+    },
+    {
+      "path": "content/pages/front_running/index.mdx",
+      "text": "creation, and proxy execution, while other commands run without it"
+    },
+    {
+      "path": "content/pages/front_running/index.mdx",
+      "text": "([MEV Shield](https://docs.learnbittensor.org/concepts/mev-shield))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

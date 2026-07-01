@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/time_lock_encryption/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/time_lock_encryption/index.mdx",
+      "text": "## Distinction from Drand Time-Lock Encryption"
+    },
+    {
+      "path": "content/pages/time_lock_encryption/index.mdx",
+      "text": "Time-lock encryption names the general idea that ciphertext unlocks only after a scheduled future"
+    },
+    {
+      "path": "content/pages/time_lock_encryption/index.mdx",
+      "text": "time or round. Drand time-lock encryption is Bittensor's form for Commit Reveal: decryption is bound"
+    },
+    {
+      "path": "content/pages/time_lock_encryption/index.mdx",
+      "text": "to a specific future Drand round from the League of Entropy beacon rather than an arbitrary unlock"
+    },
+    {
+      "path": "content/pages/time_lock_encryption/index.mdx",
+      "text": "schedule"
+    },
+    {
+      "path": "content/pages/time_lock_encryption/index.mdx",
+      "text": "([Glossary: Drand / Time-Lock Encryption](https://docs.learnbittensor.org/resources/glossary#drandtime-lock-encryption),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

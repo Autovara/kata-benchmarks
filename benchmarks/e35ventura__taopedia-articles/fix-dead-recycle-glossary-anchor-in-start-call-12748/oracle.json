@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/start_call/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/start_call/index.mdx",
+      "text": "[Glossary: Recycle](https://docs.learnbittensor.org/resources/glossary#recycling))."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/start_call/index.mdx",
+      "text": "[Glossary: Recycle](https://docs.learnbittensor.org/resources/glossary#recycle))."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

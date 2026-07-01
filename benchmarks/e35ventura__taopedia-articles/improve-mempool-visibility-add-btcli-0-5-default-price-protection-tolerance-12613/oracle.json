@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/mempool_visibility/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/mempool_visibility/index.mdx",
+      "text": "Price protection also carries a documented default. In btcli it is enabled by default with a"
+    },
+    {
+      "path": "content/pages/mempool_visibility/index.mdx",
+      "text": "tolerance of 0.5%, while the documentation notes the SDK does not enable it by default and must be"
+    },
+    {
+      "path": "content/pages/mempool_visibility/index.mdx",
+      "text": "configured explicitly. So even when a pending order is visible in the mempool, a btcli caller"
+    },
+    {
+      "path": "content/pages/mempool_visibility/index.mdx",
+      "text": "already has a 0.5% ceiling limiting how far that exposure can move their own execution, whereas an"
+    },
+    {
+      "path": "content/pages/mempool_visibility/index.mdx",
+      "text": "SDK caller who skips the setting relies on no default bound"
+    },
+    {
+      "path": "content/pages/mempool_visibility/index.mdx",
+      "text": "([Price Protection](https://docs.learnbittensor.org/learn/price-protection))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

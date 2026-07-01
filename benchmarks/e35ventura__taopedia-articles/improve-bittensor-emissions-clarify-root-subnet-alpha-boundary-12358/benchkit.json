@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-bittensor-emissions-clarify-root-subnet-alpha-boundary-12358",
+  "title": "improve bittensor_emissions: clarify Root Subnet alpha boundary",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@43bdd09b64182fb8195810fabccf08b5ac898e81",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/e064162dc87767ba10a2ac7b3a3a007ab71c3d07",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: e064162dc87767ba10a2ac7b3a3a007ab71c3d07 | Original subject: improve bittensor_emissions: clarify Root Subnet alpha boundary (#12358)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.584690+00:00"
+}

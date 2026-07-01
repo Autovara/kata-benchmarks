@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/root_claim_type/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/root_claim_type/index.mdx",
+      "text": "The root claims documentation notes that Swap is the default mode, so a staker who has not chosen a"
+    },
+    {
+      "path": "content/pages/root_claim_type/index.mdx",
+      "text": "preference has processed dividends converted to TAO and restaked on the root subnet rather than left"
+    },
+    {
+      "path": "content/pages/root_claim_type/index.mdx",
+      "text": "as originating-subnet alpha"
+    },
+    {
+      "path": "content/pages/root_claim_type/index.mdx",
+      "text": "([Root Claim overview](https://docs.learnbittensor.org/staking-and-delegation/root-claims))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

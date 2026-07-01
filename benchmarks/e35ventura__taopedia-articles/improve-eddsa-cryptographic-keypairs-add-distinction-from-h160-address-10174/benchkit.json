@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-eddsa-cryptographic-keypairs-add-distinction-from-h160-address-10174",
+  "title": "improve eddsa cryptographic keypairs: add distinction from h160 address",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@68b3c706300bbd9a0b0e5f9a760fe246040ef0c0",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/cc698dcebbf6ca113cac07412d4033d59e23b386",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: cc698dcebbf6ca113cac07412d4033d59e23b386 | Original subject: improve eddsa cryptographic keypairs: add distinction from h160 address (#10174)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.712515+00:00"
+}

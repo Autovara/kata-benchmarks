@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/bittensor_emissions/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/bittensor_emissions/index.mdx",
+      "text": "tokenomics, while alpha tokens belong to ordinary subnet contexts"
+    },
+    {
+      "path": "content/pages/bittensor_emissions/index.mdx",
+      "text": "The Root Subnet is the exception on the alpha side because Subnet Zero has no alpha currency. Root"
+    },
+    {
+      "path": "content/pages/bittensor_emissions/index.mdx",
+      "text": "staking remains TAO-denominated, so a Root Subnet emission discussion should not be read as adding a"
+    },
+    {
+      "path": "content/pages/bittensor_emissions/index.mdx",
+      "text": "separate root alpha token"
+    },
+    {
+      "path": "content/pages/bittensor_emissions/index.mdx",
+      "text": "([Glossary: Root Subnet/Subnet Zero](https://docs.learnbittensor.org/resources/glossary#root-subnetsubnet-zero),"
+    },
+    {
+      "path": "content/pages/bittensor_emissions/index.mdx",
+      "text": "[Understanding Subnets](https://docs.learnbittensor.org/subnets/understanding-subnets))."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/bittensor_emissions/index.mdx",
+      "text": "tokenomics, while alpha tokens belong to individual subnet contexts"
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

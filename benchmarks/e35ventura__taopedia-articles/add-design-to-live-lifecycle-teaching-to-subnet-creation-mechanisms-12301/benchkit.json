@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-design-to-live-lifecycle-teaching-to-subnet-creation-mechanisms-12301",
+  "title": "Add design-to-live lifecycle teaching to subnet_creation_mechanisms",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@30b688245cf6ed84b9a7dc4e16692d2aca40cd79",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/bf74bfddd0443a91f2ebf069ddb0c7db0baa988a",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: bf74bfddd0443a91f2ebf069ddb0c7db0baa988a | Original subject: Add design-to-live lifecycle teaching to subnet_creation_mechanisms (#12301)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.048395+00:00"
+}

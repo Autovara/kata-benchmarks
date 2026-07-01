@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/validator_deregistration/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/validator_deregistration/index.mdx",
+      "text": "## Distinction from Validator Registration"
+    },
+    {
+      "path": "content/pages/validator_deregistration/index.mdx",
+      "text": "Validator registration gives a subnet validator a UID slot after registering a hotkey with that"
+    },
+    {
+      "path": "content/pages/validator_deregistration/index.mdx",
+      "text": "subnet. Validator deregistration removes a low-performing validator slot when registration pressure"
+    },
+    {
+      "path": "content/pages/validator_deregistration/index.mdx",
+      "text": "requires replacement, while the subnet itself continues"
+    },
+    {
+      "path": "content/pages/validator_deregistration/index.mdx",
+      "text": "([Validator Registration](https://docs.learnbittensor.org/validators#validator-registration),"
+    },
+    {
+      "path": "content/pages/validator_deregistration/index.mdx",
+      "text": "[Validating: Validator deregistration](https://docs.learnbittensor.org/validators#validator-deregistration),"
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

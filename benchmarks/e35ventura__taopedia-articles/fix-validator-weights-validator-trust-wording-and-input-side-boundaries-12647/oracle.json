@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/validator_weights/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/validator_weights/index.mdx",
+      "text": "Validator weights are the evaluation signals a validator submits about miner work before clipping."
+    },
+    {
+      "path": "content/pages/validator_weights/index.mdx",
+      "text": "Validator trust sums that validator's clipped weight contributions across miners after the per-miner"
+    },
+    {
+      "path": "content/pages/validator_weights/index.mdx",
+      "text": "consensus benchmark filters outlier values"
+    },
+    {
+      "path": "content/pages/validator_weights/index.mdx",
+      "text": "[Glossary: Weight Vector](https://docs.learnbittensor.org/resources/glossary#weight-vector),"
+    },
+    {
+      "path": "content/pages/validator_weights/index.mdx",
+      "text": "[Yuma Consensus: Clipping](https://docs.learnbittensor.org/learn/yuma-consensus#clipping))."
+    },
+    {
+      "path": "content/pages/validator_weights/index.mdx",
+      "text": "- **Validator trust** \u2014 validator-side clipped influence summed across miners for one pass."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/validator_weights/index.mdx",
+      "text": "Validator weights are evaluation signals validators submit about miner work. Validator trust"
+    },
+    {
+      "path": "content/pages/validator_weights/index.mdx",
+      "text": "measures how much of a validator's influence survives consensus clipping"
+    },
+    {
+      "path": "content/pages/validator_weights/index.mdx",
+      "text": "[Glossary: Weight Vector](https://docs.learnbittensor.org/resources/glossary#weight-vector))."
+    },
+    {
+      "path": "content/pages/validator_weights/index.mdx",
+      "text": "- **Validator trust** \u2014 validator-side influence after clipping."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

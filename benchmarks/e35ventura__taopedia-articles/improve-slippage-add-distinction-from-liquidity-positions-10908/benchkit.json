@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-slippage-add-distinction-from-liquidity-positions-10908",
+  "title": "improve slippage: add distinction from liquidity positions",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@3fa4b7d40561b44eb88d4237f4e6eefb9d55b111",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/7ca5331fac155f7c3c17b0dc0e099fbcf9ba3340",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 7ca5331fac155f7c3c17b0dc0e099fbcf9ba3340 | Original subject: improve slippage: add distinction from liquidity positions (#10908)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.080876+00:00"
+}

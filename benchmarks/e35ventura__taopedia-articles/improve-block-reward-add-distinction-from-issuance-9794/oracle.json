@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/block_reward/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/block_reward/index.mdx",
+      "text": "## Distinction from Issuance"
+    },
+    {
+      "path": "content/pages/block_reward/index.mdx",
+      "text": "Issuance is the cumulative amount of TAO created across all blocks so far, while block reward is the"
+    },
+    {
+      "path": "content/pages/block_reward/index.mdx",
+      "text": "per-block rate at which that running total grows"
+    },
+    {
+      "path": "content/pages/block_reward/index.mdx",
+      "text": "([Glossary: Issuance](https://docs.learnbittensor.org/resources/glossary#issuance),"
+    },
+    {
+      "path": "content/pages/block_reward/index.mdx",
+      "text": "[Emission](https://docs.learnbittensor.org/learn/emissions))."
+    },
+    {
+      "path": "content/pages/block_reward/index.mdx",
+      "text": "- **Block reward** \u2014 the per-block TAO mint figure that adds to issuance."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

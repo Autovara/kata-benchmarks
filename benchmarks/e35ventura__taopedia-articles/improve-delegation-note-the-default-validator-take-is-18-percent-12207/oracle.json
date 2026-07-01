@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/delegation/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/delegation/index.mdx",
+      "text": "## The Default Take Is 18 Percent"
+    },
+    {
+      "path": "content/pages/delegation/index.mdx",
+      "text": "The take is the cut a validator keeps from delegated-stake emissions before the rest is credited to"
+    },
+    {
+      "path": "content/pages/delegation/index.mdx",
+      "text": "nominators. The staking and delegation documentation gives its default value as 18 percent, so a"
+    },
+    {
+      "path": "content/pages/delegation/index.mdx",
+      "text": "delegate that has not changed its take keeps that share of the delegated-stake emissions"
+    },
+    {
+      "path": "content/pages/delegation/index.mdx",
+      "text": "([Staking and Delegation](https://docs.learnbittensor.org/staking-and-delegation/delegation))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-subnet-deregistration-note-the-documented-network-immunity-default-of-1296000-blocks-12426",
+  "title": "improve subnet deregistration: note the documented network immunity default of 1,296,000 blocks",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@b115c8434068f7d4612d553210d8a3e61ee9ef60",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/84eff0c6427bd2545f99077b7af87f71ca87dd01",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 84eff0c6427bd2545f99077b7af87f71ca87dd01 | Original subject: improve subnet deregistration: note the documented network immunity default of 1,296,000 blocks (#12426)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:50.125719+00:00"
+}

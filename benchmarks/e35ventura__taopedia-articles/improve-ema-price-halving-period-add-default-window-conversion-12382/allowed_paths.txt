@@ -1,0 +1,1 @@
+content/pages/ema_price_halving_period/index.mdx

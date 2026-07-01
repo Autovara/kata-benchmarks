@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/unstaking/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/unstaking/index.mdx",
+      "text": "Unstaking can also involve a separate liquidity fee on the pool conversion. Fee documentation"
+    },
+    {
+      "path": "content/pages/unstaking/index.mdx",
+      "text": "describes the staking and unstaking liquidity fee as subnet-dependent, with a default or typical"
+    },
+    {
+      "path": "content/pages/unstaking/index.mdx",
+      "text": "level around 0.05% of transacted liquidity, so that charge should be kept separate from slippage"
+    },
+    {
+      "path": "content/pages/unstaking/index.mdx",
+      "text": "([Transaction Fees in Bittensor](https://docs.learnbittensor.org/learn/fees),"
+    },
+    {
+      "path": "content/pages/unstaking/index.mdx",
+      "text": "[Understanding Slippage](https://docs.learnbittensor.org/learn/slippage))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

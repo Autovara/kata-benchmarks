@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/weights_rate_limit/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/weights_rate_limit/index.mdx",
+      "text": "fast ([Rate Limits](https://docs.learnbittensor.org/learn/chain-rate-limits),"
+    },
+    {
+      "path": "content/pages/weights_rate_limit/index.mdx",
+      "text": "[Glossary: Weight Setting](https://docs.learnbittensor.org/resources/glossary#weight-setting))."
+    },
+    {
+      "path": "content/pages/weights_rate_limit/index.mdx",
+      "text": "([Rate Limits](https://docs.learnbittensor.org/learn/chain-rate-limits),"
+    },
+    {
+      "path": "content/pages/weights_rate_limit/index.mdx",
+      "text": "[Subnet Metagraph](https://docs.learnbittensor.org/subnets/metagraph))."
+    },
+    {
+      "path": "content/pages/weights_rate_limit/index.mdx",
+      "text": "Weights rate limit sets how many blocks a validator must wait between weight commits on a subnet."
+    },
+    {
+      "path": "content/pages/weights_rate_limit/index.mdx",
+      "text": "Activity cutoff vocabulary names how long a validator may remain without an on-chain update before"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/weights_rate_limit/index.mdx",
+      "text": "([`check_rate_limit`](https://github.com/opentensor/subtensor/blob/main/pallets/subtensor/src/subnets/weights.rs))."
+    },
+    {
+      "path": "content/pages/weights_rate_limit/index.mdx",
+      "text": "Activity cutoff is measured in blocks within each epoch and governs whether a validator's weight"
+    },
+    {
+      "path": "content/pages/weights_rate_limit/index.mdx",
+      "text": "submission arrives early enough to count for the current Yuma Consensus pass. Weights rate limit is"
+    },
+    {
+      "path": "content/pages/weights_rate_limit/index.mdx",
+      "text": "measured in blocks between commits and governs how soon the same validator can submit again after a"
+    },
+    {
+      "path": "content/pages/weights_rate_limit/index.mdx",
+      "text": "prior weight commit"
+    },
+    {
+      "path": "content/pages/weights_rate_limit/index.mdx",
+      "text": "- **Activity cutoff** \u2014 whether a submission arrives inside the current epoch window."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

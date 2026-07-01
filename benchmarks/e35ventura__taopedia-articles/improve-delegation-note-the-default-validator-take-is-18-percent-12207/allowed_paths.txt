@@ -1,0 +1,1 @@
+content/pages/delegation/index.mdx

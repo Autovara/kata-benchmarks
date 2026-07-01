@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-subnet-owner-cut-article-on-the-fixed-18-owner-emission-share-12083",
+  "title": "Add subnet_owner_cut article on the fixed 18% owner emission share",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@b178e22d10df210f8764b7163c9cfb7e043c3b97",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/36eb77b6ac94b647aac1c001cc5a5f7d95718b92",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-fix",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 36eb77b6ac94b647aac1c001cc5a5f7d95718b92 | Original subject: Add subnet_owner_cut article on the fixed 18% owner emission share (#12083)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.407463+00:00"
+}

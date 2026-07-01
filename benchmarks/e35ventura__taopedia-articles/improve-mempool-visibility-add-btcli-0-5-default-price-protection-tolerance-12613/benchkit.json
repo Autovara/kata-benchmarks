@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-mempool-visibility-add-btcli-0-5-default-price-protection-tolerance-12613",
+  "title": "improve mempool_visibility: add btcli 0.5% default price-protection tolerance",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@567193b5b37f8055c85659ad7e89e98634c61b8e",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/72073f357a98ab6b159c967577a57329dd8445c2",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 72073f357a98ab6b159c967577a57329dd8445c2 | Original subject: improve mempool_visibility: add btcli 0.5% default price-protection tolerance (#12613)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.893199+00:00"
+}

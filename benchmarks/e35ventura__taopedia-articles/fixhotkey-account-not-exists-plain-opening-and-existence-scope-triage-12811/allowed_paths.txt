@@ -1,0 +1,1 @@
+content/pages/hotkey_account_not_exists/index.mdx

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/bittensor_wallet/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/bittensor_wallet/index.mdx",
+      "text": "The container's two key roles are not stored or related the same way. The wallet documentation"
+    },
+    {
+      "path": "content/pages/bittensor_wallet/index.mdx",
+      "text": "states that the coldkey is only ever kept on disk in an encrypted form and requires an encryption"
+    },
+    {
+      "path": "content/pages/bittensor_wallet/index.mdx",
+      "text": "password, the protection that suits its custody authority. The same documentation also notes that"
+    },
+    {
+      "path": "content/pages/bittensor_wallet/index.mdx",
+      "text": "the pairing is flexible: a coldkey can exist with no hotkey at all, and it can also hold multiple"
+    },
+    {
+      "path": "content/pages/bittensor_wallet/index.mdx",
+      "text": "hotkeys ([Wallets, Coldkeys and Hotkeys](https://docs.learnbittensor.org/keys/wallets))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

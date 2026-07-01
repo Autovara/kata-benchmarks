@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-batch-transactions-add-distinction-from-transfer-10145",
+  "title": "improve batch transactions: add distinction from transfer",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@1e96a3f92ab49bae4e434b9ea06f945d2429d162",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/3fb5dfd82c284a1d4285cf2148de9784d6707f93",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 3fb5dfd82c284a1d4285cf2148de9784d6707f93 | Original subject: improve batch transactions: add distinction from transfer (#10145)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.554664+00:00"
+}

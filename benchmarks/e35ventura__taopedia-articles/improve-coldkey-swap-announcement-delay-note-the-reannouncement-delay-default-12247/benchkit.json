@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-coldkey-swap-announcement-delay-note-the-reannouncement-delay-default-12247",
+  "title": "improve coldkey swap announcement delay: note the reannouncement delay default",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@1c43df13e506d501546fc870845bba342c6b4c9d",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/e66c8b148c07e9f64e704363137ecdc828db94a3",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: e66c8b148c07e9f64e704363137ecdc828db94a3 | Original subject: improve coldkey swap announcement delay: note the reannouncement delay default (#12247)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.633320+00:00"
+}

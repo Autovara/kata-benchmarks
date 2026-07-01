@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/coldkey_hotkey_workstation_security/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/coldkey_hotkey_workstation_security/index.mdx",
+      "text": "## Distinction from Regenerating a Key"
+    },
+    {
+      "path": "content/pages/coldkey_hotkey_workstation_security/index.mdx",
+      "text": "Workstation security keeps each operation on the device and authority tier that fits its risk, while"
+    },
+    {
+      "path": "content/pages/coldkey_hotkey_workstation_security/index.mdx",
+      "text": "regenerating a key is the recovery process of recreating a lost or deleted coldkey or hotkey from"
+    },
+    {
+      "path": "content/pages/coldkey_hotkey_workstation_security/index.mdx",
+      "text": "its associated mnemonic"
+    },
+    {
+      "path": "content/pages/coldkey_hotkey_workstation_security/index.mdx",
+      "text": "([Glossary: Regenerating a Key](https://docs.learnbittensor.org/resources/glossary#regenerating-a-key))."
+    },
+    {
+      "path": "content/pages/coldkey_hotkey_workstation_security/index.mdx",
+      "text": "- **Workstation security** \u2014 a prevention practice about where keys may sign."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

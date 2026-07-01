@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/staking_vs_liquidity_provision/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/staking_vs_liquidity_provision/index.mdx",
+      "text": "- **Yuma Consensus** \u2014 on-chain settlement that turns validator weights into emission shares."
+    },
+    {
+      "path": "content/pages/staking_vs_liquidity_provision/index.mdx",
+      "text": "Staking and liquidity provision name support paths; Yuma processes validator weights into rewards"
+    },
+    {
+      "path": "content/pages/staking_vs_liquidity_provision/index.mdx",
+      "text": "([Yuma Consensus: Validator emissions](https://docs.learnbittensor.org/learn/yuma-consensus#validator-emissions))."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/staking_vs_liquidity_provision/index.mdx",
+      "text": "Yuma Consensus is the separate mechanism that converts validator weight submissions into emission"
+    },
+    {
+      "path": "content/pages/staking_vs_liquidity_provision/index.mdx",
+      "text": "shares each tempo rather than from pool swap volume or stake moves alone"
+    },
+    {
+      "path": "content/pages/staking_vs_liquidity_provision/index.mdx",
+      "text": "([Yuma Consensus](https://docs.learnbittensor.org/learn/yuma-consensus),"
+    },
+    {
+      "path": "content/pages/staking_vs_liquidity_provision/index.mdx",
+      "text": "[Emission](https://docs.learnbittensor.org/learn/emissions))."
+    },
+    {
+      "path": "content/pages/staking_vs_liquidity_provision/index.mdx",
+      "text": "Both paths can involve alpha and TAO, but they answer different participation questions. Yuma still"
+    },
+    {
+      "path": "content/pages/staking_vs_liquidity_provision/index.mdx",
+      "text": "settles from evaluation signals validators submit as weights on the relevant netuid"
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

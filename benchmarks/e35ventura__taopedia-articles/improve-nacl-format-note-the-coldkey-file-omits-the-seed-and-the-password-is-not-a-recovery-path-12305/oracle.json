@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/nacl_format/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/nacl_format/index.mdx",
+      "text": "What the file holds differs by key role. The key documentation notes that the coldkey keyfile"
+    },
+    {
+      "path": "content/pages/nacl_format/index.mdx",
+      "text": "deliberately leaves out the secret seed and phrase because of the coldkey's high-security nature,"
+    },
+    {
+      "path": "content/pages/nacl_format/index.mdx",
+      "text": "unlike the hotkey file, so the format protects less of the recovery material on the coldkey side by"
+    },
+    {
+      "path": "content/pages/nacl_format/index.mdx",
+      "text": "design. It also warns that the encryption password is not a recovery path on its own: you cannot"
+    },
+    {
+      "path": "content/pages/nacl_format/index.mdx",
+      "text": "retrieve the wallet with the password alone, which is why the seed phrase remains the real backup"
+    },
+    {
+      "path": "content/pages/nacl_format/index.mdx",
+      "text": "([Working with Keys](https://docs.learnbittensor.org/keys/working-with-keys))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,1 @@
+content/pages/root_claims/index.mdx

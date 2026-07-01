@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/incentives/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/incentives/index.mdx",
+      "text": "Consensus score is the per-miner clipping benchmark that caps outlier validator weights before"
+    },
+    {
+      "path": "content/pages/incentives/index.mdx",
+      "text": "aggregation. Incentives are the credited miner-side emission shares normalized from aggregate rank"
+    },
+    {
+      "path": "content/pages/incentives/index.mdx",
+      "text": "with `M_j = R_j / \u03a3_k R_k` after that clipping and aggregation complete"
+    },
+    {
+      "path": "content/pages/incentives/index.mdx",
+      "text": "([Glossary: Consensus Score](https://docs.learnbittensor.org/resources/glossary#consensus-score),"
+    },
+    {
+      "path": "content/pages/incentives/index.mdx",
+      "text": "[Glossary: Incentives](https://docs.learnbittensor.org/resources/glossary#incentives),"
+    },
+    {
+      "path": "content/pages/incentives/index.mdx",
+      "text": "[Yuma Consensus: Clipping](https://docs.learnbittensor.org/learn/yuma-consensus#clipping),"
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/incentives/index.mdx",
+      "text": "- **Consensus score** \u2014 clipping benchmark inside Yuma."
+    },
+    {
+      "path": "content/pages/incentives/index.mdx",
+      "text": "- **Incentives** \u2014 miner-facing credited results."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

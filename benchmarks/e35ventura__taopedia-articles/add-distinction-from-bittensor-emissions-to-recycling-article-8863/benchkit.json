@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "add-distinction-from-bittensor-emissions-to-recycling-article-8863",
+  "title": "Add Distinction from Bittensor Emissions to recycling article",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@8980de7a757ce97bd2ca4acdfc8945152385b953",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/5efcfd4605a290dd7e26feef8b76a52efaecb7cc",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 5efcfd4605a290dd7e26feef8b76a52efaecb7cc | Original subject: Add Distinction from Bittensor Emissions to recycling article (#8863)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.124214+00:00"
+}

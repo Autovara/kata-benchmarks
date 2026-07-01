@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/self_weighting/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/self_weighting/index.mdx",
+      "text": "## Distinction from Trust"
+    },
+    {
+      "path": "content/pages/self_weighting/index.mdx",
+      "text": "Self-weighting is a lone validator assigning inflated weights to entities it controls. Trust is a"
+    },
+    {
+      "path": "content/pages/self_weighting/index.mdx",
+      "text": "consensus metric describing how much of a miner's support survives after consensus clips outlier"
+    },
+    {
+      "path": "content/pages/self_weighting/index.mdx",
+      "text": "weight signals, so a self-dealt inflated weight is clipped away and barely raises the self-preferred"
+    },
+    {
+      "path": "content/pages/self_weighting/index.mdx",
+      "text": "miner's trust ([Glossary: Trust](https://docs.learnbittensor.org/resources/glossary#trust),"
+    },
+    {
+      "path": "content/pages/self_weighting/index.mdx",
+      "text": "[Yuma Consensus](https://docs.learnbittensor.org/learn/yuma-consensus))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,1 @@
+content/pages/validator_permit/index.mdx

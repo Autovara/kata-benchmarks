@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/commit_reveal_weights_enabled/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/commit_reveal_weights_enabled/index.mdx",
+      "text": "The protection is the delay, not permanent secrecy. Once the reveal step runs, the previously"
+    },
+    {
+      "path": "content/pages/commit_reveal_weights_enabled/index.mdx",
+      "text": "concealed weights become visible like ordinary submissions, so enabling the scheme deters copying"
+    },
+    {
+      "path": "content/pages/commit_reveal_weights_enabled/index.mdx",
+      "text": "during the hidden window rather than hiding a validator's weights forever"
+    },
+    {
+      "path": "content/pages/commit_reveal_weights_enabled/index.mdx",
+      "text": "([Commit Reveal](https://docs.learnbittensor.org/concepts/commit-reveal))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "repo_pack": "e35ventura__taopedia-articles",
+  "task_id": "improve-mev-maximal-extractable-value-add-distinction-from-yuma-consensus-9419",
+  "title": "improve mev_maximal_extractable_value: add distinction from yuma consensus",
+  "repo_ref": "https://github.com/e35ventura/taopedia-articles.git@5760119e85a479e1d4b3c951b61ada570f68a7a1",
+  "source_kind": "commit",
+  "source_ref": "https://github.com/e35ventura/taopedia-articles/commit/3f07765d2019dc6ffd6fe07fac662b2995948942",
+  "visibility": "visible",
+  "status": "live",
+  "objective_verification": true,
+  "expected_change_size": "small",
+  "difficulty": "medium",
+  "tags": [
+    "content",
+    "taopedia",
+    "content-addition",
+    "article-structure",
+    "content-scope"
+  ],
+  "notes": "Historical source commit: 3f07765d2019dc6ffd6fe07fac662b2995948942 | Original subject: improve mev_maximal_extractable_value: add distinction from yuma consensus (#9419)",
+  "retired_at": null,
+  "public_archive_path": null,
+  "public_archived_at": null,
+  "created_at": "2026-07-01T03:51:49.901681+00:00"
+}

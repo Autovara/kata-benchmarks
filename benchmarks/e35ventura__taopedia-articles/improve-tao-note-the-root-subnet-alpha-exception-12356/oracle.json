@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/tao/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/tao/index.mdx",
+      "text": "network token used across the whole network, while alpha tokens give ordinary subnets their own"
+    },
+    {
+      "path": "content/pages/tao/index.mdx",
+      "text": "token context under Dynamic TAO"
+    },
+    {
+      "path": "content/pages/tao/index.mdx",
+      "text": "The Root Subnet is the exception on the subnet side. Subnet Zero has no alpha currency, so root"
+    },
+    {
+      "path": "content/pages/tao/index.mdx",
+      "text": "staking stays TAO-denominated rather than adding a separate root alpha token"
+    },
+    {
+      "path": "content/pages/tao/index.mdx",
+      "text": "([Glossary: Root Subnet/Subnet Zero](https://docs.learnbittensor.org/resources/glossary#root-subnetsubnet-zero),"
+    },
+    {
+      "path": "content/pages/tao/index.mdx",
+      "text": "[Understanding Subnets](https://docs.learnbittensor.org/subnets/understanding-subnets))."
+    }
+  ],
+  "forbidden_contains": [
+    {
+      "path": "content/pages/tao/index.mdx",
+      "text": "network token used across the whole network, while alpha tokens give each subnet its own token"
+    },
+    {
+      "path": "content/pages/tao/index.mdx",
+      "text": "context under Dynamic TAO"
+    },
+    {
+      "path": "content/pages/tao/index.mdx",
+      "text": "- **Alpha tokens** \u2014 subnet-scoped assets local to each subnet."
+    }
+  ],
+  "required_regex": [],
+  "forbidden_regex": []
+}

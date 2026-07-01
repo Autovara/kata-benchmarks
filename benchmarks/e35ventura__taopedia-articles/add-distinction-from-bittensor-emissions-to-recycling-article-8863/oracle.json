@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "target_files": [
+    "content/pages/recycling/index.mdx"
+  ],
+  "required_contains": [
+    {
+      "path": "content/pages/recycling/index.mdx",
+      "text": "## Distinction from Bittensor Emissions"
+    },
+    {
+      "path": "content/pages/recycling/index.mdx",
+      "text": "Bittensor emissions and recycling move TAO in opposite directions. Emissions create new TAO and"
+    },
+    {
+      "path": "content/pages/recycling/index.mdx",
+      "text": "subnet alpha and route them into the reward system, while recycling removes TAO from current"
+    },
+    {
+      "path": "content/pages/recycling/index.mdx",
+      "text": "issuance and circulation so an equivalent amount can be emitted again later, such as the TAO"
+    },
+    {
+      "path": "content/pages/recycling/index.mdx",
+      "text": "consumed by a registration cost ([Emission](https://docs.learnbittensor.org/learn/emissions),"
+    },
+    {
+      "path": "content/pages/recycling/index.mdx",
+      "text": "[Glossary: Recycle](https://docs.learnbittensor.org/resources/glossary#recycle))."
+    }
+  ],
+  "forbidden_contains": [],
+  "required_regex": [],
+  "forbidden_regex": []
+}

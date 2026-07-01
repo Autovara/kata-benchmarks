@@ -82,21 +82,21 @@ For the current Taopedia lane:
 
 - `frontier.json` describes the public side
 - public task selection is `random_live`
-- `primary_task_count = 10`
+- `primary_task_count = 20`
 - `frontier.private.json` describes the private side
 - private holdout pool size is `10`
 
 So each duel uses:
 
-- `10` random public live tasks
+- `20` random public live tasks
 - `10` fixed live private holdout tasks
 
 Current promotion rule:
 
 - public side:
-  - candidate must score at least `king + 2`
+  - candidate must solve at least `2` more public tasks than king
 - private side:
-  - candidate must score at least `king`
+  - candidate must solve at least `1` more hidden task than king
 
 ## Workflow
 

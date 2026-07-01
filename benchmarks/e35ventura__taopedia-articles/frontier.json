@@ -12,7 +12,7 @@
       "holdout_task_count": 0,
       "holdout_eval_pack": "e35ventura__taopedia-articles",
       "holdout_is_private": true,
-      "promotion_margin_points": 30.0,
+      "promotion_margin_points": 10.0,
       "holdout_promotion_margin_points": 10.0,
       "evaluator_version": "2026-06-29.v1",
       "frontier_artifact_hash": "6993be2699d1ba1bb2c0c120aa3abf7e35749873777bee1d34beba380b2c706c",

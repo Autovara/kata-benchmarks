@@ -6,21 +6,21 @@
     "contributor": {
       "frontier_artifact": "kata://kings/e35ventura__taopedia-articles/contributor",
       "primary_tasks": [],
-      "primary_task_count": 10,
+      "primary_task_count": 0,
       "primary_selection": "random_live",
       "holdout_tasks": [],
-      "holdout_task_count": 10,
+      "holdout_task_count": 0,
       "holdout_eval_pack": "e35ventura__taopedia-articles",
       "holdout_is_private": true,
       "promotion_margin_points": 30.0,
       "holdout_promotion_margin_points": 10.0,
       "evaluator_version": "2026-06-29.v1",
       "frontier_artifact_hash": "6993be2699d1ba1bb2c0c120aa3abf7e35749873777bee1d34beba380b2c706c",
-      "primary_pool_fingerprint": "be65734ded4c8033674cd3572e4521cb8ce2cf479e1457ff60aa7b90277e52a6",
-      "holdout_pool_fingerprint": "3b8ea1401ba456b285f3e64d1c3ec7db9eda3b1363ff42d11b1691b80dec1f0f",
-      "frontier_updated_at": "2026-06-30T20:22:40+00:00",
-      "frontier_source": "kata-init-taopedia-v2"
+      "primary_pool_fingerprint": null,
+      "holdout_pool_fingerprint": null,
+      "frontier_updated_at": "2026-07-01T00:00:00+00:00",
+      "frontier_source": "kata-reset-empty-oracle-design"
     }
   },
-  "updated_at": "2026-06-30T20:22:40+00:00"
+  "updated_at": "2026-07-01T00:00:00+00:00"
 }

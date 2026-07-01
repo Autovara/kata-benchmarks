@@ -1,1 +1,0 @@
-content/pages/invalid_reveal_commit_hash_not_match/index.mdx

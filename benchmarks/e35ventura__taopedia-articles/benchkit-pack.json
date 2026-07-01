@@ -1,17 +1,10 @@
 {
   "schema_version": 1,
   "repo_pack": "e35ventura__taopedia-articles",
-  "target_visible_tasks": 10,
-  "target_holdout_tasks": 10,
-  "category_targets": {
-    "content": 20,
-    "taopedia": 20,
-    "content-fix": 14,
-    "content-addition": 6,
-    "article-structure": 2,
-    "source-quality": 1
-  },
+  "target_visible_tasks": 0,
+  "target_holdout_tasks": 0,
+  "category_targets": {},
   "similarity_threshold": 0.9,
   "max_scope_concentration": 0.75,
-  "notes": "Initial taopedia lane target: 10 public primary + 10 private holdout tasks from historical single-article changes."
+  "notes": "Reset after introducing oracle-backed benchmark verification. New public and private tasks should be generated from a clean environment."
 }

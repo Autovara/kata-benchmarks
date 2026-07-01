@@ -1,1 +1,0 @@
-content/pages/consensus_based_weights/index.mdx
